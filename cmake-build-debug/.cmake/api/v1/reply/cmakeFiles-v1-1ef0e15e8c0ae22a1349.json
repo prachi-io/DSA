@@ -147,6 +147,9 @@
 		},
 		{
 			"path" : "Hashing/unordered_set/CMakeLists.txt"
+		},
+		{
+			"path" : "Hashing/unordered_map/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
