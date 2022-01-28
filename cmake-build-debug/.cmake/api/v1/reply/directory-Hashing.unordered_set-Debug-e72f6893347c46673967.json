@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "D:/ClionProjects/DSA/Hashing/unordered_set/unordered_setOutput",
+		"source" : "Hashing/unordered_set"
+	}
+}
