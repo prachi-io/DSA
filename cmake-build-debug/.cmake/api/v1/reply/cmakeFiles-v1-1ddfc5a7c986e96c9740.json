@@ -153,6 +153,12 @@
 		},
 		{
 			"path" : "Hashing/CountDistinctElements/CMakeLists.txt"
+		},
+		{
+			"path" : "Hashing/FrequencyOfElements/CMakeLists.txt"
+		},
+		{
+			"path" : "Hashing/IntersectionOf2Arrays/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

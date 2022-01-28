@@ -10,7 +10,9 @@
 					[
 						1,
 						2,
-						3
+						3,
+						4,
+						5
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -32,7 +34,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						2
+						4
 					]
 				},
 				{
@@ -47,7 +49,7 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
-						1
+						3
 					]
 				},
 				{
@@ -64,6 +66,36 @@
 					[
 						0
 					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Hashing/FrequencyOfElements/FrequencyOfElementsOutput",
+					"jsonFile" : "directory-Hashing.FrequencyOfElements-Debug-7b0bebbeda30cf40f935.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hashing/FrequencyOfElements",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput",
+					"jsonFile" : "directory-Hashing.IntersectionOf2Arrays-Debug-bda706d80eccb1e3e232.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hashing/IntersectionOf2Arrays",
+					"targetIndexes" : 
+					[
+						2
+					]
 				}
 			],
 			"name" : "Debug",
@@ -75,14 +107,18 @@
 						0,
 						1,
 						2,
-						3
+						3,
+						4,
+						5
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
 					[
 						0,
 						1,
-						2
+						2,
+						3,
+						4
 					]
 				}
 			],
@@ -93,6 +129,20 @@
 					"id" : "CountDistinctElements::@a7e83002024fc3ed0eb8",
 					"jsonFile" : "target-CountDistinctElements-Debug-edd1a5d11911d2bfb94d.json",
 					"name" : "CountDistinctElements",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "FrequencyOfElements::@d37185dfcba18caf6c72",
+					"jsonFile" : "target-FrequencyOfElements-Debug-e5bfb8b60d515872edb0.json",
+					"name" : "FrequencyOfElements",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "IntersectionOf2Arrays::@a07c0b2cf5b7fbcb55c5",
+					"jsonFile" : "target-IntersectionOf2Arrays-Debug-9be109f8730f095d588b.json",
+					"name" : "IntersectionOf2Arrays",
 					"projectIndex" : 0
 				},
 				{

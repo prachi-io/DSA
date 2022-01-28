@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "D:/ClionProjects/DSA/Hashing/FrequencyOfElements/FrequencyOfElementsOutput",
+		"source" : "Hashing/FrequencyOfElements"
+	}
+}
