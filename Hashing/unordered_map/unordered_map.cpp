@@ -34,4 +34,6 @@ int main() {
     cout << m.size() << endl;
     m.erase(m.begin());
     cout << m.size() << endl;
+    m.erase(m.begin() , m.end());
+    cout << m.size() << endl;
 }

@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/unordered_set" "${PROJECT_SOURCE_DIR}/Hashing/unordered_set/unordered_setOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/unordered_map" "${PROJECT_SOURCE_DIR}/Hashing/unordered_map/unordered_mapOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/CountDistinctElements" "${PROJECT_SOURCE_DIR}/Hashing/CountDistinctElements/CountDistinctElementsOutput")

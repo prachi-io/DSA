@@ -150,6 +150,9 @@
 		},
 		{
 			"path" : "Hashing/unordered_map/CMakeLists.txt"
+		},
+		{
+			"path" : "Hashing/CountDistinctElements/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

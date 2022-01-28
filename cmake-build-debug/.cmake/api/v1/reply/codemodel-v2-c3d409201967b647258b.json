@@ -9,7 +9,8 @@
 					"childIndexes" : 
 					[
 						1,
-						2
+						2,
+						3
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -31,7 +32,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						1
+						2
 					]
 				},
 				{
@@ -46,6 +47,21 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
+						1
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Hashing/CountDistinctElements/CountDistinctElementsOutput",
+					"jsonFile" : "directory-Hashing.CountDistinctElements-Debug-418bd2a5a4d570562e79.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hashing/CountDistinctElements",
+					"targetIndexes" : 
+					[
 						0
 					]
 				}
@@ -58,18 +74,27 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
 			"targets" : 
 			[
+				{
+					"directoryIndex" : 3,
+					"id" : "CountDistinctElements::@a7e83002024fc3ed0eb8",
+					"jsonFile" : "target-CountDistinctElements-Debug-edd1a5d11911d2bfb94d.json",
+					"name" : "CountDistinctElements",
+					"projectIndex" : 0
+				},
 				{
 					"directoryIndex" : 2,
 					"id" : "unordered_map::@6b7c0b43f514d189c8b0",

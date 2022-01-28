@@ -1,11 +1,9 @@
 # ninja log v5
 2	538	6650844401773573	../Hashing/unordered_set/unordered_setOutput/CMakeFiles/unordered_set.dir/unordered_set.cpp.obj	aed5eab8a8120c90
 539	744	6650844403798590	../Hashing/unordered_set/unordered_setOutput/unordered_set.exe	b6defa63a778bf36
-0	651	6650856336187881	../Hashing/unordered_map/unordered_mapOutput/CMakeFiles/unordered_map.dir/unordered_map.cpp.obj	d57e3d8f6c1b809
-651	900	6650856338692996	../Hashing/unordered_map/unordered_mapOutput/unordered_map.exe	5b75c77c882711d7
-2	626	6650860960785916	../Hashing/unordered_map/unordered_mapOutput/CMakeFiles/unordered_map.dir/unordered_map.cpp.obj	d57e3d8f6c1b809
-626	819	6650860962670339	../Hashing/unordered_map/unordered_mapOutput/unordered_map.exe	5b75c77c882711d7
-2	589	6650864204390743	../Hashing/unordered_map/unordered_mapOutput/CMakeFiles/unordered_map.dir/unordered_map.cpp.obj	d57e3d8f6c1b809
-589	774	6650864206219287	../Hashing/unordered_map/unordered_mapOutput/unordered_map.exe	5b75c77c882711d7
-3	642	6650864593584585	../Hashing/unordered_map/unordered_mapOutput/CMakeFiles/unordered_map.dir/unordered_map.cpp.obj	d57e3d8f6c1b809
-643	859	6650864595761947	../Hashing/unordered_map/unordered_mapOutput/unordered_map.exe	5b75c77c882711d7
+2	555	6650925783638894	../Hashing/unordered_map/unordered_mapOutput/CMakeFiles/unordered_map.dir/unordered_map.cpp.obj	d57e3d8f6c1b809
+556	671	6650925784768382	../Hashing/unordered_map/unordered_mapOutput/unordered_map.exe	5b75c77c882711d7
+0	470	6650931433635341	../Hashing/CountDistinctElements/CountDistinctElementsOutput/CMakeFiles/CountDistinctElements.dir/CountDistinctElements.cpp.obj	98a3a37bf8cf7a03
+470	576	6650931434683452	../Hashing/CountDistinctElements/CountDistinctElementsOutput/CountDistinctElements.exe	44c99cda34c43c6f
+2	452	6650934397972556	../Hashing/CountDistinctElements/CountDistinctElementsOutput/CMakeFiles/CountDistinctElements.dir/CountDistinctElements.cpp.obj	98a3a37bf8cf7a03
+452	548	6650934398929759	../Hashing/CountDistinctElements/CountDistinctElementsOutput/CountDistinctElements.exe	44c99cda34c43c6f
