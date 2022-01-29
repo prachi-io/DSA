@@ -1,0 +1,109 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "D:/ClionProjects/DSA/Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput/PairWithGivenSumInUnsortedArray.exe"
+		},
+		{
+			"path" : "D:/ClionProjects/DSA/Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput/PairWithGivenSumInUnsortedArray.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable"
+		],
+		"files" : 
+		[
+			"Hashing/PairWithGivenSumInUnsortedArray/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 6,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				},
+				{
+					"fragment" : "-std=gnu++14"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "14"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "PairWithGivenSumInUnsortedArray::@2d8b6b1f6747fbc27ec5",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "PairWithGivenSumInUnsortedArray",
+	"nameOnDisk" : "PairWithGivenSumInUnsortedArray.exe",
+	"paths" : 
+	{
+		"build" : "D:/ClionProjects/DSA/Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput",
+		"source" : "Hashing/PairWithGivenSumInUnsortedArray"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArray.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

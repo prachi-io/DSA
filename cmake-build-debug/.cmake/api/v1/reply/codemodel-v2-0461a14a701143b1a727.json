@@ -13,7 +13,9 @@
 						3,
 						4,
 						5,
-						6
+						6,
+						7,
+						8
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -35,7 +37,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						5
+						7
 					]
 				},
 				{
@@ -50,7 +52,7 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
-						4
+						6
 					]
 				},
 				{
@@ -110,7 +112,37 @@
 					"source" : "Hashing/unionOf2SortedArrays",
 					"targetIndexes" : 
 					[
+						5
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput",
+					"jsonFile" : "directory-Hashing.PairWithGivenSumInUnsortedArray-Debug-f69a2c48220979c1055d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hashing/PairWithGivenSumInUnsortedArray",
+					"targetIndexes" : 
+					[
 						3
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Hashing/SubarrayWith0Sum/SubarrayWith0SumOutput",
+					"jsonFile" : "directory-Hashing.SubarrayWith0Sum-Debug-4ff2f85f856070fb9dc4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hashing/SubarrayWith0Sum",
+					"targetIndexes" : 
+					[
+						4
 					]
 				}
 			],
@@ -126,7 +158,9 @@
 						3,
 						4,
 						5,
-						6
+						6,
+						7,
+						8
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
@@ -136,7 +170,9 @@
 						2,
 						3,
 						4,
-						5
+						5,
+						6,
+						7
 					]
 				}
 			],
@@ -161,6 +197,20 @@
 					"id" : "IntersectionOf2Arrays::@a07c0b2cf5b7fbcb55c5",
 					"jsonFile" : "target-IntersectionOf2Arrays-Debug-9be109f8730f095d588b.json",
 					"name" : "IntersectionOf2Arrays",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "PairWithGivenSumInUnsortedArray::@2d8b6b1f6747fbc27ec5",
+					"jsonFile" : "target-PairWithGivenSumInUnsortedArray-Debug-6d781a95c73c0a3db511.json",
+					"name" : "PairWithGivenSumInUnsortedArray",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "SubarrayWith0Sum::@c97b58cf87405529847f",
+					"jsonFile" : "target-SubarrayWith0Sum-Debug-81344c8d9881405de464.json",
+					"name" : "SubarrayWith0Sum",
 					"projectIndex" : 0
 				},
 				{

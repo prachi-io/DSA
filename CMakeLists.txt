@@ -9,3 +9,5 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/CountDistinctElements" "${PROJEC
 add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/FrequencyOfElements" "${PROJECT_SOURCE_DIR}/Hashing/FrequencyOfElements/FrequencyOfElementsOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/IntersectionOf2Arrays" "${PROJECT_SOURCE_DIR}/Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/unionOf2SortedArrays" "${PROJECT_SOURCE_DIR}/Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/PairWithGivenSumInUnsortedArray" "${PROJECT_SOURCE_DIR}/Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/SubarrayWith0Sum" "${PROJECT_SOURCE_DIR}/Hashing/SubarrayWith0Sum/SubarrayWith0SumOutput")

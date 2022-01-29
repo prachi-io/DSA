@@ -162,6 +162,12 @@
 		},
 		{
 			"path" : "Hashing/unionOf2SortedArrays/CMakeLists.txt"
+		},
+		{
+			"path" : "Hashing/PairWithGivenSumInUnsortedArray/CMakeLists.txt"
+		},
+		{
+			"path" : "Hashing/SubarrayWith0Sum/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
