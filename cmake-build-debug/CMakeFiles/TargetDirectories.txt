@@ -15,3 +15,6 @@ D:/ClionProjects/DSA/Hashing/FrequencyOfElements/FrequencyOfElementsOutput/CMake
 D:/ClionProjects/DSA/Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/CMakeFiles/IntersectionOf2Arrays.dir
 D:/ClionProjects/DSA/Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/CMakeFiles/edit_cache.dir
 D:/ClionProjects/DSA/Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/DSA/Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/CMakeFiles/unionOf2SortedArrays.dir
+D:/ClionProjects/DSA/Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/CMakeFiles/edit_cache.dir
+D:/ClionProjects/DSA/Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/CMakeFiles/rebuild_cache.dir

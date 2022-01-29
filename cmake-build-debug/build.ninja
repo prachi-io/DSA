@@ -369,6 +369,67 @@ build ../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/CMakeFiles/re
 build ../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/rebuild_cache: phony ../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/CMakeFiles/rebuild_cache.util
 
 # =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/ClionProjects/DSA/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target unionOf2SortedArrays
+
+
+#############################################
+# Order-only phony target for unionOf2SortedArrays
+
+build cmake_object_order_depends_target_unionOf2SortedArrays: phony || ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/CMakeFiles/unionOf2SortedArrays.dir
+
+build ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/CMakeFiles/unionOf2SortedArrays.dir/unionOf2SortedArrays.cpp.obj: CXX_COMPILER__unionOf2SortedArrays_Debug D$:/ClionProjects/DSA/Hashing/unionOf2SortedArrays/unionOf2SortedArrays.cpp || cmake_object_order_depends_target_unionOf2SortedArrays
+  DEP_FILE = ..\Hashing\unionOf2SortedArrays\unionOf2SortedArraysOutput\CMakeFiles\unionOf2SortedArrays.dir\unionOf2SortedArrays.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = ..\Hashing\unionOf2SortedArrays\unionOf2SortedArraysOutput\CMakeFiles\unionOf2SortedArrays.dir
+  OBJECT_FILE_DIR = ..\Hashing\unionOf2SortedArrays\unionOf2SortedArraysOutput\CMakeFiles\unionOf2SortedArrays.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target unionOf2SortedArrays
+
+
+#############################################
+# Link the executable ..\Hashing\unionOf2SortedArrays\unionOf2SortedArraysOutput\unionOf2SortedArrays.exe
+
+build ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/unionOf2SortedArrays.exe: CXX_EXECUTABLE_LINKER__unionOf2SortedArrays_Debug ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/CMakeFiles/unionOf2SortedArrays.dir/unionOf2SortedArrays.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = ..\Hashing\unionOf2SortedArrays\unionOf2SortedArraysOutput\CMakeFiles\unionOf2SortedArrays.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ..\Hashing\unionOf2SortedArrays\unionOf2SortedArraysOutput\unionOf2SortedArrays.exe
+  TARGET_IMPLIB = ..\Hashing\unionOf2SortedArrays\unionOf2SortedArraysOutput\libunionOf2SortedArrays.dll.a
+  TARGET_PDB = unionOf2SortedArrays.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\Hashing\unionOf2SortedArrays\unionOf2SortedArraysOutput && D:\CLion\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/edit_cache: phony ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\Hashing\unionOf2SortedArrays\unionOf2SortedArraysOutput && D:\CLion\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SD:\ClionProjects\DSA -BD:\ClionProjects\DSA\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/rebuild_cache: phony ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
 # Target aliases.
 
 build CountDistinctElements: phony ../Hashing/CountDistinctElements/CountDistinctElementsOutput/CountDistinctElements.exe
@@ -382,6 +443,10 @@ build FrequencyOfElements.exe: phony ../Hashing/FrequencyOfElements/FrequencyOfE
 build IntersectionOf2Arrays: phony ../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/IntersectionOf2Arrays.exe
 
 build IntersectionOf2Arrays.exe: phony ../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/IntersectionOf2Arrays.exe
+
+build unionOf2SortedArrays: phony ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/unionOf2SortedArrays.exe
+
+build unionOf2SortedArrays.exe: phony ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/unionOf2SortedArrays.exe
 
 build unordered_map: phony ../Hashing/unordered_map/unordered_mapOutput/unordered_map.exe
 
@@ -418,6 +483,13 @@ build ../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/all: phony ..
 # =============================================================================
 
 #############################################
+# Folder: D:/ClionProjects/DSA/Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput
+
+build ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/all: phony ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/unionOf2SortedArrays.exe
+
+# =============================================================================
+
+#############################################
 # Folder: D:/ClionProjects/DSA/Hashing/unordered_map/unordered_mapOutput
 
 build ../Hashing/unordered_map/unordered_mapOutput/all: phony ../Hashing/unordered_map/unordered_mapOutput/unordered_map.exe
@@ -434,7 +506,7 @@ build ../Hashing/unordered_set/unordered_setOutput/all: phony ../Hashing/unorder
 #############################################
 # Folder: D:/ClionProjects/DSA/cmake-build-debug
 
-build all: phony ../Hashing/unordered_set/unordered_setOutput/all ../Hashing/unordered_map/unordered_mapOutput/all ../Hashing/CountDistinctElements/CountDistinctElementsOutput/all ../Hashing/FrequencyOfElements/FrequencyOfElementsOutput/all ../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/all
+build all: phony ../Hashing/unordered_set/unordered_setOutput/all ../Hashing/unordered_map/unordered_mapOutput/all ../Hashing/CountDistinctElements/CountDistinctElementsOutput/all ../Hashing/FrequencyOfElements/FrequencyOfElementsOutput/all ../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/all ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/all
 
 # =============================================================================
 # Built-in targets
@@ -443,14 +515,14 @@ build all: phony ../Hashing/unordered_set/unordered_setOutput/all ../Hashing/uno
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt ../Hashing/CountDistinctElements/CMakeLists.txt ../Hashing/FrequencyOfElements/CMakeLists.txt ../Hashing/IntersectionOf2Arrays/CMakeLists.txt ../Hashing/unordered_map/CMakeLists.txt ../Hashing/unordered_set/CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt ../Hashing/CountDistinctElements/CMakeLists.txt ../Hashing/FrequencyOfElements/CMakeLists.txt ../Hashing/IntersectionOf2Arrays/CMakeLists.txt ../Hashing/unionOf2SortedArrays/CMakeLists.txt ../Hashing/unordered_map/CMakeLists.txt ../Hashing/unordered_set/CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt ../Hashing/CountDistinctElements/CMakeLists.txt ../Hashing/FrequencyOfElements/CMakeLists.txt ../Hashing/IntersectionOf2Arrays/CMakeLists.txt ../Hashing/unordered_map/CMakeLists.txt ../Hashing/unordered_set/CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake: phony
+build ../CMakeLists.txt ../Hashing/CountDistinctElements/CMakeLists.txt ../Hashing/FrequencyOfElements/CMakeLists.txt ../Hashing/IntersectionOf2Arrays/CMakeLists.txt ../Hashing/unionOf2SortedArrays/CMakeLists.txt ../Hashing/unordered_map/CMakeLists.txt ../Hashing/unordered_set/CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake: phony
 
 
 #############################################

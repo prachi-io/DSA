@@ -771,7 +771,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "6"
+			"value" : "7"
 		},
 		{
 			"name" : "CMAKE_OBJCOPY",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/ClionProjects/DSA/Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput"
+			"value" : "D:/ClionProjects/DSA/Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput"
 		},
 		{
 			"name" : "DSA_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/ClionProjects/DSA/Hashing/IntersectionOf2Arrays"
+			"value" : "D:/ClionProjects/DSA/Hashing/unionOf2SortedArrays"
 		}
 	],
 	"kind" : "cache",

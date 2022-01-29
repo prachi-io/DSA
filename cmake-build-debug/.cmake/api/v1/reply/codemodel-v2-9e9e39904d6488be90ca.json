@@ -12,7 +12,8 @@
 						2,
 						3,
 						4,
-						5
+						5,
+						6
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -34,7 +35,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						4
+						5
 					]
 				},
 				{
@@ -49,7 +50,7 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
-						3
+						4
 					]
 				},
 				{
@@ -96,6 +97,21 @@
 					[
 						2
 					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput",
+					"jsonFile" : "directory-Hashing.unionOf2SortedArrays-Debug-cc23754b1fce22a0c44c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hashing/unionOf2SortedArrays",
+					"targetIndexes" : 
+					[
+						3
+					]
 				}
 			],
 			"name" : "Debug",
@@ -109,7 +125,8 @@
 						2,
 						3,
 						4,
-						5
+						5,
+						6
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
@@ -118,7 +135,8 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5
 					]
 				}
 			],
@@ -143,6 +161,13 @@
 					"id" : "IntersectionOf2Arrays::@a07c0b2cf5b7fbcb55c5",
 					"jsonFile" : "target-IntersectionOf2Arrays-Debug-9be109f8730f095d588b.json",
 					"name" : "IntersectionOf2Arrays",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "unionOf2SortedArrays::@5f8756387a6dc40e0641",
+					"jsonFile" : "target-unionOf2SortedArrays-Debug-98aed01c72d15a86cf88.json",
+					"name" : "unionOf2SortedArrays",
 					"projectIndex" : 0
 				},
 				{

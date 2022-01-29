@@ -8,3 +8,4 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/unordered_map" "${PROJECT_SOURCE
 add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/CountDistinctElements" "${PROJECT_SOURCE_DIR}/Hashing/CountDistinctElements/CountDistinctElementsOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/FrequencyOfElements" "${PROJECT_SOURCE_DIR}/Hashing/FrequencyOfElements/FrequencyOfElementsOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/IntersectionOf2Arrays" "${PROJECT_SOURCE_DIR}/Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/unionOf2SortedArrays" "${PROJECT_SOURCE_DIR}/Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput")

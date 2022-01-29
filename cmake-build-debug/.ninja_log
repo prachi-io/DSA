@@ -7,9 +7,8 @@
 445	534	6650949016483692	../Hashing/FrequencyOfElements/FrequencyOfElementsOutput/FrequencyOfElements.exe	c7dfbeb5599ee57d
 2	448	6650942403995477	../Hashing/CountDistinctElements/CountDistinctElementsOutput/CMakeFiles/CountDistinctElements.dir/CountDistinctElements.cpp.obj	98a3a37bf8cf7a03
 448	553	6650942405021763	../Hashing/CountDistinctElements/CountDistinctElementsOutput/CountDistinctElements.exe	44c99cda34c43c6f
-0	577	6650959112666238	../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/CMakeFiles/IntersectionOf2Arrays.dir/IntersectionOf2Arrays.cpp.obj	1d974b88e5724881
-577	707	6650959113931994	../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/IntersectionOf2Arrays.exe	3af98c0dd4c2e340
-2	565	6650959383978330	../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/CMakeFiles/IntersectionOf2Arrays.dir/IntersectionOf2Arrays.cpp.obj	1d974b88e5724881
-565	670	6650959384999916	../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/IntersectionOf2Arrays.exe	3af98c0dd4c2e340
-2	528	6650967563976801	../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/CMakeFiles/IntersectionOf2Arrays.dir/IntersectionOf2Arrays.cpp.obj	1d974b88e5724881
-528	636	6650967565025431	../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/IntersectionOf2Arrays.exe	3af98c0dd4c2e340
+1	328	6651009387574343	../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/CMakeFiles/IntersectionOf2Arrays.dir/IntersectionOf2Arrays.cpp.obj	1d974b88e5724881
+328	432	6651009388564395	../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/IntersectionOf2Arrays.exe	3af98c0dd4c2e340
+2	48	6651060759004097	../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/CMakeFiles/IntersectionOf2Arrays.dir/IntersectionOf2Arrays.cpp.obj	1d974b88e5724881
+0	425	6651070746665040	../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/CMakeFiles/unionOf2SortedArrays.dir/unionOf2SortedArrays.cpp.obj	dbcda303adde0a5f
+425	520	6651070747601150	../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/unionOf2SortedArrays.exe	683c4d6fc10fb77d

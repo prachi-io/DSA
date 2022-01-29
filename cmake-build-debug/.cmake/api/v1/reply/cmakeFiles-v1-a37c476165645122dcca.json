@@ -159,6 +159,9 @@
 		},
 		{
 			"path" : "Hashing/IntersectionOf2Arrays/CMakeLists.txt"
+		},
+		{
+			"path" : "Hashing/unionOf2SortedArrays/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
