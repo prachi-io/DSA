@@ -26,6 +26,7 @@ int main() {
 }*/
 
 // efficient solution
+/*
 #include<iostream>
 #include<unordered_set>
 using namespace std;;
@@ -51,4 +52,4 @@ int main() {
     }
     bool ans = subarray(arr , n);
     cout << ans;
-}
+}*/

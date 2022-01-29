@@ -15,7 +15,8 @@
 						5,
 						6,
 						7,
-						8
+						8,
+						9
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -37,7 +38,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						7
+						8
 					]
 				},
 				{
@@ -52,7 +53,7 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
-						6
+						7
 					]
 				},
 				{
@@ -112,7 +113,7 @@
 					"source" : "Hashing/unionOf2SortedArrays",
 					"targetIndexes" : 
 					[
-						5
+						6
 					]
 				},
 				{
@@ -144,6 +145,21 @@
 					[
 						4
 					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput",
+					"jsonFile" : "directory-Hashing.SubarrayWithGivenSum-Debug-5f5b5c13115bb72d0364.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hashing/SubarrayWithGivenSum",
+					"targetIndexes" : 
+					[
+						5
+					]
 				}
 			],
 			"name" : "Debug",
@@ -160,7 +176,8 @@
 						5,
 						6,
 						7,
-						8
+						8,
+						9
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
@@ -172,7 +189,8 @@
 						4,
 						5,
 						6,
-						7
+						7,
+						8
 					]
 				}
 			],
@@ -211,6 +229,13 @@
 					"id" : "SubarrayWith0Sum::@c97b58cf87405529847f",
 					"jsonFile" : "target-SubarrayWith0Sum-Debug-81344c8d9881405de464.json",
 					"name" : "SubarrayWith0Sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "SubarrayWithGivenSum::@84649fc278c00678e5e1",
+					"jsonFile" : "target-SubarrayWithGivenSum-Debug-49142f2261a1abbe8156.json",
+					"name" : "SubarrayWithGivenSum",
 					"projectIndex" : 0
 				},
 				{

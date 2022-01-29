@@ -168,6 +168,9 @@
 		},
 		{
 			"path" : "Hashing/SubarrayWith0Sum/CMakeLists.txt"
+		},
+		{
+			"path" : "Hashing/SubarrayWithGivenSum/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

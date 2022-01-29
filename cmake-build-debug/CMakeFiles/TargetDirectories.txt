@@ -24,3 +24,6 @@ D:/ClionProjects/DSA/Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInU
 D:/ClionProjects/DSA/Hashing/SubarrayWith0Sum/SubarrayWith0SumOutput/CMakeFiles/SubarrayWith0Sum.dir
 D:/ClionProjects/DSA/Hashing/SubarrayWith0Sum/SubarrayWith0SumOutput/CMakeFiles/edit_cache.dir
 D:/ClionProjects/DSA/Hashing/SubarrayWith0Sum/SubarrayWith0SumOutput/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/DSA/Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput/CMakeFiles/SubarrayWithGivenSum.dir
+D:/ClionProjects/DSA/Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput/CMakeFiles/edit_cache.dir
+D:/ClionProjects/DSA/Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput/CMakeFiles/rebuild_cache.dir

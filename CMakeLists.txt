@@ -11,3 +11,4 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/IntersectionOf2Arrays" "${PROJEC
 add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/unionOf2SortedArrays" "${PROJECT_SOURCE_DIR}/Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/PairWithGivenSumInUnsortedArray" "${PROJECT_SOURCE_DIR}/Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/SubarrayWith0Sum" "${PROJECT_SOURCE_DIR}/Hashing/SubarrayWith0Sum/SubarrayWith0SumOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/SubarrayWithGivenSum" "${PROJECT_SOURCE_DIR}/Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput")
