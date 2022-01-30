@@ -12,3 +12,5 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/unionOf2SortedArrays" "${PROJECT
 add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/PairWithGivenSumInUnsortedArray" "${PROJECT_SOURCE_DIR}/Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/SubarrayWith0Sum" "${PROJECT_SOURCE_DIR}/Hashing/SubarrayWith0Sum/SubarrayWith0SumOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/SubarrayWithGivenSum" "${PROJECT_SOURCE_DIR}/Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/String/IntroductionToString" "${PROJECT_SOURCE_DIR}/String/IntroductionToString/IntroductionToStringOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/String/PalindromeCheck" "${PROJECT_SOURCE_DIR}/String/PalindromeCheck/PalindromeCheckOutput")

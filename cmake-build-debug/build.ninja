@@ -613,6 +613,128 @@ build ../Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput/CMakeFiles/rebu
 build ../Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput/rebuild_cache: phony ../Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput/CMakeFiles/rebuild_cache.util
 
 # =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/ClionProjects/DSA/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target IntroductionToString
+
+
+#############################################
+# Order-only phony target for IntroductionToString
+
+build cmake_object_order_depends_target_IntroductionToString: phony || ../String/IntroductionToString/IntroductionToStringOutput/CMakeFiles/IntroductionToString.dir
+
+build ../String/IntroductionToString/IntroductionToStringOutput/CMakeFiles/IntroductionToString.dir/IntroductionToString.cpp.obj: CXX_COMPILER__IntroductionToString_Debug D$:/ClionProjects/DSA/String/IntroductionToString/IntroductionToString.cpp || cmake_object_order_depends_target_IntroductionToString
+  DEP_FILE = ..\String\IntroductionToString\IntroductionToStringOutput\CMakeFiles\IntroductionToString.dir\IntroductionToString.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = ..\String\IntroductionToString\IntroductionToStringOutput\CMakeFiles\IntroductionToString.dir
+  OBJECT_FILE_DIR = ..\String\IntroductionToString\IntroductionToStringOutput\CMakeFiles\IntroductionToString.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target IntroductionToString
+
+
+#############################################
+# Link the executable ..\String\IntroductionToString\IntroductionToStringOutput\IntroductionToString.exe
+
+build ../String/IntroductionToString/IntroductionToStringOutput/IntroductionToString.exe: CXX_EXECUTABLE_LINKER__IntroductionToString_Debug ../String/IntroductionToString/IntroductionToStringOutput/CMakeFiles/IntroductionToString.dir/IntroductionToString.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = ..\String\IntroductionToString\IntroductionToStringOutput\CMakeFiles\IntroductionToString.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ..\String\IntroductionToString\IntroductionToStringOutput\IntroductionToString.exe
+  TARGET_IMPLIB = ..\String\IntroductionToString\IntroductionToStringOutput\libIntroductionToString.dll.a
+  TARGET_PDB = IntroductionToString.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build ../String/IntroductionToString/IntroductionToStringOutput/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\String\IntroductionToString\IntroductionToStringOutput && D:\CLion\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build ../String/IntroductionToString/IntroductionToStringOutput/edit_cache: phony ../String/IntroductionToString/IntroductionToStringOutput/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build ../String/IntroductionToString/IntroductionToStringOutput/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\String\IntroductionToString\IntroductionToStringOutput && D:\CLion\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SD:\ClionProjects\DSA -BD:\ClionProjects\DSA\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build ../String/IntroductionToString/IntroductionToStringOutput/rebuild_cache: phony ../String/IntroductionToString/IntroductionToStringOutput/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/ClionProjects/DSA/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target PalindromeCheck
+
+
+#############################################
+# Order-only phony target for PalindromeCheck
+
+build cmake_object_order_depends_target_PalindromeCheck: phony || ../String/PalindromeCheck/PalindromeCheckOutput/CMakeFiles/PalindromeCheck.dir
+
+build ../String/PalindromeCheck/PalindromeCheckOutput/CMakeFiles/PalindromeCheck.dir/PalindromeCheck.cpp.obj: CXX_COMPILER__PalindromeCheck_Debug D$:/ClionProjects/DSA/String/PalindromeCheck/PalindromeCheck.cpp || cmake_object_order_depends_target_PalindromeCheck
+  DEP_FILE = ..\String\PalindromeCheck\PalindromeCheckOutput\CMakeFiles\PalindromeCheck.dir\PalindromeCheck.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = ..\String\PalindromeCheck\PalindromeCheckOutput\CMakeFiles\PalindromeCheck.dir
+  OBJECT_FILE_DIR = ..\String\PalindromeCheck\PalindromeCheckOutput\CMakeFiles\PalindromeCheck.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target PalindromeCheck
+
+
+#############################################
+# Link the executable ..\String\PalindromeCheck\PalindromeCheckOutput\PalindromeCheck.exe
+
+build ../String/PalindromeCheck/PalindromeCheckOutput/PalindromeCheck.exe: CXX_EXECUTABLE_LINKER__PalindromeCheck_Debug ../String/PalindromeCheck/PalindromeCheckOutput/CMakeFiles/PalindromeCheck.dir/PalindromeCheck.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = ..\String\PalindromeCheck\PalindromeCheckOutput\CMakeFiles\PalindromeCheck.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ..\String\PalindromeCheck\PalindromeCheckOutput\PalindromeCheck.exe
+  TARGET_IMPLIB = ..\String\PalindromeCheck\PalindromeCheckOutput\libPalindromeCheck.dll.a
+  TARGET_PDB = PalindromeCheck.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build ../String/PalindromeCheck/PalindromeCheckOutput/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\String\PalindromeCheck\PalindromeCheckOutput && D:\CLion\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build ../String/PalindromeCheck/PalindromeCheckOutput/edit_cache: phony ../String/PalindromeCheck/PalindromeCheckOutput/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build ../String/PalindromeCheck/PalindromeCheckOutput/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\String\PalindromeCheck\PalindromeCheckOutput && D:\CLion\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SD:\ClionProjects\DSA -BD:\ClionProjects\DSA\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build ../String/PalindromeCheck/PalindromeCheckOutput/rebuild_cache: phony ../String/PalindromeCheck/PalindromeCheckOutput/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
 # Target aliases.
 
 build CountDistinctElements: phony ../Hashing/CountDistinctElements/CountDistinctElementsOutput/CountDistinctElements.exe
@@ -627,9 +749,17 @@ build IntersectionOf2Arrays: phony ../Hashing/IntersectionOf2Arrays/Intersection
 
 build IntersectionOf2Arrays.exe: phony ../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/IntersectionOf2Arrays.exe
 
+build IntroductionToString: phony ../String/IntroductionToString/IntroductionToStringOutput/IntroductionToString.exe
+
+build IntroductionToString.exe: phony ../String/IntroductionToString/IntroductionToStringOutput/IntroductionToString.exe
+
 build PairWithGivenSumInUnsortedArray: phony ../Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput/PairWithGivenSumInUnsortedArray.exe
 
 build PairWithGivenSumInUnsortedArray.exe: phony ../Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput/PairWithGivenSumInUnsortedArray.exe
+
+build PalindromeCheck: phony ../String/PalindromeCheck/PalindromeCheckOutput/PalindromeCheck.exe
+
+build PalindromeCheck.exe: phony ../String/PalindromeCheck/PalindromeCheckOutput/PalindromeCheck.exe
 
 build SubarrayWith0Sum: phony ../Hashing/SubarrayWith0Sum/SubarrayWith0SumOutput/SubarrayWith0Sum.exe
 
@@ -720,9 +850,23 @@ build ../Hashing/unordered_set/unordered_setOutput/all: phony ../Hashing/unorder
 # =============================================================================
 
 #############################################
+# Folder: D:/ClionProjects/DSA/String/IntroductionToString/IntroductionToStringOutput
+
+build ../String/IntroductionToString/IntroductionToStringOutput/all: phony ../String/IntroductionToString/IntroductionToStringOutput/IntroductionToString.exe
+
+# =============================================================================
+
+#############################################
+# Folder: D:/ClionProjects/DSA/String/PalindromeCheck/PalindromeCheckOutput
+
+build ../String/PalindromeCheck/PalindromeCheckOutput/all: phony ../String/PalindromeCheck/PalindromeCheckOutput/PalindromeCheck.exe
+
+# =============================================================================
+
+#############################################
 # Folder: D:/ClionProjects/DSA/cmake-build-debug
 
-build all: phony ../Hashing/unordered_set/unordered_setOutput/all ../Hashing/unordered_map/unordered_mapOutput/all ../Hashing/CountDistinctElements/CountDistinctElementsOutput/all ../Hashing/FrequencyOfElements/FrequencyOfElementsOutput/all ../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/all ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/all ../Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput/all ../Hashing/SubarrayWith0Sum/SubarrayWith0SumOutput/all ../Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput/all
+build all: phony ../Hashing/unordered_set/unordered_setOutput/all ../Hashing/unordered_map/unordered_mapOutput/all ../Hashing/CountDistinctElements/CountDistinctElementsOutput/all ../Hashing/FrequencyOfElements/FrequencyOfElementsOutput/all ../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/all ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/all ../Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput/all ../Hashing/SubarrayWith0Sum/SubarrayWith0SumOutput/all ../Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput/all ../String/IntroductionToString/IntroductionToStringOutput/all ../String/PalindromeCheck/PalindromeCheckOutput/all
 
 # =============================================================================
 # Built-in targets
@@ -731,14 +875,14 @@ build all: phony ../Hashing/unordered_set/unordered_setOutput/all ../Hashing/uno
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt ../Hashing/CountDistinctElements/CMakeLists.txt ../Hashing/FrequencyOfElements/CMakeLists.txt ../Hashing/IntersectionOf2Arrays/CMakeLists.txt ../Hashing/PairWithGivenSumInUnsortedArray/CMakeLists.txt ../Hashing/SubarrayWith0Sum/CMakeLists.txt ../Hashing/SubarrayWithGivenSum/CMakeLists.txt ../Hashing/unionOf2SortedArrays/CMakeLists.txt ../Hashing/unordered_map/CMakeLists.txt ../Hashing/unordered_set/CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt ../Hashing/CountDistinctElements/CMakeLists.txt ../Hashing/FrequencyOfElements/CMakeLists.txt ../Hashing/IntersectionOf2Arrays/CMakeLists.txt ../Hashing/PairWithGivenSumInUnsortedArray/CMakeLists.txt ../Hashing/SubarrayWith0Sum/CMakeLists.txt ../Hashing/SubarrayWithGivenSum/CMakeLists.txt ../Hashing/unionOf2SortedArrays/CMakeLists.txt ../Hashing/unordered_map/CMakeLists.txt ../Hashing/unordered_set/CMakeLists.txt ../String/IntroductionToString/CMakeLists.txt ../String/PalindromeCheck/CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt ../Hashing/CountDistinctElements/CMakeLists.txt ../Hashing/FrequencyOfElements/CMakeLists.txt ../Hashing/IntersectionOf2Arrays/CMakeLists.txt ../Hashing/PairWithGivenSumInUnsortedArray/CMakeLists.txt ../Hashing/SubarrayWith0Sum/CMakeLists.txt ../Hashing/SubarrayWithGivenSum/CMakeLists.txt ../Hashing/unionOf2SortedArrays/CMakeLists.txt ../Hashing/unordered_map/CMakeLists.txt ../Hashing/unordered_set/CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake: phony
+build ../CMakeLists.txt ../Hashing/CountDistinctElements/CMakeLists.txt ../Hashing/FrequencyOfElements/CMakeLists.txt ../Hashing/IntersectionOf2Arrays/CMakeLists.txt ../Hashing/PairWithGivenSumInUnsortedArray/CMakeLists.txt ../Hashing/SubarrayWith0Sum/CMakeLists.txt ../Hashing/SubarrayWithGivenSum/CMakeLists.txt ../Hashing/unionOf2SortedArrays/CMakeLists.txt ../Hashing/unordered_map/CMakeLists.txt ../Hashing/unordered_set/CMakeLists.txt ../String/IntroductionToString/CMakeLists.txt ../String/PalindromeCheck/CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake: phony
 
 
 #############################################

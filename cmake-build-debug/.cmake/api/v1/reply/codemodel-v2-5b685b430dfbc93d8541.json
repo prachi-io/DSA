@@ -16,7 +16,9 @@
 						6,
 						7,
 						8,
-						9
+						9,
+						10,
+						11
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -38,7 +40,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						8
+						10
 					]
 				},
 				{
@@ -53,7 +55,7 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
-						7
+						9
 					]
 				},
 				{
@@ -113,7 +115,7 @@
 					"source" : "Hashing/unionOf2SortedArrays",
 					"targetIndexes" : 
 					[
-						6
+						8
 					]
 				},
 				{
@@ -128,7 +130,7 @@
 					"source" : "Hashing/PairWithGivenSumInUnsortedArray",
 					"targetIndexes" : 
 					[
-						3
+						4
 					]
 				},
 				{
@@ -143,7 +145,7 @@
 					"source" : "Hashing/SubarrayWith0Sum",
 					"targetIndexes" : 
 					[
-						4
+						6
 					]
 				},
 				{
@@ -156,6 +158,36 @@
 					"parentIndex" : 0,
 					"projectIndex" : 0,
 					"source" : "Hashing/SubarrayWithGivenSum",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/String/IntroductionToString/IntroductionToStringOutput",
+					"jsonFile" : "directory-String.IntroductionToString-Debug-2bd9cff6c1d1b8adfbf5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "String/IntroductionToString",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/String/PalindromeCheck/PalindromeCheckOutput",
+					"jsonFile" : "directory-String.PalindromeCheck-Debug-ea15b74245c57bb1e443.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "String/PalindromeCheck",
 					"targetIndexes" : 
 					[
 						5
@@ -177,7 +209,9 @@
 						6,
 						7,
 						8,
-						9
+						9,
+						10,
+						11
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
@@ -190,7 +224,9 @@
 						5,
 						6,
 						7,
-						8
+						8,
+						9,
+						10
 					]
 				}
 			],
@@ -218,10 +254,24 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 10,
+					"id" : "IntroductionToString::@fc45c2dd5e195f4bbdc5",
+					"jsonFile" : "target-IntroductionToString-Debug-d0f9edec9ac94443597e.json",
+					"name" : "IntroductionToString",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 7,
 					"id" : "PairWithGivenSumInUnsortedArray::@2d8b6b1f6747fbc27ec5",
 					"jsonFile" : "target-PairWithGivenSumInUnsortedArray-Debug-6d781a95c73c0a3db511.json",
 					"name" : "PairWithGivenSumInUnsortedArray",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "PalindromeCheck::@6258287a2317963b5720",
+					"jsonFile" : "target-PalindromeCheck-Debug-9157e5a1ce131faa467e.json",
+					"name" : "PalindromeCheck",
 					"projectIndex" : 0
 				},
 				{

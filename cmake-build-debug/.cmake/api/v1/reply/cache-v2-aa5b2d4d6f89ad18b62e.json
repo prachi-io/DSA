@@ -771,7 +771,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "10"
+			"value" : "12"
 		},
 		{
 			"name" : "CMAKE_OBJCOPY",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/ClionProjects/DSA/Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput"
+			"value" : "D:/ClionProjects/DSA/String/PalindromeCheck/PalindromeCheckOutput"
 		},
 		{
 			"name" : "DSA_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/ClionProjects/DSA/Hashing/SubarrayWithGivenSum"
+			"value" : "D:/ClionProjects/DSA/String/PalindromeCheck"
 		}
 	],
 	"kind" : "cache",

@@ -171,6 +171,12 @@
 		},
 		{
 			"path" : "Hashing/SubarrayWithGivenSum/CMakeLists.txt"
+		},
+		{
+			"path" : "String/IntroductionToString/CMakeLists.txt"
+		},
+		{
+			"path" : "String/PalindromeCheck/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

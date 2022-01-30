@@ -27,3 +27,9 @@ D:/ClionProjects/DSA/Hashing/SubarrayWith0Sum/SubarrayWith0SumOutput/CMakeFiles/
 D:/ClionProjects/DSA/Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput/CMakeFiles/SubarrayWithGivenSum.dir
 D:/ClionProjects/DSA/Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput/CMakeFiles/edit_cache.dir
 D:/ClionProjects/DSA/Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/DSA/String/IntroductionToString/IntroductionToStringOutput/CMakeFiles/IntroductionToString.dir
+D:/ClionProjects/DSA/String/IntroductionToString/IntroductionToStringOutput/CMakeFiles/edit_cache.dir
+D:/ClionProjects/DSA/String/IntroductionToString/IntroductionToStringOutput/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/DSA/String/PalindromeCheck/PalindromeCheckOutput/CMakeFiles/PalindromeCheck.dir
+D:/ClionProjects/DSA/String/PalindromeCheck/PalindromeCheckOutput/CMakeFiles/edit_cache.dir
+D:/ClionProjects/DSA/String/PalindromeCheck/PalindromeCheckOutput/CMakeFiles/rebuild_cache.dir
