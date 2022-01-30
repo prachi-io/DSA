@@ -771,7 +771,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "12"
+			"value" : "15"
 		},
 		{
 			"name" : "CMAKE_OBJCOPY",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/ClionProjects/DSA/String/PalindromeCheck/PalindromeCheckOutput"
+			"value" : "D:/ClionProjects/DSA/String/LeftmostRepeatingCharacter/LeftmostRepeatingCharacterOutput"
 		},
 		{
 			"name" : "DSA_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/ClionProjects/DSA/String/PalindromeCheck"
+			"value" : "D:/ClionProjects/DSA/String/LeftmostRepeatingCharacter"
 		}
 	],
 	"kind" : "cache",

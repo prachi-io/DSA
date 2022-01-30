@@ -14,3 +14,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/SubarrayWith0Sum" "${PROJECT_SOU
 add_subdirectory("${PROJECT_SOURCE_DIR}/Hashing/SubarrayWithGivenSum" "${PROJECT_SOURCE_DIR}/Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/String/IntroductionToString" "${PROJECT_SOURCE_DIR}/String/IntroductionToString/IntroductionToStringOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/String/PalindromeCheck" "${PROJECT_SOURCE_DIR}/String/PalindromeCheck/PalindromeCheckOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/String/StringIsSubsequenceOfOther" "${PROJECT_SOURCE_DIR}/String/StringIsSubsequenceOfOther/StringIsSubsequenceOfOtherOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/String/CheckAnagram" "${PROJECT_SOURCE_DIR}/String/CheckAnagram/CheckAnagramOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/String/LeftmostRepeatingCharacter" "${PROJECT_SOURCE_DIR}/String/LeftmostRepeatingCharacter/LeftmostRepeatingCharacterOutput")

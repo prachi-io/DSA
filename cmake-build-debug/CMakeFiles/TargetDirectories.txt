@@ -33,3 +33,12 @@ D:/ClionProjects/DSA/String/IntroductionToString/IntroductionToStringOutput/CMak
 D:/ClionProjects/DSA/String/PalindromeCheck/PalindromeCheckOutput/CMakeFiles/PalindromeCheck.dir
 D:/ClionProjects/DSA/String/PalindromeCheck/PalindromeCheckOutput/CMakeFiles/edit_cache.dir
 D:/ClionProjects/DSA/String/PalindromeCheck/PalindromeCheckOutput/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/DSA/String/StringIsSubsequenceOfOther/StringIsSubsequenceOfOtherOutput/CMakeFiles/StringIsSubsequenceOfOther.dir
+D:/ClionProjects/DSA/String/StringIsSubsequenceOfOther/StringIsSubsequenceOfOtherOutput/CMakeFiles/edit_cache.dir
+D:/ClionProjects/DSA/String/StringIsSubsequenceOfOther/StringIsSubsequenceOfOtherOutput/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/DSA/String/CheckAnagram/CheckAnagramOutput/CMakeFiles/edit_cache.dir
+D:/ClionProjects/DSA/String/CheckAnagram/CheckAnagramOutput/CMakeFiles/CheckAnagram.dir
+D:/ClionProjects/DSA/String/CheckAnagram/CheckAnagramOutput/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/DSA/String/LeftmostRepeatingCharacter/LeftmostRepeatingCharacterOutput/CMakeFiles/LeftmostRepeatingCharacter.dir
+D:/ClionProjects/DSA/String/LeftmostRepeatingCharacter/LeftmostRepeatingCharacterOutput/CMakeFiles/edit_cache.dir
+D:/ClionProjects/DSA/String/LeftmostRepeatingCharacter/LeftmostRepeatingCharacterOutput/CMakeFiles/rebuild_cache.dir

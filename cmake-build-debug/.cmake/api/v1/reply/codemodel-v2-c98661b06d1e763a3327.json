@@ -18,7 +18,10 @@
 						8,
 						9,
 						10,
-						11
+						11,
+						12,
+						13,
+						14
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -40,7 +43,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						10
+						13
 					]
 				},
 				{
@@ -55,7 +58,7 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
-						9
+						12
 					]
 				},
 				{
@@ -70,7 +73,7 @@
 					"source" : "Hashing/CountDistinctElements",
 					"targetIndexes" : 
 					[
-						0
+						1
 					]
 				},
 				{
@@ -85,7 +88,7 @@
 					"source" : "Hashing/FrequencyOfElements",
 					"targetIndexes" : 
 					[
-						1
+						2
 					]
 				},
 				{
@@ -100,7 +103,7 @@
 					"source" : "Hashing/IntersectionOf2Arrays",
 					"targetIndexes" : 
 					[
-						2
+						3
 					]
 				},
 				{
@@ -115,7 +118,7 @@
 					"source" : "Hashing/unionOf2SortedArrays",
 					"targetIndexes" : 
 					[
-						8
+						11
 					]
 				},
 				{
@@ -130,7 +133,7 @@
 					"source" : "Hashing/PairWithGivenSumInUnsortedArray",
 					"targetIndexes" : 
 					[
-						4
+						6
 					]
 				},
 				{
@@ -145,7 +148,7 @@
 					"source" : "Hashing/SubarrayWith0Sum",
 					"targetIndexes" : 
 					[
-						6
+						9
 					]
 				},
 				{
@@ -160,7 +163,7 @@
 					"source" : "Hashing/SubarrayWithGivenSum",
 					"targetIndexes" : 
 					[
-						7
+						10
 					]
 				},
 				{
@@ -175,7 +178,7 @@
 					"source" : "String/IntroductionToString",
 					"targetIndexes" : 
 					[
-						3
+						4
 					]
 				},
 				{
@@ -188,6 +191,51 @@
 					"parentIndex" : 0,
 					"projectIndex" : 0,
 					"source" : "String/PalindromeCheck",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/String/StringIsSubsequenceOfOther/StringIsSubsequenceOfOtherOutput",
+					"jsonFile" : "directory-String.StringIsSubsequenceOfOther-Debug-b10eff2c121ea3dc2261.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "String/StringIsSubsequenceOfOther",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/String/CheckAnagram/CheckAnagramOutput",
+					"jsonFile" : "directory-String.CheckAnagram-Debug-58e2d48df1c448ebb31e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "String/CheckAnagram",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/String/LeftmostRepeatingCharacter/LeftmostRepeatingCharacterOutput",
+					"jsonFile" : "directory-String.LeftmostRepeatingCharacter-Debug-e7d59a3b097b79562055.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "String/LeftmostRepeatingCharacter",
 					"targetIndexes" : 
 					[
 						5
@@ -211,7 +259,10 @@
 						8,
 						9,
 						10,
-						11
+						11,
+						12,
+						13,
+						14
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
@@ -226,12 +277,22 @@
 						7,
 						8,
 						9,
-						10
+						10,
+						11,
+						12,
+						13
 					]
 				}
 			],
 			"targets" : 
 			[
+				{
+					"directoryIndex" : 13,
+					"id" : "CheckAnagram::@8d392590aabceeae9bcb",
+					"jsonFile" : "target-CheckAnagram-Debug-21a4ca0d6389d106d946.json",
+					"name" : "CheckAnagram",
+					"projectIndex" : 0
+				},
 				{
 					"directoryIndex" : 3,
 					"id" : "CountDistinctElements::@a7e83002024fc3ed0eb8",
@@ -261,6 +322,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 14,
+					"id" : "LeftmostRepeatingCharacter::@b4cac2c168b0925fc981",
+					"jsonFile" : "target-LeftmostRepeatingCharacter-Debug-4c65cc82280ffd1010d9.json",
+					"name" : "LeftmostRepeatingCharacter",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 7,
 					"id" : "PairWithGivenSumInUnsortedArray::@2d8b6b1f6747fbc27ec5",
 					"jsonFile" : "target-PairWithGivenSumInUnsortedArray-Debug-6d781a95c73c0a3db511.json",
@@ -272,6 +340,13 @@
 					"id" : "PalindromeCheck::@6258287a2317963b5720",
 					"jsonFile" : "target-PalindromeCheck-Debug-9157e5a1ce131faa467e.json",
 					"name" : "PalindromeCheck",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "StringIsSubsequenceOfOther::@bba2bb81eeb7189f5134",
+					"jsonFile" : "target-StringIsSubsequenceOfOther-Debug-d9f943a504ce9453a609.json",
+					"name" : "StringIsSubsequenceOfOther",
 					"projectIndex" : 0
 				},
 				{

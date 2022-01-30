@@ -177,6 +177,15 @@
 		},
 		{
 			"path" : "String/PalindromeCheck/CMakeLists.txt"
+		},
+		{
+			"path" : "String/StringIsSubsequenceOfOther/CMakeLists.txt"
+		},
+		{
+			"path" : "String/CheckAnagram/CMakeLists.txt"
+		},
+		{
+			"path" : "String/LeftmostRepeatingCharacter/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
