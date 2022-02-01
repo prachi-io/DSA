@@ -23,4 +23,4 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/RecursiveTraversalLL" "${PROJ
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/InsertAtBegin" "${PROJECT_SOURCE_DIR}/LinkedList/InsertAtBegin/InsertAtBeginOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/InsertAtEnd" "${PROJECT_SOURCE_DIR}/LinkedList/InsertAtEnd/InsertAtEndOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/DeleteFirstNode" "${PROJECT_SOURCE_DIR}/LinkedList/DeleteFirstNode/DeleteFirstNodeOutput")
-#add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/DeleteLastNode" "${PROJECT_SOURCE_DIR}/LinkedList/DeleteLastNode/DeleteLastNodeOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/DeleteLastNode" "${PROJECT_SOURCE_DIR}/LinkedList/DeleteLastNode/DeleteLastNodeOutput")
