@@ -771,7 +771,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "22"
+			"value" : "30"
 		},
 		{
 			"name" : "CMAKE_OBJCOPY",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/ClionProjects/DSA/LinkedList/DeleteLastNode/DeleteLastNodeOutput"
+			"value" : "D:/ClionProjects/DSA/LinkedList/DeleteLastDDL/DeleteLastDDLOutput"
 		},
 		{
 			"name" : "DSA_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/ClionProjects/DSA/LinkedList/DeleteLastNode"
+			"value" : "D:/ClionProjects/DSA/LinkedList/DeleteLastDDL"
 		}
 	],
 	"kind" : "cache",
