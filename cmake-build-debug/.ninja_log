@@ -31,3 +31,7 @@
 1	289	6653949004247956	../LinkedList/TraversingLL/TraversingLLOutput/CMakeFiles/TraversingLL.dir/TraversingLL.cpp.obj	3320c0fd1520e9c4
 270	380	6653992277214032	../LinkedList/InsertAtEnd/InsertAtEndOutput/InsertAtEnd.exe	d050ed078d3ec153
 254	394	6653992616098315	../LinkedList/DeleteFirstNode/DeleteFirstNodeOutput/DeleteFirstNode.exe	cb0317c49ff0048d
+2	280	6654013247511187	../LinkedList/DeleteFirstNode/DeleteFirstNodeOutput/CMakeFiles/DeleteFirstNode.dir/DeleteFirstNode.cpp.obj	270fdf3b8ed614eb
+280	414	6654013248823750	../LinkedList/DeleteFirstNode/DeleteFirstNodeOutput/DeleteFirstNode.exe	cb0317c49ff0048d
+0	256	6654013394338745	../LinkedList/DeleteLastNode/DeleteLastNodeOutput/CMakeFiles/DeleteLastNode.dir/DeleteLastNode.cpp.obj	81715ee025de5b35
+256	361	6654013395347832	../LinkedList/DeleteLastNode/DeleteLastNodeOutput/DeleteLastNode.exe	e5ea5ad83fda5768
