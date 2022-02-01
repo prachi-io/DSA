@@ -21,7 +21,13 @@
 						11,
 						12,
 						13,
-						14
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -43,7 +49,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						13
+						19
 					]
 				},
 				{
@@ -58,7 +64,7 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
-						12
+						18
 					]
 				},
 				{
@@ -88,7 +94,7 @@
 					"source" : "Hashing/FrequencyOfElements",
 					"targetIndexes" : 
 					[
-						2
+						3
 					]
 				},
 				{
@@ -103,7 +109,7 @@
 					"source" : "Hashing/IntersectionOf2Arrays",
 					"targetIndexes" : 
 					[
-						3
+						6
 					]
 				},
 				{
@@ -118,7 +124,7 @@
 					"source" : "Hashing/unionOf2SortedArrays",
 					"targetIndexes" : 
 					[
-						11
+						17
 					]
 				},
 				{
@@ -133,7 +139,7 @@
 					"source" : "Hashing/PairWithGivenSumInUnsortedArray",
 					"targetIndexes" : 
 					[
-						6
+						10
 					]
 				},
 				{
@@ -148,7 +154,7 @@
 					"source" : "Hashing/SubarrayWith0Sum",
 					"targetIndexes" : 
 					[
-						9
+						14
 					]
 				},
 				{
@@ -163,7 +169,7 @@
 					"source" : "Hashing/SubarrayWithGivenSum",
 					"targetIndexes" : 
 					[
-						10
+						15
 					]
 				},
 				{
@@ -178,7 +184,7 @@
 					"source" : "String/IntroductionToString",
 					"targetIndexes" : 
 					[
-						4
+						7
 					]
 				},
 				{
@@ -193,7 +199,7 @@
 					"source" : "String/PalindromeCheck",
 					"targetIndexes" : 
 					[
-						7
+						11
 					]
 				},
 				{
@@ -208,7 +214,7 @@
 					"source" : "String/StringIsSubsequenceOfOther",
 					"targetIndexes" : 
 					[
-						8
+						13
 					]
 				},
 				{
@@ -238,7 +244,97 @@
 					"source" : "String/LeftmostRepeatingCharacter",
 					"targetIndexes" : 
 					[
+						9
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/LLImplement/LLImplementatOutput",
+					"jsonFile" : "directory-LinkedList.LLImplement-Debug-90eae84b5b3047d35970.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/LLImplement",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/TraversingLL/TraversingLLOutput",
+					"jsonFile" : "directory-LinkedList.TraversingLL-Debug-24d9171746e566271428.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/TraversingLL",
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/RecursiveTraversalLL/RecursiveTraversalLLOutput",
+					"jsonFile" : "directory-LinkedList.RecursiveTraversalLL-Debug-a5bce8d1c300f4f1e718.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/RecursiveTraversalLL",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/InsertAtBegin/InsertAtBeginOutput",
+					"jsonFile" : "directory-LinkedList.InsertAtBegin-Debug-d675f16ccb1fdbc93c15.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/InsertAtBegin",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/InsertAtEnd/InsertAtEndOutput",
+					"jsonFile" : "directory-LinkedList.InsertAtEnd-Debug-63aa14e2ba8769f44991.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/InsertAtEnd",
+					"targetIndexes" : 
+					[
 						5
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/DeleteFirstNode/DeleteFirstNodeOutput",
+					"jsonFile" : "directory-LinkedList.DeleteFirstNode-Debug-c0f51aba8cbdb6b99f6e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/DeleteFirstNode",
+					"targetIndexes" : 
+					[
+						2
 					]
 				}
 			],
@@ -262,7 +358,13 @@
 						11,
 						12,
 						13,
-						14
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
@@ -280,7 +382,13 @@
 						10,
 						11,
 						12,
-						13
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19
 					]
 				}
 			],
@@ -301,10 +409,31 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 20,
+					"id" : "DeleteFirstNode::@2996f39f25096cfb3667",
+					"jsonFile" : "target-DeleteFirstNode-Debug-a73dd860792e2f6f27d6.json",
+					"name" : "DeleteFirstNode",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 4,
 					"id" : "FrequencyOfElements::@d37185dfcba18caf6c72",
 					"jsonFile" : "target-FrequencyOfElements-Debug-e5bfb8b60d515872edb0.json",
 					"name" : "FrequencyOfElements",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "InsertAtBegin::@bbffc77975fff0d46fd0",
+					"jsonFile" : "target-InsertAtBegin-Debug-9a7c20726c1b20fa3fe6.json",
+					"name" : "InsertAtBegin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "InsertAtEnd::@8d08078b3271e6998cf3",
+					"jsonFile" : "target-InsertAtEnd-Debug-44782a24b878fd22f3bc.json",
+					"name" : "InsertAtEnd",
 					"projectIndex" : 0
 				},
 				{
@@ -319,6 +448,13 @@
 					"id" : "IntroductionToString::@fc45c2dd5e195f4bbdc5",
 					"jsonFile" : "target-IntroductionToString-Debug-d0f9edec9ac94443597e.json",
 					"name" : "IntroductionToString",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "LLImplement::@5009e1c745ca248fb69f",
+					"jsonFile" : "target-LLImplement-Debug-dd378bc3aaa401658beb.json",
+					"name" : "LLImplement",
 					"projectIndex" : 0
 				},
 				{
@@ -343,6 +479,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 17,
+					"id" : "RecursiveTraversalLL::@82a46655bcea00e7610d",
+					"jsonFile" : "target-RecursiveTraversalLL-Debug-b6c4d3c76895b810e51e.json",
+					"name" : "RecursiveTraversalLL",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 12,
 					"id" : "StringIsSubsequenceOfOther::@bba2bb81eeb7189f5134",
 					"jsonFile" : "target-StringIsSubsequenceOfOther-Debug-d9f943a504ce9453a609.json",
@@ -361,6 +504,13 @@
 					"id" : "SubarrayWithGivenSum::@84649fc278c00678e5e1",
 					"jsonFile" : "target-SubarrayWithGivenSum-Debug-49142f2261a1abbe8156.json",
 					"name" : "SubarrayWithGivenSum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "TraversingLL::@8a09b595923986347340",
+					"jsonFile" : "target-TraversingLL-Debug-7b6d9e61bf26aa0b4942.json",
+					"name" : "TraversingLL",
 					"projectIndex" : 0
 				},
 				{

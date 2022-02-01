@@ -186,6 +186,24 @@
 		},
 		{
 			"path" : "String/LeftmostRepeatingCharacter/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/LLImplement/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/TraversingLL/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/RecursiveTraversalLL/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/InsertAtBegin/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/InsertAtEnd/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/DeleteFirstNode/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
