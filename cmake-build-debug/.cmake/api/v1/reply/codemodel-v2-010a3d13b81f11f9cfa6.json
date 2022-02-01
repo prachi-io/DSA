@@ -27,7 +27,8 @@
 						17,
 						18,
 						19,
-						20
+						20,
+						21
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -49,7 +50,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						19
+						20
 					]
 				},
 				{
@@ -64,7 +65,7 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
-						18
+						19
 					]
 				},
 				{
@@ -94,7 +95,7 @@
 					"source" : "Hashing/FrequencyOfElements",
 					"targetIndexes" : 
 					[
-						3
+						4
 					]
 				},
 				{
@@ -109,7 +110,7 @@
 					"source" : "Hashing/IntersectionOf2Arrays",
 					"targetIndexes" : 
 					[
-						6
+						7
 					]
 				},
 				{
@@ -124,7 +125,7 @@
 					"source" : "Hashing/unionOf2SortedArrays",
 					"targetIndexes" : 
 					[
-						17
+						18
 					]
 				},
 				{
@@ -139,7 +140,7 @@
 					"source" : "Hashing/PairWithGivenSumInUnsortedArray",
 					"targetIndexes" : 
 					[
-						10
+						11
 					]
 				},
 				{
@@ -154,7 +155,7 @@
 					"source" : "Hashing/SubarrayWith0Sum",
 					"targetIndexes" : 
 					[
-						14
+						15
 					]
 				},
 				{
@@ -169,7 +170,7 @@
 					"source" : "Hashing/SubarrayWithGivenSum",
 					"targetIndexes" : 
 					[
-						15
+						16
 					]
 				},
 				{
@@ -184,7 +185,7 @@
 					"source" : "String/IntroductionToString",
 					"targetIndexes" : 
 					[
-						7
+						8
 					]
 				},
 				{
@@ -199,7 +200,7 @@
 					"source" : "String/PalindromeCheck",
 					"targetIndexes" : 
 					[
-						11
+						12
 					]
 				},
 				{
@@ -214,7 +215,7 @@
 					"source" : "String/StringIsSubsequenceOfOther",
 					"targetIndexes" : 
 					[
-						13
+						14
 					]
 				},
 				{
@@ -244,7 +245,7 @@
 					"source" : "String/LeftmostRepeatingCharacter",
 					"targetIndexes" : 
 					[
-						9
+						10
 					]
 				},
 				{
@@ -259,7 +260,7 @@
 					"source" : "LinkedList/LLImplement",
 					"targetIndexes" : 
 					[
-						8
+						9
 					]
 				},
 				{
@@ -274,7 +275,7 @@
 					"source" : "LinkedList/TraversingLL",
 					"targetIndexes" : 
 					[
-						16
+						17
 					]
 				},
 				{
@@ -289,7 +290,7 @@
 					"source" : "LinkedList/RecursiveTraversalLL",
 					"targetIndexes" : 
 					[
-						12
+						13
 					]
 				},
 				{
@@ -304,7 +305,7 @@
 					"source" : "LinkedList/InsertAtBegin",
 					"targetIndexes" : 
 					[
-						4
+						5
 					]
 				},
 				{
@@ -319,7 +320,7 @@
 					"source" : "LinkedList/InsertAtEnd",
 					"targetIndexes" : 
 					[
-						5
+						6
 					]
 				},
 				{
@@ -335,6 +336,21 @@
 					"targetIndexes" : 
 					[
 						2
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/DeleteLastNode/DeleteLastNodeOutput",
+					"jsonFile" : "directory-LinkedList.DeleteLastNode-Debug-6fd0b3b2ef7da2374314.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/DeleteLastNode",
+					"targetIndexes" : 
+					[
+						3
 					]
 				}
 			],
@@ -364,7 +380,8 @@
 						17,
 						18,
 						19,
-						20
+						20,
+						21
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
@@ -388,7 +405,8 @@
 						16,
 						17,
 						18,
-						19
+						19,
+						20
 					]
 				}
 			],
@@ -413,6 +431,13 @@
 					"id" : "DeleteFirstNode::@2996f39f25096cfb3667",
 					"jsonFile" : "target-DeleteFirstNode-Debug-a73dd860792e2f6f27d6.json",
 					"name" : "DeleteFirstNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 21,
+					"id" : "DeleteLastNode::@5201bec84c3326ae9428",
+					"jsonFile" : "target-DeleteLastNode-Debug-5a9f5977fc1a46bbc8cf.json",
+					"name" : "DeleteLastNode",
 					"projectIndex" : 0
 				},
 				{

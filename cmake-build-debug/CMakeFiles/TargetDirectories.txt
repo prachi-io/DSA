@@ -60,3 +60,6 @@ D:/ClionProjects/DSA/LinkedList/InsertAtEnd/InsertAtEndOutput/CMakeFiles/rebuild
 D:/ClionProjects/DSA/LinkedList/DeleteFirstNode/DeleteFirstNodeOutput/CMakeFiles/DeleteFirstNode.dir
 D:/ClionProjects/DSA/LinkedList/DeleteFirstNode/DeleteFirstNodeOutput/CMakeFiles/edit_cache.dir
 D:/ClionProjects/DSA/LinkedList/DeleteFirstNode/DeleteFirstNodeOutput/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/DSA/LinkedList/DeleteLastNode/DeleteLastNodeOutput/CMakeFiles/DeleteLastNode.dir
+D:/ClionProjects/DSA/LinkedList/DeleteLastNode/DeleteLastNodeOutput/CMakeFiles/edit_cache.dir
+D:/ClionProjects/DSA/LinkedList/DeleteLastNode/DeleteLastNodeOutput/CMakeFiles/rebuild_cache.dir

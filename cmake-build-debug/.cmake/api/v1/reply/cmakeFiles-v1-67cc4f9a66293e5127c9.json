@@ -204,6 +204,9 @@
 		},
 		{
 			"path" : "LinkedList/DeleteFirstNode/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/DeleteLastNode/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
