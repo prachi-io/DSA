@@ -36,7 +36,14 @@
 						26,
 						27,
 						28,
-						29
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -58,7 +65,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						28
+						35
 					]
 				},
 				{
@@ -73,7 +80,7 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
-						27
+						34
 					]
 				},
 				{
@@ -88,7 +95,7 @@
 					"source" : "Hashing/CountDistinctElements",
 					"targetIndexes" : 
 					[
-						1
+						2
 					]
 				},
 				{
@@ -103,7 +110,7 @@
 					"source" : "Hashing/FrequencyOfElements",
 					"targetIndexes" : 
 					[
-						7
+						10
 					]
 				},
 				{
@@ -118,7 +125,7 @@
 					"source" : "Hashing/IntersectionOf2Arrays",
 					"targetIndexes" : 
 					[
-						13
+						19
 					]
 				},
 				{
@@ -133,7 +140,7 @@
 					"source" : "Hashing/unionOf2SortedArrays",
 					"targetIndexes" : 
 					[
-						26
+						33
 					]
 				},
 				{
@@ -148,7 +155,7 @@
 					"source" : "Hashing/PairWithGivenSumInUnsortedArray",
 					"targetIndexes" : 
 					[
-						17
+						23
 					]
 				},
 				{
@@ -163,7 +170,7 @@
 					"source" : "Hashing/SubarrayWith0Sum",
 					"targetIndexes" : 
 					[
-						23
+						30
 					]
 				},
 				{
@@ -178,7 +185,7 @@
 					"source" : "Hashing/SubarrayWithGivenSum",
 					"targetIndexes" : 
 					[
-						24
+						31
 					]
 				},
 				{
@@ -193,7 +200,7 @@
 					"source" : "String/IntroductionToString",
 					"targetIndexes" : 
 					[
-						14
+						20
 					]
 				},
 				{
@@ -208,7 +215,7 @@
 					"source" : "String/PalindromeCheck",
 					"targetIndexes" : 
 					[
-						18
+						24
 					]
 				},
 				{
@@ -223,7 +230,7 @@
 					"source" : "String/StringIsSubsequenceOfOther",
 					"targetIndexes" : 
 					[
-						22
+						29
 					]
 				},
 				{
@@ -253,7 +260,7 @@
 					"source" : "String/LeftmostRepeatingCharacter",
 					"targetIndexes" : 
 					[
-						16
+						22
 					]
 				},
 				{
@@ -268,7 +275,7 @@
 					"source" : "LinkedList/LLImplement",
 					"targetIndexes" : 
 					[
-						15
+						21
 					]
 				},
 				{
@@ -283,7 +290,7 @@
 					"source" : "LinkedList/TraversingLL",
 					"targetIndexes" : 
 					[
-						25
+						32
 					]
 				},
 				{
@@ -298,7 +305,7 @@
 					"source" : "LinkedList/RecursiveTraversalLL",
 					"targetIndexes" : 
 					[
-						19
+						25
 					]
 				},
 				{
@@ -313,7 +320,7 @@
 					"source" : "LinkedList/InsertAtBegin",
 					"targetIndexes" : 
 					[
-						9
+						13
 					]
 				},
 				{
@@ -328,7 +335,7 @@
 					"source" : "LinkedList/InsertAtEnd",
 					"targetIndexes" : 
 					[
-						11
+						16
 					]
 				},
 				{
@@ -343,7 +350,7 @@
 					"source" : "LinkedList/DeleteFirstNode",
 					"targetIndexes" : 
 					[
-						2
+						3
 					]
 				},
 				{
@@ -358,7 +365,7 @@
 					"source" : "LinkedList/DeleteLastNode",
 					"targetIndexes" : 
 					[
-						5
+						8
 					]
 				},
 				{
@@ -373,7 +380,7 @@
 					"source" : "LinkedList/InsertAtAnyPos",
 					"targetIndexes" : 
 					[
-						8
+						11
 					]
 				},
 				{
@@ -388,7 +395,7 @@
 					"source" : "LinkedList/SearchInLL",
 					"targetIndexes" : 
 					[
-						21
+						28
 					]
 				},
 				{
@@ -403,7 +410,7 @@
 					"source" : "LinkedList/DoubleLL",
 					"targetIndexes" : 
 					[
-						6
+						9
 					]
 				},
 				{
@@ -418,7 +425,7 @@
 					"source" : "LinkedList/InsertAtBeginInDoubleLL",
 					"targetIndexes" : 
 					[
-						10
+						15
 					]
 				},
 				{
@@ -433,7 +440,7 @@
 					"source" : "LinkedList/InsertAtEndInDoubleLL",
 					"targetIndexes" : 
 					[
-						12
+						18
 					]
 				},
 				{
@@ -448,7 +455,7 @@
 					"source" : "LinkedList/ReverseADoubleLL",
 					"targetIndexes" : 
 					[
-						20
+						27
 					]
 				},
 				{
@@ -463,7 +470,7 @@
 					"source" : "LinkedList/DeleteHeadDDL",
 					"targetIndexes" : 
 					[
-						3
+						5
 					]
 				},
 				{
@@ -478,7 +485,112 @@
 					"source" : "LinkedList/DeleteLastDDL",
 					"targetIndexes" : 
 					[
+						7
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput",
+					"jsonFile" : "directory-LinkedList.InsertAtAnyPosDDL-Debug-daab7c6802d838ff5c48.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/InsertAtAnyPosDDL",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput",
+					"jsonFile" : "directory-LinkedList.RemoveDuplicateLL-Debug-0a0a12ea19bb27575d71.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/RemoveDuplicateLL",
+					"targetIndexes" : 
+					[
+						26
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/CircularLL/CircularLLOutput",
+					"jsonFile" : "directory-LinkedList.CircularLL-Debug-d6a464a9baae85386625.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/CircularLL",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput",
+					"jsonFile" : "directory-LinkedList.InsertAtBeginCLL-Debug-45a02fd7293cc4db006e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/InsertAtBeginCLL",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput",
+					"jsonFile" : "directory-LinkedList.InsertAtEndCLL-Debug-cd22eda2d34f14d69689.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/InsertAtEndCLL",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput",
+					"jsonFile" : "directory-LinkedList.DeleteHeadCLL-Debug-f011a0185407f6019894.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/DeleteHeadCLL",
+					"targetIndexes" : 
+					[
 						4
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/DeleteKthCLL/DeleteKthCLLOutput",
+					"jsonFile" : "directory-LinkedList.DeleteKthCLL-Debug-ab4ba860af1f1c3f198f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/DeleteKthCLL",
+					"targetIndexes" : 
+					[
+						6
 					]
 				}
 			],
@@ -517,7 +629,14 @@
 						26,
 						27,
 						28,
-						29
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
@@ -550,7 +669,14 @@
 						25,
 						26,
 						27,
-						28
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35
 					]
 				}
 			],
@@ -561,6 +687,13 @@
 					"id" : "CheckAnagram::@8d392590aabceeae9bcb",
 					"jsonFile" : "target-CheckAnagram-Debug-21a4ca0d6389d106d946.json",
 					"name" : "CheckAnagram",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 32,
+					"id" : "CircularLL::@3b1d1766e8e5892d35ba",
+					"jsonFile" : "target-CircularLL-Debug-dec3a3f2e8ab150e5819.json",
+					"name" : "CircularLL",
 					"projectIndex" : 0
 				},
 				{
@@ -578,10 +711,24 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 35,
+					"id" : "DeleteHeadCLL::@d22e38479e2b992f8b8c",
+					"jsonFile" : "target-DeleteHeadCLL-Debug-6d383e55a7cb57b70550.json",
+					"name" : "DeleteHeadCLL",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 28,
 					"id" : "DeleteHeadDDL::@f9096b26e7140f594877",
 					"jsonFile" : "target-DeleteHeadDDL-Debug-7c9fe4ee582c3904814c.json",
 					"name" : "DeleteHeadDDL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 36,
+					"id" : "DeleteKthCLL::@f1dc61e66b92b2bb1b93",
+					"jsonFile" : "target-DeleteKthCLL-Debug-ce8c63349d1ab912d9db.json",
+					"name" : "DeleteKthCLL",
 					"projectIndex" : 0
 				},
 				{
@@ -620,10 +767,24 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 30,
+					"id" : "InsertAtAnyPosDDL::@c3ef450e1677d65b93be",
+					"jsonFile" : "target-InsertAtAnyPosDDL-Debug-ec64dc1b417a0af274df.json",
+					"name" : "InsertAtAnyPosDDL",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 18,
 					"id" : "InsertAtBegin::@bbffc77975fff0d46fd0",
 					"jsonFile" : "target-InsertAtBegin-Debug-9a7c20726c1b20fa3fe6.json",
 					"name" : "InsertAtBegin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 33,
+					"id" : "InsertAtBeginCLL::@71f2587bc9d5261bf8be",
+					"jsonFile" : "target-InsertAtBeginCLL-Debug-d5a100a3f95ff0777c93.json",
+					"name" : "InsertAtBeginCLL",
 					"projectIndex" : 0
 				},
 				{
@@ -638,6 +799,13 @@
 					"id" : "InsertAtEnd::@8d08078b3271e6998cf3",
 					"jsonFile" : "target-InsertAtEnd-Debug-44782a24b878fd22f3bc.json",
 					"name" : "InsertAtEnd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 34,
+					"id" : "InsertAtEndCLL::@4bebb57d0237d8e282bb",
+					"jsonFile" : "target-InsertAtEndCLL-Debug-7e30bcbaaf06404816bc.json",
+					"name" : "InsertAtEndCLL",
 					"projectIndex" : 0
 				},
 				{
@@ -694,6 +862,13 @@
 					"id" : "RecursiveTraversalLL::@82a46655bcea00e7610d",
 					"jsonFile" : "target-RecursiveTraversalLL-Debug-b6c4d3c76895b810e51e.json",
 					"name" : "RecursiveTraversalLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 31,
+					"id" : "RemoveDuplicateLL::@0d02f161f69263c18634",
+					"jsonFile" : "target-RemoveDuplicateLL-Debug-acbba54469d0b0b047ec.json",
+					"name" : "RemoveDuplicateLL",
 					"projectIndex" : 0
 				},
 				{

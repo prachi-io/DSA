@@ -231,6 +231,27 @@
 		},
 		{
 			"path" : "LinkedList/DeleteLastDDL/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/InsertAtAnyPosDDL/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/RemoveDuplicateLL/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/CircularLL/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/InsertAtBeginCLL/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/InsertAtEndCLL/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/DeleteHeadCLL/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/DeleteKthCLL/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

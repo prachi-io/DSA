@@ -1833,11 +1833,442 @@ build ../LinkedList/DeleteLastDDL/DeleteLastDDLOutput/CMakeFiles/rebuild_cache.u
 build ../LinkedList/DeleteLastDDL/DeleteLastDDLOutput/rebuild_cache: phony ../LinkedList/DeleteLastDDL/DeleteLastDDLOutput/CMakeFiles/rebuild_cache.util
 
 # =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/ClionProjects/DSA/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target InsertAtAnyPosDDL
+
+
+#############################################
+# Order-only phony target for InsertAtAnyPosDDL
+
+build cmake_object_order_depends_target_InsertAtAnyPosDDL: phony || ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/CMakeFiles/InsertAtAnyPosDDL.dir
+
+build ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/CMakeFiles/InsertAtAnyPosDDL.dir/InsertAtAnyPosDDL.cpp.obj: CXX_COMPILER__InsertAtAnyPosDDL_Debug D$:/ClionProjects/DSA/LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDL.cpp || cmake_object_order_depends_target_InsertAtAnyPosDDL
+  DEP_FILE = ..\LinkedList\InsertAtAnyPosDDL\InsertAtAnyPosDDLOutput\CMakeFiles\InsertAtAnyPosDDL.dir\InsertAtAnyPosDDL.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = ..\LinkedList\InsertAtAnyPosDDL\InsertAtAnyPosDDLOutput\CMakeFiles\InsertAtAnyPosDDL.dir
+  OBJECT_FILE_DIR = ..\LinkedList\InsertAtAnyPosDDL\InsertAtAnyPosDDLOutput\CMakeFiles\InsertAtAnyPosDDL.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target InsertAtAnyPosDDL
+
+
+#############################################
+# Link the executable ..\LinkedList\InsertAtAnyPosDDL\InsertAtAnyPosDDLOutput\InsertAtAnyPosDDL.exe
+
+build ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/InsertAtAnyPosDDL.exe: CXX_EXECUTABLE_LINKER__InsertAtAnyPosDDL_Debug ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/CMakeFiles/InsertAtAnyPosDDL.dir/InsertAtAnyPosDDL.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = ..\LinkedList\InsertAtAnyPosDDL\InsertAtAnyPosDDLOutput\CMakeFiles\InsertAtAnyPosDDL.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ..\LinkedList\InsertAtAnyPosDDL\InsertAtAnyPosDDLOutput\InsertAtAnyPosDDL.exe
+  TARGET_IMPLIB = ..\LinkedList\InsertAtAnyPosDDL\InsertAtAnyPosDDLOutput\libInsertAtAnyPosDDL.dll.a
+  TARGET_PDB = InsertAtAnyPosDDL.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\InsertAtAnyPosDDL\InsertAtAnyPosDDLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/edit_cache: phony ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\InsertAtAnyPosDDL\InsertAtAnyPosDDLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SD:\ClionProjects\DSA -BD:\ClionProjects\DSA\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/rebuild_cache: phony ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/ClionProjects/DSA/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target RemoveDuplicateLL
+
+
+#############################################
+# Order-only phony target for RemoveDuplicateLL
+
+build cmake_object_order_depends_target_RemoveDuplicateLL: phony || ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/CMakeFiles/RemoveDuplicateLL.dir
+
+build ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/CMakeFiles/RemoveDuplicateLL.dir/RemoveDuplicateLL.cpp.obj: CXX_COMPILER__RemoveDuplicateLL_Debug D$:/ClionProjects/DSA/LinkedList/RemoveDuplicateLL/RemoveDuplicateLL.cpp || cmake_object_order_depends_target_RemoveDuplicateLL
+  DEP_FILE = ..\LinkedList\RemoveDuplicateLL\RemoveDuplicateLLOutput\CMakeFiles\RemoveDuplicateLL.dir\RemoveDuplicateLL.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = ..\LinkedList\RemoveDuplicateLL\RemoveDuplicateLLOutput\CMakeFiles\RemoveDuplicateLL.dir
+  OBJECT_FILE_DIR = ..\LinkedList\RemoveDuplicateLL\RemoveDuplicateLLOutput\CMakeFiles\RemoveDuplicateLL.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target RemoveDuplicateLL
+
+
+#############################################
+# Link the executable ..\LinkedList\RemoveDuplicateLL\RemoveDuplicateLLOutput\RemoveDuplicateLL.exe
+
+build ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/RemoveDuplicateLL.exe: CXX_EXECUTABLE_LINKER__RemoveDuplicateLL_Debug ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/CMakeFiles/RemoveDuplicateLL.dir/RemoveDuplicateLL.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = ..\LinkedList\RemoveDuplicateLL\RemoveDuplicateLLOutput\CMakeFiles\RemoveDuplicateLL.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ..\LinkedList\RemoveDuplicateLL\RemoveDuplicateLLOutput\RemoveDuplicateLL.exe
+  TARGET_IMPLIB = ..\LinkedList\RemoveDuplicateLL\RemoveDuplicateLLOutput\libRemoveDuplicateLL.dll.a
+  TARGET_PDB = RemoveDuplicateLL.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\RemoveDuplicateLL\RemoveDuplicateLLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/edit_cache: phony ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\RemoveDuplicateLL\RemoveDuplicateLLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SD:\ClionProjects\DSA -BD:\ClionProjects\DSA\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/rebuild_cache: phony ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/ClionProjects/DSA/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for edit_cache
+
+build ../LinkedList/CircularLL/CircularLLOutput/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\CircularLL\CircularLLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build ../LinkedList/CircularLL/CircularLLOutput/edit_cache: phony ../LinkedList/CircularLL/CircularLLOutput/CMakeFiles/edit_cache.util
+
+# =============================================================================
+# Object build statements for EXECUTABLE target CircularLL
+
+
+#############################################
+# Order-only phony target for CircularLL
+
+build cmake_object_order_depends_target_CircularLL: phony || ../LinkedList/CircularLL/CircularLLOutput/CMakeFiles/CircularLL.dir
+
+build ../LinkedList/CircularLL/CircularLLOutput/CMakeFiles/CircularLL.dir/CircularLL.cpp.obj: CXX_COMPILER__CircularLL_Debug D$:/ClionProjects/DSA/LinkedList/CircularLL/CircularLL.cpp || cmake_object_order_depends_target_CircularLL
+  DEP_FILE = ..\LinkedList\CircularLL\CircularLLOutput\CMakeFiles\CircularLL.dir\CircularLL.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = ..\LinkedList\CircularLL\CircularLLOutput\CMakeFiles\CircularLL.dir
+  OBJECT_FILE_DIR = ..\LinkedList\CircularLL\CircularLLOutput\CMakeFiles\CircularLL.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target CircularLL
+
+
+#############################################
+# Link the executable ..\LinkedList\CircularLL\CircularLLOutput\CircularLL.exe
+
+build ../LinkedList/CircularLL/CircularLLOutput/CircularLL.exe: CXX_EXECUTABLE_LINKER__CircularLL_Debug ../LinkedList/CircularLL/CircularLLOutput/CMakeFiles/CircularLL.dir/CircularLL.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = ..\LinkedList\CircularLL\CircularLLOutput\CMakeFiles\CircularLL.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ..\LinkedList\CircularLL\CircularLLOutput\CircularLL.exe
+  TARGET_IMPLIB = ..\LinkedList\CircularLL\CircularLLOutput\libCircularLL.dll.a
+  TARGET_PDB = CircularLL.exe.dbg
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build ../LinkedList/CircularLL/CircularLLOutput/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\CircularLL\CircularLLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SD:\ClionProjects\DSA -BD:\ClionProjects\DSA\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build ../LinkedList/CircularLL/CircularLLOutput/rebuild_cache: phony ../LinkedList/CircularLL/CircularLLOutput/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/ClionProjects/DSA/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target InsertAtBeginCLL
+
+
+#############################################
+# Order-only phony target for InsertAtBeginCLL
+
+build cmake_object_order_depends_target_InsertAtBeginCLL: phony || ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/CMakeFiles/InsertAtBeginCLL.dir
+
+build ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/CMakeFiles/InsertAtBeginCLL.dir/InsertAtBeginCLL.cpp.obj: CXX_COMPILER__InsertAtBeginCLL_Debug D$:/ClionProjects/DSA/LinkedList/InsertAtBeginCLL/InsertAtBeginCLL.cpp || cmake_object_order_depends_target_InsertAtBeginCLL
+  DEP_FILE = ..\LinkedList\InsertAtBeginCLL\InsertAtBeginCLLOutput\CMakeFiles\InsertAtBeginCLL.dir\InsertAtBeginCLL.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = ..\LinkedList\InsertAtBeginCLL\InsertAtBeginCLLOutput\CMakeFiles\InsertAtBeginCLL.dir
+  OBJECT_FILE_DIR = ..\LinkedList\InsertAtBeginCLL\InsertAtBeginCLLOutput\CMakeFiles\InsertAtBeginCLL.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target InsertAtBeginCLL
+
+
+#############################################
+# Link the executable ..\LinkedList\InsertAtBeginCLL\InsertAtBeginCLLOutput\InsertAtBeginCLL.exe
+
+build ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/InsertAtBeginCLL.exe: CXX_EXECUTABLE_LINKER__InsertAtBeginCLL_Debug ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/CMakeFiles/InsertAtBeginCLL.dir/InsertAtBeginCLL.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = ..\LinkedList\InsertAtBeginCLL\InsertAtBeginCLLOutput\CMakeFiles\InsertAtBeginCLL.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ..\LinkedList\InsertAtBeginCLL\InsertAtBeginCLLOutput\InsertAtBeginCLL.exe
+  TARGET_IMPLIB = ..\LinkedList\InsertAtBeginCLL\InsertAtBeginCLLOutput\libInsertAtBeginCLL.dll.a
+  TARGET_PDB = InsertAtBeginCLL.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\InsertAtBeginCLL\InsertAtBeginCLLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/edit_cache: phony ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\InsertAtBeginCLL\InsertAtBeginCLLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SD:\ClionProjects\DSA -BD:\ClionProjects\DSA\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/rebuild_cache: phony ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/ClionProjects/DSA/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target InsertAtEndCLL
+
+
+#############################################
+# Order-only phony target for InsertAtEndCLL
+
+build cmake_object_order_depends_target_InsertAtEndCLL: phony || ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/CMakeFiles/InsertAtEndCLL.dir
+
+build ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/CMakeFiles/InsertAtEndCLL.dir/InsertAtEndCLL.cpp.obj: CXX_COMPILER__InsertAtEndCLL_Debug D$:/ClionProjects/DSA/LinkedList/InsertAtEndCLL/InsertAtEndCLL.cpp || cmake_object_order_depends_target_InsertAtEndCLL
+  DEP_FILE = ..\LinkedList\InsertAtEndCLL\InsertAtEndCLLOutput\CMakeFiles\InsertAtEndCLL.dir\InsertAtEndCLL.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = ..\LinkedList\InsertAtEndCLL\InsertAtEndCLLOutput\CMakeFiles\InsertAtEndCLL.dir
+  OBJECT_FILE_DIR = ..\LinkedList\InsertAtEndCLL\InsertAtEndCLLOutput\CMakeFiles\InsertAtEndCLL.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target InsertAtEndCLL
+
+
+#############################################
+# Link the executable ..\LinkedList\InsertAtEndCLL\InsertAtEndCLLOutput\InsertAtEndCLL.exe
+
+build ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/InsertAtEndCLL.exe: CXX_EXECUTABLE_LINKER__InsertAtEndCLL_Debug ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/CMakeFiles/InsertAtEndCLL.dir/InsertAtEndCLL.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = ..\LinkedList\InsertAtEndCLL\InsertAtEndCLLOutput\CMakeFiles\InsertAtEndCLL.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ..\LinkedList\InsertAtEndCLL\InsertAtEndCLLOutput\InsertAtEndCLL.exe
+  TARGET_IMPLIB = ..\LinkedList\InsertAtEndCLL\InsertAtEndCLLOutput\libInsertAtEndCLL.dll.a
+  TARGET_PDB = InsertAtEndCLL.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\InsertAtEndCLL\InsertAtEndCLLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/edit_cache: phony ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\InsertAtEndCLL\InsertAtEndCLLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SD:\ClionProjects\DSA -BD:\ClionProjects\DSA\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/rebuild_cache: phony ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/ClionProjects/DSA/CMakeLists.txt
+# =============================================================================
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\DeleteHeadCLL\DeleteHeadCLLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SD:\ClionProjects\DSA -BD:\ClionProjects\DSA\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/rebuild_cache: phony ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Object build statements for EXECUTABLE target DeleteHeadCLL
+
+
+#############################################
+# Order-only phony target for DeleteHeadCLL
+
+build cmake_object_order_depends_target_DeleteHeadCLL: phony || ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/CMakeFiles/DeleteHeadCLL.dir
+
+build ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/CMakeFiles/DeleteHeadCLL.dir/DeleteHeadCLL.cpp.obj: CXX_COMPILER__DeleteHeadCLL_Debug D$:/ClionProjects/DSA/LinkedList/DeleteHeadCLL/DeleteHeadCLL.cpp || cmake_object_order_depends_target_DeleteHeadCLL
+  DEP_FILE = ..\LinkedList\DeleteHeadCLL\DeleteHeadCLLOutput\CMakeFiles\DeleteHeadCLL.dir\DeleteHeadCLL.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = ..\LinkedList\DeleteHeadCLL\DeleteHeadCLLOutput\CMakeFiles\DeleteHeadCLL.dir
+  OBJECT_FILE_DIR = ..\LinkedList\DeleteHeadCLL\DeleteHeadCLLOutput\CMakeFiles\DeleteHeadCLL.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target DeleteHeadCLL
+
+
+#############################################
+# Link the executable ..\LinkedList\DeleteHeadCLL\DeleteHeadCLLOutput\DeleteHeadCLL.exe
+
+build ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/DeleteHeadCLL.exe: CXX_EXECUTABLE_LINKER__DeleteHeadCLL_Debug ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/CMakeFiles/DeleteHeadCLL.dir/DeleteHeadCLL.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = ..\LinkedList\DeleteHeadCLL\DeleteHeadCLLOutput\CMakeFiles\DeleteHeadCLL.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ..\LinkedList\DeleteHeadCLL\DeleteHeadCLLOutput\DeleteHeadCLL.exe
+  TARGET_IMPLIB = ..\LinkedList\DeleteHeadCLL\DeleteHeadCLLOutput\libDeleteHeadCLL.dll.a
+  TARGET_PDB = DeleteHeadCLL.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\DeleteHeadCLL\DeleteHeadCLLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/edit_cache: phony ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/CMakeFiles/edit_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/ClionProjects/DSA/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target DeleteKthCLL
+
+
+#############################################
+# Order-only phony target for DeleteKthCLL
+
+build cmake_object_order_depends_target_DeleteKthCLL: phony || ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/CMakeFiles/DeleteKthCLL.dir
+
+build ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/CMakeFiles/DeleteKthCLL.dir/DeleteKthCLL.cpp.obj: CXX_COMPILER__DeleteKthCLL_Debug D$:/ClionProjects/DSA/LinkedList/DeleteKthCLL/DeleteKthCLL.cpp || cmake_object_order_depends_target_DeleteKthCLL
+  DEP_FILE = ..\LinkedList\DeleteKthCLL\DeleteKthCLLOutput\CMakeFiles\DeleteKthCLL.dir\DeleteKthCLL.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = ..\LinkedList\DeleteKthCLL\DeleteKthCLLOutput\CMakeFiles\DeleteKthCLL.dir
+  OBJECT_FILE_DIR = ..\LinkedList\DeleteKthCLL\DeleteKthCLLOutput\CMakeFiles\DeleteKthCLL.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target DeleteKthCLL
+
+
+#############################################
+# Link the executable ..\LinkedList\DeleteKthCLL\DeleteKthCLLOutput\DeleteKthCLL.exe
+
+build ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/DeleteKthCLL.exe: CXX_EXECUTABLE_LINKER__DeleteKthCLL_Debug ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/CMakeFiles/DeleteKthCLL.dir/DeleteKthCLL.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = ..\LinkedList\DeleteKthCLL\DeleteKthCLLOutput\CMakeFiles\DeleteKthCLL.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ..\LinkedList\DeleteKthCLL\DeleteKthCLLOutput\DeleteKthCLL.exe
+  TARGET_IMPLIB = ..\LinkedList\DeleteKthCLL\DeleteKthCLLOutput\libDeleteKthCLL.dll.a
+  TARGET_PDB = DeleteKthCLL.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\DeleteKthCLL\DeleteKthCLLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/edit_cache: phony ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\DeleteKthCLL\DeleteKthCLLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SD:\ClionProjects\DSA -BD:\ClionProjects\DSA\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/rebuild_cache: phony ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
 # Target aliases.
 
 build CheckAnagram: phony ../String/CheckAnagram/CheckAnagramOutput/CheckAnagram.exe
 
 build CheckAnagram.exe: phony ../String/CheckAnagram/CheckAnagramOutput/CheckAnagram.exe
+
+build CircularLL: phony ../LinkedList/CircularLL/CircularLLOutput/CircularLL.exe
+
+build CircularLL.exe: phony ../LinkedList/CircularLL/CircularLLOutput/CircularLL.exe
 
 build CountDistinctElements: phony ../Hashing/CountDistinctElements/CountDistinctElementsOutput/CountDistinctElements.exe
 
@@ -1847,9 +2278,17 @@ build DeleteFirstNode: phony ../LinkedList/DeleteFirstNode/DeleteFirstNodeOutput
 
 build DeleteFirstNode.exe: phony ../LinkedList/DeleteFirstNode/DeleteFirstNodeOutput/DeleteFirstNode.exe
 
+build DeleteHeadCLL: phony ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/DeleteHeadCLL.exe
+
+build DeleteHeadCLL.exe: phony ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/DeleteHeadCLL.exe
+
 build DeleteHeadDDL: phony ../LinkedList/DeleteHeadDDL/DeleteHeadDDLOutput/DeleteHeadDDL.exe
 
 build DeleteHeadDDL.exe: phony ../LinkedList/DeleteHeadDDL/DeleteHeadDDLOutput/DeleteHeadDDL.exe
+
+build DeleteKthCLL: phony ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/DeleteKthCLL.exe
+
+build DeleteKthCLL.exe: phony ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/DeleteKthCLL.exe
 
 build DeleteLastDDL: phony ../LinkedList/DeleteLastDDL/DeleteLastDDLOutput/DeleteLastDDL.exe
 
@@ -1871,9 +2310,17 @@ build InsertAtAnyPos: phony ../LinkedList/InsertAtAnyPos/InsertAtAnyPosOutput/In
 
 build InsertAtAnyPos.exe: phony ../LinkedList/InsertAtAnyPos/InsertAtAnyPosOutput/InsertAtAnyPos.exe
 
+build InsertAtAnyPosDDL: phony ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/InsertAtAnyPosDDL.exe
+
+build InsertAtAnyPosDDL.exe: phony ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/InsertAtAnyPosDDL.exe
+
 build InsertAtBegin: phony ../LinkedList/InsertAtBegin/InsertAtBeginOutput/InsertAtBegin.exe
 
 build InsertAtBegin.exe: phony ../LinkedList/InsertAtBegin/InsertAtBeginOutput/InsertAtBegin.exe
+
+build InsertAtBeginCLL: phony ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/InsertAtBeginCLL.exe
+
+build InsertAtBeginCLL.exe: phony ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/InsertAtBeginCLL.exe
 
 build InsertAtBeginInDoubleLL: phony ../LinkedList/InsertAtBeginInDoubleLL/InsertAtBeginInDoubleLLOutput/InsertAtBeginInDoubleLL.exe
 
@@ -1882,6 +2329,10 @@ build InsertAtBeginInDoubleLL.exe: phony ../LinkedList/InsertAtBeginInDoubleLL/I
 build InsertAtEnd: phony ../LinkedList/InsertAtEnd/InsertAtEndOutput/InsertAtEnd.exe
 
 build InsertAtEnd.exe: phony ../LinkedList/InsertAtEnd/InsertAtEndOutput/InsertAtEnd.exe
+
+build InsertAtEndCLL: phony ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/InsertAtEndCLL.exe
+
+build InsertAtEndCLL.exe: phony ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/InsertAtEndCLL.exe
 
 build InsertAtEndInDoubleLL: phony ../LinkedList/InsertAtEndInDoubleLL/InsertAtEndInDoubleLLOutput/InsertAtEndInDoubleLL.exe
 
@@ -1914,6 +2365,10 @@ build PalindromeCheck.exe: phony ../String/PalindromeCheck/PalindromeCheckOutput
 build RecursiveTraversalLL: phony ../LinkedList/RecursiveTraversalLL/RecursiveTraversalLLOutput/RecursiveTraversalLL.exe
 
 build RecursiveTraversalLL.exe: phony ../LinkedList/RecursiveTraversalLL/RecursiveTraversalLLOutput/RecursiveTraversalLL.exe
+
+build RemoveDuplicateLL: phony ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/RemoveDuplicateLL.exe
+
+build RemoveDuplicateLL.exe: phony ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/RemoveDuplicateLL.exe
 
 build ReverseADoubleLL: phony ../LinkedList/ReverseADoubleLL/ReverseADoubleLLOutput/ReverseADoubleLL.exe
 
@@ -2020,6 +2475,13 @@ build ../Hashing/unordered_set/unordered_setOutput/all: phony ../Hashing/unorder
 # =============================================================================
 
 #############################################
+# Folder: D:/ClionProjects/DSA/LinkedList/CircularLL/CircularLLOutput
+
+build ../LinkedList/CircularLL/CircularLLOutput/all: phony ../LinkedList/CircularLL/CircularLLOutput/CircularLL.exe
+
+# =============================================================================
+
+#############################################
 # Folder: D:/ClionProjects/DSA/LinkedList/DeleteFirstNode/DeleteFirstNodeOutput
 
 build ../LinkedList/DeleteFirstNode/DeleteFirstNodeOutput/all: phony ../LinkedList/DeleteFirstNode/DeleteFirstNodeOutput/DeleteFirstNode.exe
@@ -2027,9 +2489,23 @@ build ../LinkedList/DeleteFirstNode/DeleteFirstNodeOutput/all: phony ../LinkedLi
 # =============================================================================
 
 #############################################
+# Folder: D:/ClionProjects/DSA/LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput
+
+build ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/all: phony ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/DeleteHeadCLL.exe
+
+# =============================================================================
+
+#############################################
 # Folder: D:/ClionProjects/DSA/LinkedList/DeleteHeadDDL/DeleteHeadDDLOutput
 
 build ../LinkedList/DeleteHeadDDL/DeleteHeadDDLOutput/all: phony ../LinkedList/DeleteHeadDDL/DeleteHeadDDLOutput/DeleteHeadDDL.exe
+
+# =============================================================================
+
+#############################################
+# Folder: D:/ClionProjects/DSA/LinkedList/DeleteKthCLL/DeleteKthCLLOutput
+
+build ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/all: phony ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/DeleteKthCLL.exe
 
 # =============================================================================
 
@@ -2062,9 +2538,23 @@ build ../LinkedList/InsertAtAnyPos/InsertAtAnyPosOutput/all: phony ../LinkedList
 # =============================================================================
 
 #############################################
+# Folder: D:/ClionProjects/DSA/LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput
+
+build ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/all: phony ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/InsertAtAnyPosDDL.exe
+
+# =============================================================================
+
+#############################################
 # Folder: D:/ClionProjects/DSA/LinkedList/InsertAtBegin/InsertAtBeginOutput
 
 build ../LinkedList/InsertAtBegin/InsertAtBeginOutput/all: phony ../LinkedList/InsertAtBegin/InsertAtBeginOutput/InsertAtBegin.exe
+
+# =============================================================================
+
+#############################################
+# Folder: D:/ClionProjects/DSA/LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput
+
+build ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/all: phony ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/InsertAtBeginCLL.exe
 
 # =============================================================================
 
@@ -2079,6 +2569,13 @@ build ../LinkedList/InsertAtBeginInDoubleLL/InsertAtBeginInDoubleLLOutput/all: p
 # Folder: D:/ClionProjects/DSA/LinkedList/InsertAtEnd/InsertAtEndOutput
 
 build ../LinkedList/InsertAtEnd/InsertAtEndOutput/all: phony ../LinkedList/InsertAtEnd/InsertAtEndOutput/InsertAtEnd.exe
+
+# =============================================================================
+
+#############################################
+# Folder: D:/ClionProjects/DSA/LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput
+
+build ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/all: phony ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/InsertAtEndCLL.exe
 
 # =============================================================================
 
@@ -2100,6 +2597,13 @@ build ../LinkedList/LLImplement/LLImplementatOutput/all: phony ../LinkedList/LLI
 # Folder: D:/ClionProjects/DSA/LinkedList/RecursiveTraversalLL/RecursiveTraversalLLOutput
 
 build ../LinkedList/RecursiveTraversalLL/RecursiveTraversalLLOutput/all: phony ../LinkedList/RecursiveTraversalLL/RecursiveTraversalLLOutput/RecursiveTraversalLL.exe
+
+# =============================================================================
+
+#############################################
+# Folder: D:/ClionProjects/DSA/LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput
+
+build ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/all: phony ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/RemoveDuplicateLL.exe
 
 # =============================================================================
 
@@ -2162,7 +2666,7 @@ build ../String/StringIsSubsequenceOfOther/StringIsSubsequenceOfOtherOutput/all:
 #############################################
 # Folder: D:/ClionProjects/DSA/cmake-build-debug
 
-build all: phony ../Hashing/unordered_set/unordered_setOutput/all ../Hashing/unordered_map/unordered_mapOutput/all ../Hashing/CountDistinctElements/CountDistinctElementsOutput/all ../Hashing/FrequencyOfElements/FrequencyOfElementsOutput/all ../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/all ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/all ../Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput/all ../Hashing/SubarrayWith0Sum/SubarrayWith0SumOutput/all ../Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput/all ../String/IntroductionToString/IntroductionToStringOutput/all ../String/PalindromeCheck/PalindromeCheckOutput/all ../String/StringIsSubsequenceOfOther/StringIsSubsequenceOfOtherOutput/all ../String/CheckAnagram/CheckAnagramOutput/all ../String/LeftmostRepeatingCharacter/LeftmostRepeatingCharacterOutput/all ../LinkedList/LLImplement/LLImplementatOutput/all ../LinkedList/TraversingLL/TraversingLLOutput/all ../LinkedList/RecursiveTraversalLL/RecursiveTraversalLLOutput/all ../LinkedList/InsertAtBegin/InsertAtBeginOutput/all ../LinkedList/InsertAtEnd/InsertAtEndOutput/all ../LinkedList/DeleteFirstNode/DeleteFirstNodeOutput/all ../LinkedList/DeleteLastNode/DeleteLastNodeOutput/all ../LinkedList/InsertAtAnyPos/InsertAtAnyPosOutput/all ../LinkedList/SearchInLL/SearchInLLOutput/all ../LinkedList/DoubleLL/DoubleLLOutput/all ../LinkedList/InsertAtBeginInDoubleLL/InsertAtBeginInDoubleLLOutput/all ../LinkedList/InsertAtEndInDoubleLL/InsertAtEndInDoubleLLOutput/all ../LinkedList/ReverseADoubleLL/ReverseADoubleLLOutput/all ../LinkedList/DeleteHeadDDL/DeleteHeadDDLOutput/all ../LinkedList/DeleteLastDDL/DeleteLastDDLOutput/all
+build all: phony ../Hashing/unordered_set/unordered_setOutput/all ../Hashing/unordered_map/unordered_mapOutput/all ../Hashing/CountDistinctElements/CountDistinctElementsOutput/all ../Hashing/FrequencyOfElements/FrequencyOfElementsOutput/all ../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/all ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/all ../Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput/all ../Hashing/SubarrayWith0Sum/SubarrayWith0SumOutput/all ../Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput/all ../String/IntroductionToString/IntroductionToStringOutput/all ../String/PalindromeCheck/PalindromeCheckOutput/all ../String/StringIsSubsequenceOfOther/StringIsSubsequenceOfOtherOutput/all ../String/CheckAnagram/CheckAnagramOutput/all ../String/LeftmostRepeatingCharacter/LeftmostRepeatingCharacterOutput/all ../LinkedList/LLImplement/LLImplementatOutput/all ../LinkedList/TraversingLL/TraversingLLOutput/all ../LinkedList/RecursiveTraversalLL/RecursiveTraversalLLOutput/all ../LinkedList/InsertAtBegin/InsertAtBeginOutput/all ../LinkedList/InsertAtEnd/InsertAtEndOutput/all ../LinkedList/DeleteFirstNode/DeleteFirstNodeOutput/all ../LinkedList/DeleteLastNode/DeleteLastNodeOutput/all ../LinkedList/InsertAtAnyPos/InsertAtAnyPosOutput/all ../LinkedList/SearchInLL/SearchInLLOutput/all ../LinkedList/DoubleLL/DoubleLLOutput/all ../LinkedList/InsertAtBeginInDoubleLL/InsertAtBeginInDoubleLLOutput/all ../LinkedList/InsertAtEndInDoubleLL/InsertAtEndInDoubleLLOutput/all ../LinkedList/ReverseADoubleLL/ReverseADoubleLLOutput/all ../LinkedList/DeleteHeadDDL/DeleteHeadDDLOutput/all ../LinkedList/DeleteLastDDL/DeleteLastDDLOutput/all ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/all ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/all ../LinkedList/CircularLL/CircularLLOutput/all ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/all ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/all ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/all ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/all
 
 # =============================================================================
 # Built-in targets
@@ -2171,14 +2675,14 @@ build all: phony ../Hashing/unordered_set/unordered_setOutput/all ../Hashing/uno
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt ../Hashing/CountDistinctElements/CMakeLists.txt ../Hashing/FrequencyOfElements/CMakeLists.txt ../Hashing/IntersectionOf2Arrays/CMakeLists.txt ../Hashing/PairWithGivenSumInUnsortedArray/CMakeLists.txt ../Hashing/SubarrayWith0Sum/CMakeLists.txt ../Hashing/SubarrayWithGivenSum/CMakeLists.txt ../Hashing/unionOf2SortedArrays/CMakeLists.txt ../Hashing/unordered_map/CMakeLists.txt ../Hashing/unordered_set/CMakeLists.txt ../LinkedList/DeleteFirstNode/CMakeLists.txt ../LinkedList/DeleteHeadDDL/CMakeLists.txt ../LinkedList/DeleteLastDDL/CMakeLists.txt ../LinkedList/DeleteLastNode/CMakeLists.txt ../LinkedList/DoubleLL/CMakeLists.txt ../LinkedList/InsertAtAnyPos/CMakeLists.txt ../LinkedList/InsertAtBeginInDoubleLL/CMakeLists.txt ../LinkedList/InsertAtBegin/CMakeLists.txt ../LinkedList/InsertAtEndInDoubleLL/CMakeLists.txt ../LinkedList/InsertAtEnd/CMakeLists.txt ../LinkedList/LLImplement/CMakeLists.txt ../LinkedList/RecursiveTraversalLL/CMakeLists.txt ../LinkedList/ReverseADoubleLL/CMakeLists.txt ../LinkedList/SearchInLL/CMakeLists.txt ../LinkedList/TraversingLL/CMakeLists.txt ../String/CheckAnagram/CMakeLists.txt ../String/IntroductionToString/CMakeLists.txt ../String/LeftmostRepeatingCharacter/CMakeLists.txt ../String/PalindromeCheck/CMakeLists.txt ../String/StringIsSubsequenceOfOther/CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt ../Hashing/CountDistinctElements/CMakeLists.txt ../Hashing/FrequencyOfElements/CMakeLists.txt ../Hashing/IntersectionOf2Arrays/CMakeLists.txt ../Hashing/PairWithGivenSumInUnsortedArray/CMakeLists.txt ../Hashing/SubarrayWith0Sum/CMakeLists.txt ../Hashing/SubarrayWithGivenSum/CMakeLists.txt ../Hashing/unionOf2SortedArrays/CMakeLists.txt ../Hashing/unordered_map/CMakeLists.txt ../Hashing/unordered_set/CMakeLists.txt ../LinkedList/CircularLL/CMakeLists.txt ../LinkedList/DeleteFirstNode/CMakeLists.txt ../LinkedList/DeleteHeadCLL/CMakeLists.txt ../LinkedList/DeleteHeadDDL/CMakeLists.txt ../LinkedList/DeleteKthCLL/CMakeLists.txt ../LinkedList/DeleteLastDDL/CMakeLists.txt ../LinkedList/DeleteLastNode/CMakeLists.txt ../LinkedList/DoubleLL/CMakeLists.txt ../LinkedList/InsertAtAnyPosDDL/CMakeLists.txt ../LinkedList/InsertAtAnyPos/CMakeLists.txt ../LinkedList/InsertAtBeginCLL/CMakeLists.txt ../LinkedList/InsertAtBeginInDoubleLL/CMakeLists.txt ../LinkedList/InsertAtBegin/CMakeLists.txt ../LinkedList/InsertAtEndCLL/CMakeLists.txt ../LinkedList/InsertAtEndInDoubleLL/CMakeLists.txt ../LinkedList/InsertAtEnd/CMakeLists.txt ../LinkedList/LLImplement/CMakeLists.txt ../LinkedList/RecursiveTraversalLL/CMakeLists.txt ../LinkedList/RemoveDuplicateLL/CMakeLists.txt ../LinkedList/ReverseADoubleLL/CMakeLists.txt ../LinkedList/SearchInLL/CMakeLists.txt ../LinkedList/TraversingLL/CMakeLists.txt ../String/CheckAnagram/CMakeLists.txt ../String/IntroductionToString/CMakeLists.txt ../String/LeftmostRepeatingCharacter/CMakeLists.txt ../String/PalindromeCheck/CMakeLists.txt ../String/StringIsSubsequenceOfOther/CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt ../Hashing/CountDistinctElements/CMakeLists.txt ../Hashing/FrequencyOfElements/CMakeLists.txt ../Hashing/IntersectionOf2Arrays/CMakeLists.txt ../Hashing/PairWithGivenSumInUnsortedArray/CMakeLists.txt ../Hashing/SubarrayWith0Sum/CMakeLists.txt ../Hashing/SubarrayWithGivenSum/CMakeLists.txt ../Hashing/unionOf2SortedArrays/CMakeLists.txt ../Hashing/unordered_map/CMakeLists.txt ../Hashing/unordered_set/CMakeLists.txt ../LinkedList/DeleteFirstNode/CMakeLists.txt ../LinkedList/DeleteHeadDDL/CMakeLists.txt ../LinkedList/DeleteLastDDL/CMakeLists.txt ../LinkedList/DeleteLastNode/CMakeLists.txt ../LinkedList/DoubleLL/CMakeLists.txt ../LinkedList/InsertAtAnyPos/CMakeLists.txt ../LinkedList/InsertAtBeginInDoubleLL/CMakeLists.txt ../LinkedList/InsertAtBegin/CMakeLists.txt ../LinkedList/InsertAtEndInDoubleLL/CMakeLists.txt ../LinkedList/InsertAtEnd/CMakeLists.txt ../LinkedList/LLImplement/CMakeLists.txt ../LinkedList/RecursiveTraversalLL/CMakeLists.txt ../LinkedList/ReverseADoubleLL/CMakeLists.txt ../LinkedList/SearchInLL/CMakeLists.txt ../LinkedList/TraversingLL/CMakeLists.txt ../String/CheckAnagram/CMakeLists.txt ../String/IntroductionToString/CMakeLists.txt ../String/LeftmostRepeatingCharacter/CMakeLists.txt ../String/PalindromeCheck/CMakeLists.txt ../String/StringIsSubsequenceOfOther/CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake: phony
+build ../CMakeLists.txt ../Hashing/CountDistinctElements/CMakeLists.txt ../Hashing/FrequencyOfElements/CMakeLists.txt ../Hashing/IntersectionOf2Arrays/CMakeLists.txt ../Hashing/PairWithGivenSumInUnsortedArray/CMakeLists.txt ../Hashing/SubarrayWith0Sum/CMakeLists.txt ../Hashing/SubarrayWithGivenSum/CMakeLists.txt ../Hashing/unionOf2SortedArrays/CMakeLists.txt ../Hashing/unordered_map/CMakeLists.txt ../Hashing/unordered_set/CMakeLists.txt ../LinkedList/CircularLL/CMakeLists.txt ../LinkedList/DeleteFirstNode/CMakeLists.txt ../LinkedList/DeleteHeadCLL/CMakeLists.txt ../LinkedList/DeleteHeadDDL/CMakeLists.txt ../LinkedList/DeleteKthCLL/CMakeLists.txt ../LinkedList/DeleteLastDDL/CMakeLists.txt ../LinkedList/DeleteLastNode/CMakeLists.txt ../LinkedList/DoubleLL/CMakeLists.txt ../LinkedList/InsertAtAnyPosDDL/CMakeLists.txt ../LinkedList/InsertAtAnyPos/CMakeLists.txt ../LinkedList/InsertAtBeginCLL/CMakeLists.txt ../LinkedList/InsertAtBeginInDoubleLL/CMakeLists.txt ../LinkedList/InsertAtBegin/CMakeLists.txt ../LinkedList/InsertAtEndCLL/CMakeLists.txt ../LinkedList/InsertAtEndInDoubleLL/CMakeLists.txt ../LinkedList/InsertAtEnd/CMakeLists.txt ../LinkedList/LLImplement/CMakeLists.txt ../LinkedList/RecursiveTraversalLL/CMakeLists.txt ../LinkedList/RemoveDuplicateLL/CMakeLists.txt ../LinkedList/ReverseADoubleLL/CMakeLists.txt ../LinkedList/SearchInLL/CMakeLists.txt ../LinkedList/TraversingLL/CMakeLists.txt ../String/CheckAnagram/CMakeLists.txt ../String/IntroductionToString/CMakeLists.txt ../String/LeftmostRepeatingCharacter/CMakeLists.txt ../String/PalindromeCheck/CMakeLists.txt ../String/StringIsSubsequenceOfOther/CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake: phony
 
 
 #############################################

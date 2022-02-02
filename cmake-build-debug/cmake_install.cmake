@@ -182,6 +182,41 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("D:/ClionProjects/DSA/LinkedList/DeleteLastDDL/DeleteLastDDLOutput/cmake_install.cmake")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/LinkedList/CircularLL/CircularLLOutput/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/LinkedList/DeleteKthCLL/DeleteKthCLLOutput/cmake_install.cmake")
+endif()
+
 if(CMAKE_INSTALL_COMPONENT)
   set(CMAKE_INSTALL_MANIFEST "install_manifest_${CMAKE_INSTALL_COMPONENT}.txt")
 else()

@@ -34,3 +34,11 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/InsertAtEndInDoubleLL" "${PRO
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/ReverseADoubleLL" "${PROJECT_SOURCE_DIR}/LinkedList/ReverseADoubleLL/ReverseADoubleLLOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/DeleteHeadDDL" "${PROJECT_SOURCE_DIR}/LinkedList/DeleteHeadDDL/DeleteHeadDDLOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/DeleteLastDDL" "${PROJECT_SOURCE_DIR}/LinkedList/DeleteLastDDL/DeleteLastDDLOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/InsertAtAnyPosDDL" "${PROJECT_SOURCE_DIR}/LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/RemoveDuplicateLL" "${PROJECT_SOURCE_DIR}/LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/CircularLL" "${PROJECT_SOURCE_DIR}/LinkedList/CircularLL/CircularLLOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/InsertAtBeginCLL" "${PROJECT_SOURCE_DIR}/LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/InsertAtEndCLL" "${PROJECT_SOURCE_DIR}/LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/DeleteHeadCLL" "${PROJECT_SOURCE_DIR}/LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/DeleteKthCLL" "${PROJECT_SOURCE_DIR}/LinkedList/DeleteKthCLL/DeleteKthCLLOutput")
+
