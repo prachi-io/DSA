@@ -73,7 +73,10 @@ Node *deleteKth(Node *head , int K) {
     for (int i = 0 ; i < K - 2 ; i++) {
         curr = curr -> next;
     }
-    Node *
+    Node *temp = curr -> next;
+    curr -> next = curr -> next -> next;
+    delete temp;
+    return head;
 }
 int main() {
     Node *head = new Node(10);
