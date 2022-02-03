@@ -252,6 +252,12 @@
 		},
 		{
 			"path" : "LinkedList/DeleteKthCLL/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/CircularDoubleLL/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/SortedInsertLL/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

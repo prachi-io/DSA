@@ -15,7 +15,7 @@
 2	343	6654217728881460	../LinkedList/DoubleLL/DoubleLLOutput/CMakeFiles/DoubleLL.dir/DoubleLL.cpp.obj	65ef641ffb2a213d
 369	607	6655417821469293	../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/InsertAtEndCLL.exe	c993c39853184ef8
 328	432	6651009388564395	../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/IntersectionOf2Arrays.exe	3af98c0dd4c2e340
-1	719	6655435003603050	build.ninja	2d60f68ecbaa95e0
+1	719	6655811603127774	build.ninja	2d60f68ecbaa95e0
 0	425	6651070746665040	../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/CMakeFiles/unionOf2SortedArrays.dir/unionOf2SortedArrays.cpp.obj	dbcda303adde0a5f
 2	455	6651451295415490	../Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput/CMakeFiles/PairWithGivenSumInUnsortedArray.dir/PairWithGivenSumInUnsortedArray.cpp.obj	50edeeffd6440e4e
 456	563	6651451296480925	../Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput/PairWithGivenSumInUnsortedArray.exe	99aa5fcc207f0630
@@ -56,9 +56,5 @@
 225	283	6655049247892868	../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/InsertAtAnyPosDDL.exe	e913153395267f7f
 0	245	6655096531501872	../LinkedList/CircularLL/CircularLLOutput/CMakeFiles/CircularLL.dir/CircularLL.cpp.obj	68e68e549630ef8e
 0	241	6655431603722940	../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/CMakeFiles/DeleteHeadCLL.dir/DeleteHeadCLL.cpp.obj	6b80618344f692a9
-0	268	6655438735609270	../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/CMakeFiles/DeleteKthCLL.dir/DeleteKthCLL.cpp.obj	ed9bb3b61ade6394
-268	378	6655438736694027	../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/DeleteKthCLL.exe	bda303c5e954b68f
-2	242	6655439667291282	../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/CMakeFiles/DeleteKthCLL.dir/DeleteKthCLL.cpp.obj	ed9bb3b61ade6394
-242	333	6655439668169679	../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/DeleteKthCLL.exe	bda303c5e954b68f
 2	247	6655439879366217	../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/CMakeFiles/DeleteKthCLL.dir/DeleteKthCLL.cpp.obj	ed9bb3b61ade6394
 247	351	6655439880388619	../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/DeleteKthCLL.exe	bda303c5e954b68f
