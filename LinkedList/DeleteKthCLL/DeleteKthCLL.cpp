@@ -1,3 +1,5 @@
+/// My
+/*
 #include<iostream>
 using namespace std;
 struct Node {
@@ -25,6 +27,53 @@ Node *deleteKth(Node *head , int K) {
         return t;
     }
     return head;
+}
+int main() {
+    Node *head = new Node(10);
+    head -> next = new Node(20);
+    head -> next -> next = new Node(30);
+    head -> next -> next  -> next = head;
+    head = deleteKth(head , 2);
+    return 0;
+}*/
+
+/// Sir
+#include<iostream>
+using namespace std;
+struct Node {
+    int data;
+    Node *next;
+    Node (int x) {
+        data = x;
+        next = NULL;
+    }
+};
+Node *DeleteHead(Node *head) {
+    if (head == NULL) {
+        return NULL;
+    }
+    if(head -> next == head) {
+        delete head;
+        return NULL;
+    }
+    head -> data = head -> next -> data;
+    Node *temp = head -> next;
+    head -> next = head -> next -> next;
+    delete temp;
+    return head;
+}
+Node *deleteKth(Node *head , int K) {
+    if (head == NULL) {
+        return head;
+    }
+    if(K == 1) {
+        return DeleteHead(head);
+    }
+    Node *curr = head;
+    for (int i = 0 ; i < K - 2 ; i++) {
+        curr = curr -> next;
+    }
+    Node *
 }
 int main() {
     Node *head = new Node(10);
