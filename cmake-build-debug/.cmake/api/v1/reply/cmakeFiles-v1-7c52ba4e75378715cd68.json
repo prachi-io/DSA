@@ -258,6 +258,12 @@
 		},
 		{
 			"path" : "LinkedList/SortedInsertLL/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/InsertMiddleLL/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/NthNodeFromEnd/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

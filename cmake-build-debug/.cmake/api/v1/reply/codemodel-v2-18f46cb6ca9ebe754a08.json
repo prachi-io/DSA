@@ -45,7 +45,9 @@
 						35,
 						36,
 						37,
-						38
+						38,
+						39,
+						40
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -67,7 +69,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						37
+						39
 					]
 				},
 				{
@@ -82,7 +84,7 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
-						36
+						38
 					]
 				},
 				{
@@ -127,7 +129,7 @@
 					"source" : "Hashing/IntersectionOf2Arrays",
 					"targetIndexes" : 
 					[
-						20
+						21
 					]
 				},
 				{
@@ -142,7 +144,7 @@
 					"source" : "Hashing/unionOf2SortedArrays",
 					"targetIndexes" : 
 					[
-						35
+						37
 					]
 				},
 				{
@@ -157,7 +159,7 @@
 					"source" : "Hashing/PairWithGivenSumInUnsortedArray",
 					"targetIndexes" : 
 					[
-						24
+						26
 					]
 				},
 				{
@@ -172,7 +174,7 @@
 					"source" : "Hashing/SubarrayWith0Sum",
 					"targetIndexes" : 
 					[
-						32
+						34
 					]
 				},
 				{
@@ -187,7 +189,7 @@
 					"source" : "Hashing/SubarrayWithGivenSum",
 					"targetIndexes" : 
 					[
-						33
+						35
 					]
 				},
 				{
@@ -202,7 +204,7 @@
 					"source" : "String/IntroductionToString",
 					"targetIndexes" : 
 					[
-						21
+						22
 					]
 				},
 				{
@@ -217,7 +219,7 @@
 					"source" : "String/PalindromeCheck",
 					"targetIndexes" : 
 					[
-						25
+						27
 					]
 				},
 				{
@@ -232,7 +234,7 @@
 					"source" : "String/StringIsSubsequenceOfOther",
 					"targetIndexes" : 
 					[
-						31
+						33
 					]
 				},
 				{
@@ -262,7 +264,7 @@
 					"source" : "String/LeftmostRepeatingCharacter",
 					"targetIndexes" : 
 					[
-						23
+						24
 					]
 				},
 				{
@@ -277,7 +279,7 @@
 					"source" : "LinkedList/LLImplement",
 					"targetIndexes" : 
 					[
-						22
+						23
 					]
 				},
 				{
@@ -292,7 +294,7 @@
 					"source" : "LinkedList/TraversingLL",
 					"targetIndexes" : 
 					[
-						34
+						36
 					]
 				},
 				{
@@ -307,7 +309,7 @@
 					"source" : "LinkedList/RecursiveTraversalLL",
 					"targetIndexes" : 
 					[
-						26
+						28
 					]
 				},
 				{
@@ -397,7 +399,7 @@
 					"source" : "LinkedList/SearchInLL",
 					"targetIndexes" : 
 					[
-						29
+						31
 					]
 				},
 				{
@@ -457,7 +459,7 @@
 					"source" : "LinkedList/ReverseADoubleLL",
 					"targetIndexes" : 
 					[
-						28
+						30
 					]
 				},
 				{
@@ -517,7 +519,7 @@
 					"source" : "LinkedList/RemoveDuplicateLL",
 					"targetIndexes" : 
 					[
-						27
+						29
 					]
 				},
 				{
@@ -622,7 +624,37 @@
 					"source" : "LinkedList/SortedInsertLL",
 					"targetIndexes" : 
 					[
-						30
+						32
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/InsertMiddleLL/InsertMiddleLLOutput",
+					"jsonFile" : "directory-LinkedList.InsertMiddleLL-Debug-10745da607f52bbb44ab.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/InsertMiddleLL",
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/NthNodeFromEnd/NthNodeFromEndOutput",
+					"jsonFile" : "directory-LinkedList.NthNodeFromEnd-Debug-cd8b1a57cd593bc3bbf4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/NthNodeFromEnd",
+					"targetIndexes" : 
+					[
+						25
 					]
 				}
 			],
@@ -670,7 +702,9 @@
 						35,
 						36,
 						37,
-						38
+						38,
+						39,
+						40
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
@@ -712,7 +746,9 @@
 						34,
 						35,
 						36,
-						37
+						37,
+						38,
+						39
 					]
 				}
 			],
@@ -859,6 +895,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 39,
+					"id" : "InsertMiddleLL::@53a69ff523b4e34d05f7",
+					"jsonFile" : "target-InsertMiddleLL-Debug-effe0344a3cc3b1b0047.json",
+					"name" : "InsertMiddleLL",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 5,
 					"id" : "IntersectionOf2Arrays::@a07c0b2cf5b7fbcb55c5",
 					"jsonFile" : "target-IntersectionOf2Arrays-Debug-9be109f8730f095d588b.json",
@@ -884,6 +927,13 @@
 					"id" : "LeftmostRepeatingCharacter::@b4cac2c168b0925fc981",
 					"jsonFile" : "target-LeftmostRepeatingCharacter-Debug-4c65cc82280ffd1010d9.json",
 					"name" : "LeftmostRepeatingCharacter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 40,
+					"id" : "NthNodeFromEnd::@b1519f8d988c9b389d56",
+					"jsonFile" : "target-NthNodeFromEnd-Debug-b1a51a2d28e651bbc3d6.json",
+					"name" : "NthNodeFromEnd",
 					"projectIndex" : 0
 				},
 				{

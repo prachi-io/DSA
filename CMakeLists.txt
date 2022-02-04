@@ -43,4 +43,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/DeleteHeadCLL" "${PROJECT_SOU
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/DeleteKthCLL" "${PROJECT_SOURCE_DIR}/LinkedList/DeleteKthCLL/DeleteKthCLLOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/CircularDoubleLL" "${PROJECT_SOURCE_DIR}/LinkedList/CircularDoubleLL/CircularDoubleLLOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/SortedInsertLL" "${PROJECT_SOURCE_DIR}/LinkedList/SortedInsertLL/SortedInsertLLOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/InsertMiddleLL" "${PROJECT_SOURCE_DIR}/LinkedList/InsertMiddleLL/InsertMiddleLLOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/NthNodeFromEnd" "${PROJECT_SOURCE_DIR}/LinkedList/NthNodeFromEnd/NthNodeFromEndOutput")
 

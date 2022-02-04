@@ -24,6 +24,35 @@ Node *insertAtEnd(Node *head , int x) {
 
 }
 Node *insertSorted(Node *head , int x) {
+    Node *temp = new Node(x);
+    if(head == NULL) {
+        return temp;
+    }
+    if(head -> next == NULL) {
+        if(x > head -> data) {
+            return insertAtEnd(head , x);
+        }
+        else {
+            temp -> next = head;
+            return temp;
+        }
+    }
+    Node *p = head ;
+    Node *q = head -> next;
+    while(p && q) {
+        if(p -> data <= x && q -> data <= x) {
+            p = q;
+            q = q -> next;
+        }
+        else if(p -> data <= x && q -> data >= x) {
+            p -> next = temp;
+            temp -> next = q;
+        }
+        else {
+
+        }
+    }
+
 
 }
 int main() {
