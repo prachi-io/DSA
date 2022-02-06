@@ -264,6 +264,12 @@
 		},
 		{
 			"path" : "LinkedList/NthNodeFromEnd/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/ReverseIterativeLL/CMakeLists.txt"
+		},
+		{
+			"path" : "LinkedList/MergeTwoSortedLL/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

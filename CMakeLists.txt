@@ -45,4 +45,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/CircularDoubleLL" "${PROJECT_
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/SortedInsertLL" "${PROJECT_SOURCE_DIR}/LinkedList/SortedInsertLL/SortedInsertLLOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/InsertMiddleLL" "${PROJECT_SOURCE_DIR}/LinkedList/InsertMiddleLL/InsertMiddleLLOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/NthNodeFromEnd" "${PROJECT_SOURCE_DIR}/LinkedList/NthNodeFromEnd/NthNodeFromEndOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/ReverseIterativeLL" "${PROJECT_SOURCE_DIR}/LinkedList/ReverseIterativeLL/ReverseIterativeLLOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/MergeTwoSortedLL" "${PROJECT_SOURCE_DIR}/LinkedList/MergeTwoSortedLL/MergeTwoSortedLLOutput")
 

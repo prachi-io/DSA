@@ -47,7 +47,9 @@
 						37,
 						38,
 						39,
-						40
+						40,
+						41,
+						42
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -69,7 +71,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						39
+						41
 					]
 				},
 				{
@@ -84,7 +86,7 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
-						38
+						40
 					]
 				},
 				{
@@ -144,7 +146,7 @@
 					"source" : "Hashing/unionOf2SortedArrays",
 					"targetIndexes" : 
 					[
-						37
+						39
 					]
 				},
 				{
@@ -159,7 +161,7 @@
 					"source" : "Hashing/PairWithGivenSumInUnsortedArray",
 					"targetIndexes" : 
 					[
-						26
+						27
 					]
 				},
 				{
@@ -174,7 +176,7 @@
 					"source" : "Hashing/SubarrayWith0Sum",
 					"targetIndexes" : 
 					[
-						34
+						36
 					]
 				},
 				{
@@ -189,7 +191,7 @@
 					"source" : "Hashing/SubarrayWithGivenSum",
 					"targetIndexes" : 
 					[
-						35
+						37
 					]
 				},
 				{
@@ -219,7 +221,7 @@
 					"source" : "String/PalindromeCheck",
 					"targetIndexes" : 
 					[
-						27
+						28
 					]
 				},
 				{
@@ -234,7 +236,7 @@
 					"source" : "String/StringIsSubsequenceOfOther",
 					"targetIndexes" : 
 					[
-						33
+						35
 					]
 				},
 				{
@@ -294,7 +296,7 @@
 					"source" : "LinkedList/TraversingLL",
 					"targetIndexes" : 
 					[
-						36
+						38
 					]
 				},
 				{
@@ -309,7 +311,7 @@
 					"source" : "LinkedList/RecursiveTraversalLL",
 					"targetIndexes" : 
 					[
-						28
+						29
 					]
 				},
 				{
@@ -399,7 +401,7 @@
 					"source" : "LinkedList/SearchInLL",
 					"targetIndexes" : 
 					[
-						31
+						33
 					]
 				},
 				{
@@ -459,7 +461,7 @@
 					"source" : "LinkedList/ReverseADoubleLL",
 					"targetIndexes" : 
 					[
-						30
+						31
 					]
 				},
 				{
@@ -519,7 +521,7 @@
 					"source" : "LinkedList/RemoveDuplicateLL",
 					"targetIndexes" : 
 					[
-						29
+						30
 					]
 				},
 				{
@@ -624,7 +626,7 @@
 					"source" : "LinkedList/SortedInsertLL",
 					"targetIndexes" : 
 					[
-						32
+						34
 					]
 				},
 				{
@@ -652,6 +654,36 @@
 					"parentIndex" : 0,
 					"projectIndex" : 0,
 					"source" : "LinkedList/NthNodeFromEnd",
+					"targetIndexes" : 
+					[
+						26
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/ReverseIterativeLL/ReverseIterativeLLOutput",
+					"jsonFile" : "directory-LinkedList.ReverseIterativeLL-Debug-bc2db8336688453a7cad.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/ReverseIterativeLL",
+					"targetIndexes" : 
+					[
+						32
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/MergeTwoSortedLL/MergeTwoSortedLLOutput",
+					"jsonFile" : "directory-LinkedList.MergeTwoSortedLL-Debug-ab6021df0603ee2a358e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/MergeTwoSortedLL",
 					"targetIndexes" : 
 					[
 						25
@@ -704,7 +736,9 @@
 						37,
 						38,
 						39,
-						40
+						40,
+						41,
+						42
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
@@ -748,7 +782,9 @@
 						36,
 						37,
 						38,
-						39
+						39,
+						40,
+						41
 					]
 				}
 			],
@@ -930,6 +966,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 42,
+					"id" : "MergeTwoSortedLL::@9335efceaab718857e6e",
+					"jsonFile" : "target-MergeTwoSortedLL-Debug-dbc188e8c01725ffa9cc.json",
+					"name" : "MergeTwoSortedLL",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 40,
 					"id" : "NthNodeFromEnd::@b1519f8d988c9b389d56",
 					"jsonFile" : "target-NthNodeFromEnd-Debug-b1a51a2d28e651bbc3d6.json",
@@ -969,6 +1012,13 @@
 					"id" : "ReverseADoubleLL::@3979006a4ac1c86c86fd",
 					"jsonFile" : "target-ReverseADoubleLL-Debug-6510f051aa2d1afc6cf1.json",
 					"name" : "ReverseADoubleLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 41,
+					"id" : "ReverseIterativeLL::@a698d69b55bc7840f59d",
+					"jsonFile" : "target-ReverseIterativeLL-Debug-82cf93858d8ee85d06d9.json",
+					"name" : "ReverseIterativeLL",
 					"projectIndex" : 0
 				},
 				{
