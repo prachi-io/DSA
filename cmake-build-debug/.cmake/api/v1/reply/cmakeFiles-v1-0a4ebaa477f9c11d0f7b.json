@@ -270,6 +270,24 @@
 		},
 		{
 			"path" : "LinkedList/MergeTwoSortedLL/CMakeLists.txt"
+		},
+		{
+			"path" : "Stack/ArrayImplementation/CMakeLists.txt"
+		},
+		{
+			"path" : "Stack/VectorImplementation/CMakeLists.txt"
+		},
+		{
+			"path" : "Stack/LLImplementation/CMakeLists.txt"
+		},
+		{
+			"path" : "Stack/StackTraversal/CMakeLists.txt"
+		},
+		{
+			"path" : "Stack/BalancedParantheses/CMakeLists.txt"
+		},
+		{
+			"path" : "Stack/ImplementTwoStack/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

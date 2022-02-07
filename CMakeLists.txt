@@ -48,3 +48,10 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/NthNodeFromEnd" "${PROJECT_SO
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/ReverseIterativeLL" "${PROJECT_SOURCE_DIR}/LinkedList/ReverseIterativeLL/ReverseIterativeLLOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/MergeTwoSortedLL" "${PROJECT_SOURCE_DIR}/LinkedList/MergeTwoSortedLL/MergeTwoSortedLLOutput")
 
+add_subdirectory("${PROJECT_SOURCE_DIR}/Stack/ArrayImplementation" "${PROJECT_SOURCE_DIR}/Stack/ArrayImplementation/ArrayImplementationOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Stack/VectorImplementation" "${PROJECT_SOURCE_DIR}/Stack/VectorImplementation/VectorImplementationOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Stack/LLImplementation" "${PROJECT_SOURCE_DIR}/Stack/LLImplementation/LLImplementationOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Stack/StackTraversal" "${PROJECT_SOURCE_DIR}/Stack/StackTraversal/StackTraversalOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Stack/BalancedParantheses" "${PROJECT_SOURCE_DIR}/Stack/BalancedParantheses/BalancedParanthesesOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Stack/ImplementTwoStack" "${PROJECT_SOURCE_DIR}/Stack/ImplementTwoStack/ImplementTwoStackOutput")
+

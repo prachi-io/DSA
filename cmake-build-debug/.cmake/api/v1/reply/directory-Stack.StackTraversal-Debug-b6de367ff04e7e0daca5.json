@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "D:/ClionProjects/DSA/Stack/StackTraversal/StackTraversalOutput",
+		"source" : "Stack/StackTraversal"
+	}
+}

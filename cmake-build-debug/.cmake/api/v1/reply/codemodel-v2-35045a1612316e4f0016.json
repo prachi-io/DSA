@@ -49,7 +49,13 @@
 						39,
 						40,
 						41,
-						42
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -71,7 +77,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						41
+						47
 					]
 				},
 				{
@@ -86,7 +92,7 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
-						40
+						46
 					]
 				},
 				{
@@ -101,7 +107,7 @@
 					"source" : "Hashing/CountDistinctElements",
 					"targetIndexes" : 
 					[
-						3
+						5
 					]
 				},
 				{
@@ -116,7 +122,7 @@
 					"source" : "Hashing/FrequencyOfElements",
 					"targetIndexes" : 
 					[
-						11
+						13
 					]
 				},
 				{
@@ -131,7 +137,7 @@
 					"source" : "Hashing/IntersectionOf2Arrays",
 					"targetIndexes" : 
 					[
-						21
+						24
 					]
 				},
 				{
@@ -146,7 +152,7 @@
 					"source" : "Hashing/unionOf2SortedArrays",
 					"targetIndexes" : 
 					[
-						39
+						45
 					]
 				},
 				{
@@ -161,7 +167,7 @@
 					"source" : "Hashing/PairWithGivenSumInUnsortedArray",
 					"targetIndexes" : 
 					[
-						27
+						31
 					]
 				},
 				{
@@ -176,7 +182,7 @@
 					"source" : "Hashing/SubarrayWith0Sum",
 					"targetIndexes" : 
 					[
-						36
+						41
 					]
 				},
 				{
@@ -191,7 +197,7 @@
 					"source" : "Hashing/SubarrayWithGivenSum",
 					"targetIndexes" : 
 					[
-						37
+						42
 					]
 				},
 				{
@@ -206,7 +212,7 @@
 					"source" : "String/IntroductionToString",
 					"targetIndexes" : 
 					[
-						22
+						25
 					]
 				},
 				{
@@ -221,7 +227,7 @@
 					"source" : "String/PalindromeCheck",
 					"targetIndexes" : 
 					[
-						28
+						32
 					]
 				},
 				{
@@ -236,7 +242,7 @@
 					"source" : "String/StringIsSubsequenceOfOther",
 					"targetIndexes" : 
 					[
-						35
+						40
 					]
 				},
 				{
@@ -251,7 +257,7 @@
 					"source" : "String/CheckAnagram",
 					"targetIndexes" : 
 					[
-						0
+						2
 					]
 				},
 				{
@@ -266,7 +272,7 @@
 					"source" : "String/LeftmostRepeatingCharacter",
 					"targetIndexes" : 
 					[
-						24
+						28
 					]
 				},
 				{
@@ -281,7 +287,7 @@
 					"source" : "LinkedList/LLImplement",
 					"targetIndexes" : 
 					[
-						23
+						26
 					]
 				},
 				{
@@ -296,7 +302,7 @@
 					"source" : "LinkedList/TraversingLL",
 					"targetIndexes" : 
 					[
-						38
+						43
 					]
 				},
 				{
@@ -311,7 +317,7 @@
 					"source" : "LinkedList/RecursiveTraversalLL",
 					"targetIndexes" : 
 					[
-						29
+						33
 					]
 				},
 				{
@@ -326,7 +332,7 @@
 					"source" : "LinkedList/InsertAtBegin",
 					"targetIndexes" : 
 					[
-						14
+						17
 					]
 				},
 				{
@@ -341,7 +347,7 @@
 					"source" : "LinkedList/InsertAtEnd",
 					"targetIndexes" : 
 					[
-						17
+						20
 					]
 				},
 				{
@@ -356,7 +362,7 @@
 					"source" : "LinkedList/DeleteFirstNode",
 					"targetIndexes" : 
 					[
-						4
+						6
 					]
 				},
 				{
@@ -371,7 +377,7 @@
 					"source" : "LinkedList/DeleteLastNode",
 					"targetIndexes" : 
 					[
-						9
+						11
 					]
 				},
 				{
@@ -386,7 +392,7 @@
 					"source" : "LinkedList/InsertAtAnyPos",
 					"targetIndexes" : 
 					[
-						12
+						15
 					]
 				},
 				{
@@ -401,7 +407,7 @@
 					"source" : "LinkedList/SearchInLL",
 					"targetIndexes" : 
 					[
-						33
+						37
 					]
 				},
 				{
@@ -416,7 +422,7 @@
 					"source" : "LinkedList/DoubleLL",
 					"targetIndexes" : 
 					[
-						10
+						12
 					]
 				},
 				{
@@ -431,7 +437,7 @@
 					"source" : "LinkedList/InsertAtBeginInDoubleLL",
 					"targetIndexes" : 
 					[
-						16
+						19
 					]
 				},
 				{
@@ -446,7 +452,7 @@
 					"source" : "LinkedList/InsertAtEndInDoubleLL",
 					"targetIndexes" : 
 					[
-						19
+						22
 					]
 				},
 				{
@@ -461,7 +467,7 @@
 					"source" : "LinkedList/ReverseADoubleLL",
 					"targetIndexes" : 
 					[
-						31
+						35
 					]
 				},
 				{
@@ -476,7 +482,7 @@
 					"source" : "LinkedList/DeleteHeadDDL",
 					"targetIndexes" : 
 					[
-						6
+						8
 					]
 				},
 				{
@@ -491,7 +497,7 @@
 					"source" : "LinkedList/DeleteLastDDL",
 					"targetIndexes" : 
 					[
-						8
+						10
 					]
 				},
 				{
@@ -506,7 +512,7 @@
 					"source" : "LinkedList/InsertAtAnyPosDDL",
 					"targetIndexes" : 
 					[
-						13
+						16
 					]
 				},
 				{
@@ -521,7 +527,7 @@
 					"source" : "LinkedList/RemoveDuplicateLL",
 					"targetIndexes" : 
 					[
-						30
+						34
 					]
 				},
 				{
@@ -536,7 +542,7 @@
 					"source" : "LinkedList/CircularLL",
 					"targetIndexes" : 
 					[
-						2
+						4
 					]
 				},
 				{
@@ -551,7 +557,7 @@
 					"source" : "LinkedList/InsertAtBeginCLL",
 					"targetIndexes" : 
 					[
-						15
+						18
 					]
 				},
 				{
@@ -566,7 +572,7 @@
 					"source" : "LinkedList/InsertAtEndCLL",
 					"targetIndexes" : 
 					[
-						18
+						21
 					]
 				},
 				{
@@ -581,7 +587,7 @@
 					"source" : "LinkedList/DeleteHeadCLL",
 					"targetIndexes" : 
 					[
-						5
+						7
 					]
 				},
 				{
@@ -596,7 +602,7 @@
 					"source" : "LinkedList/DeleteKthCLL",
 					"targetIndexes" : 
 					[
-						7
+						9
 					]
 				},
 				{
@@ -611,7 +617,7 @@
 					"source" : "LinkedList/CircularDoubleLL",
 					"targetIndexes" : 
 					[
-						1
+						3
 					]
 				},
 				{
@@ -626,7 +632,7 @@
 					"source" : "LinkedList/SortedInsertLL",
 					"targetIndexes" : 
 					[
-						34
+						38
 					]
 				},
 				{
@@ -641,7 +647,7 @@
 					"source" : "LinkedList/InsertMiddleLL",
 					"targetIndexes" : 
 					[
-						20
+						23
 					]
 				},
 				{
@@ -656,7 +662,7 @@
 					"source" : "LinkedList/NthNodeFromEnd",
 					"targetIndexes" : 
 					[
-						26
+						30
 					]
 				},
 				{
@@ -671,7 +677,7 @@
 					"source" : "LinkedList/ReverseIterativeLL",
 					"targetIndexes" : 
 					[
-						32
+						36
 					]
 				},
 				{
@@ -686,7 +692,97 @@
 					"source" : "LinkedList/MergeTwoSortedLL",
 					"targetIndexes" : 
 					[
-						25
+						29
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Stack/ArrayImplementation/ArrayImplementationOutput",
+					"jsonFile" : "directory-Stack.ArrayImplementation-Debug-c441e082600b846c0b0c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Stack/ArrayImplementation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Stack/VectorImplementation/VectorImplementationOutput",
+					"jsonFile" : "directory-Stack.VectorImplementation-Debug-14862a2ca801e592be33.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Stack/VectorImplementation",
+					"targetIndexes" : 
+					[
+						44
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Stack/LLImplementation/LLImplementationOutput",
+					"jsonFile" : "directory-Stack.LLImplementation-Debug-b60cb471a03bee26ff50.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Stack/LLImplementation",
+					"targetIndexes" : 
+					[
+						27
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Stack/StackTraversal/StackTraversalOutput",
+					"jsonFile" : "directory-Stack.StackTraversal-Debug-b6de367ff04e7e0daca5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Stack/StackTraversal",
+					"targetIndexes" : 
+					[
+						39
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Stack/BalancedParantheses/BalancedParanthesesOutput",
+					"jsonFile" : "directory-Stack.BalancedParantheses-Debug-e655f26a93d5ef15bb0d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Stack/BalancedParantheses",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Stack/ImplementTwoStack/ImplementTwoStackOutput",
+					"jsonFile" : "directory-Stack.ImplementTwoStack-Debug-7459dd87e28f2cf66405.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Stack/ImplementTwoStack",
+					"targetIndexes" : 
+					[
+						14
 					]
 				}
 			],
@@ -738,7 +834,13 @@
 						39,
 						40,
 						41,
-						42
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
@@ -784,12 +886,32 @@
 						38,
 						39,
 						40,
-						41
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47
 					]
 				}
 			],
 			"targets" : 
 			[
+				{
+					"directoryIndex" : 43,
+					"id" : "ArrayImplementation::@d77536118b2763e7cc63",
+					"jsonFile" : "target-ArrayImplementation-Debug-af1efe238345783500c9.json",
+					"name" : "ArrayImplementation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 47,
+					"id" : "BalancedParantheses::@60f195ab0eee3feb62df",
+					"jsonFile" : "target-BalancedParantheses-Debug-b152a8594fc12d91fb71.json",
+					"name" : "BalancedParantheses",
+					"projectIndex" : 0
+				},
 				{
 					"directoryIndex" : 13,
 					"id" : "CheckAnagram::@8d392590aabceeae9bcb",
@@ -872,6 +994,13 @@
 					"id" : "FrequencyOfElements::@d37185dfcba18caf6c72",
 					"jsonFile" : "target-FrequencyOfElements-Debug-e5bfb8b60d515872edb0.json",
 					"name" : "FrequencyOfElements",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 48,
+					"id" : "ImplementTwoStack::@0ce14f57b74415fe0e91",
+					"jsonFile" : "target-ImplementTwoStack-Debug-c40f95c4df04aa0ee237.json",
+					"name" : "ImplementTwoStack",
 					"projectIndex" : 0
 				},
 				{
@@ -959,6 +1088,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 45,
+					"id" : "LLImplementation::@784b392a02d69c8ad5da",
+					"jsonFile" : "target-LLImplementation-Debug-644ac59fcac49cfef1e1.json",
+					"name" : "LLImplementation",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 14,
 					"id" : "LeftmostRepeatingCharacter::@b4cac2c168b0925fc981",
 					"jsonFile" : "target-LeftmostRepeatingCharacter-Debug-4c65cc82280ffd1010d9.json",
@@ -1036,6 +1172,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 46,
+					"id" : "StackTraversal::@aac8cb387446c7971767",
+					"jsonFile" : "target-StackTraversal-Debug-5f2013666106dbb37dc6.json",
+					"name" : "StackTraversal",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 12,
 					"id" : "StringIsSubsequenceOfOther::@bba2bb81eeb7189f5134",
 					"jsonFile" : "target-StringIsSubsequenceOfOther-Debug-d9f943a504ce9453a609.json",
@@ -1061,6 +1204,13 @@
 					"id" : "TraversingLL::@8a09b595923986347340",
 					"jsonFile" : "target-TraversingLL-Debug-7b6d9e61bf26aa0b4942.json",
 					"name" : "TraversingLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 44,
+					"id" : "VectorImplementation::@d31e37aa92f6d21ba8ac",
+					"jsonFile" : "target-VectorImplementation-Debug-42c334d07ae98580d9b8.json",
+					"name" : "VectorImplementation",
 					"projectIndex" : 0
 				},
 				{
