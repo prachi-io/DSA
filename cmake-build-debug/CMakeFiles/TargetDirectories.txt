@@ -159,3 +159,6 @@ D:/ClionProjects/DSA/Queue/QueueTraversal/QueueTraversalOutput/CMakeFiles/rebuil
 D:/ClionProjects/DSA/Queue/StackUsingQueue/StackUsingQueueOutput/CMakeFiles/StackUsingQueue.dir
 D:/ClionProjects/DSA/Queue/StackUsingQueue/StackUsingQueueOutput/CMakeFiles/edit_cache.dir
 D:/ClionProjects/DSA/Queue/StackUsingQueue/StackUsingQueueOutput/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/DSA/Queue/ReverseIterative/ReverseIterativeOutput/CMakeFiles/edit_cache.dir
+D:/ClionProjects/DSA/Queue/ReverseIterative/ReverseIterativeOutput/CMakeFiles/ReverseIterative.dir
+D:/ClionProjects/DSA/Queue/ReverseIterative/ReverseIterativeOutput/CMakeFiles/rebuild_cache.dir

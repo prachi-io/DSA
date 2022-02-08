@@ -60,7 +60,8 @@
 						50,
 						51,
 						52,
-						53
+						53,
+						54
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -82,7 +83,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						52
+						53
 					]
 				},
 				{
@@ -97,7 +98,7 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
-						51
+						52
 					]
 				},
 				{
@@ -157,7 +158,7 @@
 					"source" : "Hashing/unionOf2SortedArrays",
 					"targetIndexes" : 
 					[
-						50
+						51
 					]
 				},
 				{
@@ -187,7 +188,7 @@
 					"source" : "Hashing/SubarrayWith0Sum",
 					"targetIndexes" : 
 					[
-						46
+						47
 					]
 				},
 				{
@@ -202,7 +203,7 @@
 					"source" : "Hashing/SubarrayWithGivenSum",
 					"targetIndexes" : 
 					[
-						47
+						48
 					]
 				},
 				{
@@ -247,7 +248,7 @@
 					"source" : "String/StringIsSubsequenceOfOther",
 					"targetIndexes" : 
 					[
-						45
+						46
 					]
 				},
 				{
@@ -307,7 +308,7 @@
 					"source" : "LinkedList/TraversingLL",
 					"targetIndexes" : 
 					[
-						48
+						49
 					]
 				},
 				{
@@ -412,7 +413,7 @@
 					"source" : "LinkedList/SearchInLL",
 					"targetIndexes" : 
 					[
-						40
+						41
 					]
 				},
 				{
@@ -637,7 +638,7 @@
 					"source" : "LinkedList/SortedInsertLL",
 					"targetIndexes" : 
 					[
-						42
+						43
 					]
 				},
 				{
@@ -682,7 +683,7 @@
 					"source" : "LinkedList/ReverseIterativeLL",
 					"targetIndexes" : 
 					[
-						39
+						40
 					]
 				},
 				{
@@ -727,7 +728,7 @@
 					"source" : "Stack/VectorImplementation",
 					"targetIndexes" : 
 					[
-						49
+						50
 					]
 				},
 				{
@@ -757,7 +758,7 @@
 					"source" : "Stack/StackTraversal",
 					"targetIndexes" : 
 					[
-						43
+						44
 					]
 				},
 				{
@@ -802,7 +803,7 @@
 					"source" : "Queue/SimpleArrayImplementation",
 					"targetIndexes" : 
 					[
-						41
+						42
 					]
 				},
 				{
@@ -862,7 +863,22 @@
 					"source" : "Queue/StackUsingQueue",
 					"targetIndexes" : 
 					[
-						44
+						45
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Queue/ReverseIterative/ReverseIterativeOutput",
+					"jsonFile" : "directory-Queue.ReverseIterative-Debug-cbe15a7f40b2c45cf003.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Queue/ReverseIterative",
+					"targetIndexes" : 
+					[
+						39
 					]
 				}
 			],
@@ -925,7 +941,8 @@
 						50,
 						51,
 						52,
-						53
+						53,
+						54
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
@@ -982,7 +999,8 @@
 						49,
 						50,
 						51,
-						52
+						52,
+						53
 					]
 				}
 			],
@@ -1259,6 +1277,13 @@
 					"id" : "ReverseADoubleLL::@3979006a4ac1c86c86fd",
 					"jsonFile" : "target-ReverseADoubleLL-Debug-6510f051aa2d1afc6cf1.json",
 					"name" : "ReverseADoubleLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 54,
+					"id" : "ReverseIterative::@d98c438d6bf7f98906cd",
+					"jsonFile" : "target-ReverseIterative-Debug-4f53fa45f381cdf3b242.json",
+					"name" : "ReverseIterative",
 					"projectIndex" : 0
 				},
 				{

@@ -60,4 +60,5 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/CircularArrayImplementation" "${PR
 add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/LinkedListImplementation" "${PROJECT_SOURCE_DIR}/Queue/LinkedListImplementation/LinkedListImplementationOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/QueueTraversal" "${PROJECT_SOURCE_DIR}/Queue/QueueTraversal/QueueTraversalOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/StackUsingQueue" "${PROJECT_SOURCE_DIR}/Queue/StackUsingQueue/StackUsingQueueOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/ReverseIterative" "${PROJECT_SOURCE_DIR}/Queue/ReverseIterative/ReverseIterativeOutput")
 

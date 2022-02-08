@@ -303,6 +303,9 @@
 		},
 		{
 			"path" : "Queue/StackUsingQueue/CMakeLists.txt"
+		},
+		{
+			"path" : "Queue/ReverseIterative/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
