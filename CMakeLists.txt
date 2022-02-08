@@ -55,3 +55,7 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/Stack/StackTraversal" "${PROJECT_SOURCE_
 add_subdirectory("${PROJECT_SOURCE_DIR}/Stack/BalancedParantheses" "${PROJECT_SOURCE_DIR}/Stack/BalancedParantheses/BalancedParanthesesOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Stack/ImplementTwoStack" "${PROJECT_SOURCE_DIR}/Stack/ImplementTwoStack/ImplementTwoStackOutput")
 
+add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/SimpleArrayImplementation" "${PROJECT_SOURCE_DIR}/Queue/SimpleArrayImplementation/SimpleArrayImplementationOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/CircularArrayImplementation" "${PROJECT_SOURCE_DIR}/Queue/CircularArrayImplementation/CircularArrayImplementationOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/LinkedListImplementation" "${PROJECT_SOURCE_DIR}/Queue/LinkedListImplementation/LinkedListImplementationOutput")
+
