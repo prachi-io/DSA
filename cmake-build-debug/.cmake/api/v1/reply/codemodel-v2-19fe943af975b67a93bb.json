@@ -1,0 +1,1376 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Hashing/unordered_set/unordered_setOutput",
+					"jsonFile" : "directory-Hashing.unordered_set-Debug-e72f6893347c46673967.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hashing/unordered_set",
+					"targetIndexes" : 
+					[
+						52
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Hashing/unordered_map/unordered_mapOutput",
+					"jsonFile" : "directory-Hashing.unordered_map-Debug-fa261e06fa748cda819a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hashing/unordered_map",
+					"targetIndexes" : 
+					[
+						51
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Hashing/CountDistinctElements/CountDistinctElementsOutput",
+					"jsonFile" : "directory-Hashing.CountDistinctElements-Debug-418bd2a5a4d570562e79.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hashing/CountDistinctElements",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Hashing/FrequencyOfElements/FrequencyOfElementsOutput",
+					"jsonFile" : "directory-Hashing.FrequencyOfElements-Debug-7b0bebbeda30cf40f935.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hashing/FrequencyOfElements",
+					"targetIndexes" : 
+					[
+						14
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput",
+					"jsonFile" : "directory-Hashing.IntersectionOf2Arrays-Debug-bda706d80eccb1e3e232.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hashing/IntersectionOf2Arrays",
+					"targetIndexes" : 
+					[
+						25
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput",
+					"jsonFile" : "directory-Hashing.unionOf2SortedArrays-Debug-cc23754b1fce22a0c44c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hashing/unionOf2SortedArrays",
+					"targetIndexes" : 
+					[
+						50
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput",
+					"jsonFile" : "directory-Hashing.PairWithGivenSumInUnsortedArray-Debug-f69a2c48220979c1055d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hashing/PairWithGivenSumInUnsortedArray",
+					"targetIndexes" : 
+					[
+						33
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Hashing/SubarrayWith0Sum/SubarrayWith0SumOutput",
+					"jsonFile" : "directory-Hashing.SubarrayWith0Sum-Debug-4ff2f85f856070fb9dc4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hashing/SubarrayWith0Sum",
+					"targetIndexes" : 
+					[
+						46
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput",
+					"jsonFile" : "directory-Hashing.SubarrayWithGivenSum-Debug-5f5b5c13115bb72d0364.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Hashing/SubarrayWithGivenSum",
+					"targetIndexes" : 
+					[
+						47
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/String/IntroductionToString/IntroductionToStringOutput",
+					"jsonFile" : "directory-String.IntroductionToString-Debug-2bd9cff6c1d1b8adfbf5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "String/IntroductionToString",
+					"targetIndexes" : 
+					[
+						26
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/String/PalindromeCheck/PalindromeCheckOutput",
+					"jsonFile" : "directory-String.PalindromeCheck-Debug-ea15b74245c57bb1e443.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "String/PalindromeCheck",
+					"targetIndexes" : 
+					[
+						34
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/String/StringIsSubsequenceOfOther/StringIsSubsequenceOfOtherOutput",
+					"jsonFile" : "directory-String.StringIsSubsequenceOfOther-Debug-b10eff2c121ea3dc2261.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "String/StringIsSubsequenceOfOther",
+					"targetIndexes" : 
+					[
+						45
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/String/CheckAnagram/CheckAnagramOutput",
+					"jsonFile" : "directory-String.CheckAnagram-Debug-58e2d48df1c448ebb31e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "String/CheckAnagram",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/String/LeftmostRepeatingCharacter/LeftmostRepeatingCharacterOutput",
+					"jsonFile" : "directory-String.LeftmostRepeatingCharacter-Debug-e7d59a3b097b79562055.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "String/LeftmostRepeatingCharacter",
+					"targetIndexes" : 
+					[
+						29
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/LLImplement/LLImplementatOutput",
+					"jsonFile" : "directory-LinkedList.LLImplement-Debug-90eae84b5b3047d35970.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/LLImplement",
+					"targetIndexes" : 
+					[
+						27
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/TraversingLL/TraversingLLOutput",
+					"jsonFile" : "directory-LinkedList.TraversingLL-Debug-24d9171746e566271428.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/TraversingLL",
+					"targetIndexes" : 
+					[
+						48
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/RecursiveTraversalLL/RecursiveTraversalLLOutput",
+					"jsonFile" : "directory-LinkedList.RecursiveTraversalLL-Debug-a5bce8d1c300f4f1e718.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/RecursiveTraversalLL",
+					"targetIndexes" : 
+					[
+						36
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/InsertAtBegin/InsertAtBeginOutput",
+					"jsonFile" : "directory-LinkedList.InsertAtBegin-Debug-d675f16ccb1fdbc93c15.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/InsertAtBegin",
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/InsertAtEnd/InsertAtEndOutput",
+					"jsonFile" : "directory-LinkedList.InsertAtEnd-Debug-63aa14e2ba8769f44991.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/InsertAtEnd",
+					"targetIndexes" : 
+					[
+						21
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/DeleteFirstNode/DeleteFirstNodeOutput",
+					"jsonFile" : "directory-LinkedList.DeleteFirstNode-Debug-c0f51aba8cbdb6b99f6e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/DeleteFirstNode",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/DeleteLastNode/DeleteLastNodeOutput",
+					"jsonFile" : "directory-LinkedList.DeleteLastNode-Debug-6fd0b3b2ef7da2374314.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/DeleteLastNode",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/InsertAtAnyPos/InsertAtAnyPosOutput",
+					"jsonFile" : "directory-LinkedList.InsertAtAnyPos-Debug-7e8f0e0dfdada3aef6c6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/InsertAtAnyPos",
+					"targetIndexes" : 
+					[
+						16
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/SearchInLL/SearchInLLOutput",
+					"jsonFile" : "directory-LinkedList.SearchInLL-Debug-ce3a1ee238f2405de770.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/SearchInLL",
+					"targetIndexes" : 
+					[
+						40
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/DoubleLL/DoubleLLOutput",
+					"jsonFile" : "directory-LinkedList.DoubleLL-Debug-f378a05086ac3663cdb9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/DoubleLL",
+					"targetIndexes" : 
+					[
+						13
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/InsertAtBeginInDoubleLL/InsertAtBeginInDoubleLLOutput",
+					"jsonFile" : "directory-LinkedList.InsertAtBeginInDoubleLL-Debug-5d182df52fef548f02eb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/InsertAtBeginInDoubleLL",
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/InsertAtEndInDoubleLL/InsertAtEndInDoubleLLOutput",
+					"jsonFile" : "directory-LinkedList.InsertAtEndInDoubleLL-Debug-1072cac41299370d8447.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/InsertAtEndInDoubleLL",
+					"targetIndexes" : 
+					[
+						23
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/ReverseADoubleLL/ReverseADoubleLLOutput",
+					"jsonFile" : "directory-LinkedList.ReverseADoubleLL-Debug-2a4ca50740f68bafa0e8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/ReverseADoubleLL",
+					"targetIndexes" : 
+					[
+						38
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/DeleteHeadDDL/DeleteHeadDDLOutput",
+					"jsonFile" : "directory-LinkedList.DeleteHeadDDL-Debug-5e41d99ec76d9911551d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/DeleteHeadDDL",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/DeleteLastDDL/DeleteLastDDLOutput",
+					"jsonFile" : "directory-LinkedList.DeleteLastDDL-Debug-36e1c76cf51f83949f00.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/DeleteLastDDL",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput",
+					"jsonFile" : "directory-LinkedList.InsertAtAnyPosDDL-Debug-daab7c6802d838ff5c48.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/InsertAtAnyPosDDL",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput",
+					"jsonFile" : "directory-LinkedList.RemoveDuplicateLL-Debug-0a0a12ea19bb27575d71.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/RemoveDuplicateLL",
+					"targetIndexes" : 
+					[
+						37
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/CircularLL/CircularLLOutput",
+					"jsonFile" : "directory-LinkedList.CircularLL-Debug-d6a464a9baae85386625.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/CircularLL",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput",
+					"jsonFile" : "directory-LinkedList.InsertAtBeginCLL-Debug-45a02fd7293cc4db006e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/InsertAtBeginCLL",
+					"targetIndexes" : 
+					[
+						19
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput",
+					"jsonFile" : "directory-LinkedList.InsertAtEndCLL-Debug-cd22eda2d34f14d69689.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/InsertAtEndCLL",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput",
+					"jsonFile" : "directory-LinkedList.DeleteHeadCLL-Debug-f011a0185407f6019894.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/DeleteHeadCLL",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/DeleteKthCLL/DeleteKthCLLOutput",
+					"jsonFile" : "directory-LinkedList.DeleteKthCLL-Debug-ab4ba860af1f1c3f198f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/DeleteKthCLL",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/CircularDoubleLL/CircularDoubleLLOutput",
+					"jsonFile" : "directory-LinkedList.CircularDoubleLL-Debug-cc29fa38efdbc124f70b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/CircularDoubleLL",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/SortedInsertLL/SortedInsertLLOutput",
+					"jsonFile" : "directory-LinkedList.SortedInsertLL-Debug-60a11100ec46d9f70b4f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/SortedInsertLL",
+					"targetIndexes" : 
+					[
+						42
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/InsertMiddleLL/InsertMiddleLLOutput",
+					"jsonFile" : "directory-LinkedList.InsertMiddleLL-Debug-10745da607f52bbb44ab.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/InsertMiddleLL",
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/NthNodeFromEnd/NthNodeFromEndOutput",
+					"jsonFile" : "directory-LinkedList.NthNodeFromEnd-Debug-cd8b1a57cd593bc3bbf4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/NthNodeFromEnd",
+					"targetIndexes" : 
+					[
+						32
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/ReverseIterativeLL/ReverseIterativeLLOutput",
+					"jsonFile" : "directory-LinkedList.ReverseIterativeLL-Debug-bc2db8336688453a7cad.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/ReverseIterativeLL",
+					"targetIndexes" : 
+					[
+						39
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/LinkedList/MergeTwoSortedLL/MergeTwoSortedLLOutput",
+					"jsonFile" : "directory-LinkedList.MergeTwoSortedLL-Debug-ab6021df0603ee2a358e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "LinkedList/MergeTwoSortedLL",
+					"targetIndexes" : 
+					[
+						31
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Stack/ArrayImplementation/ArrayImplementationOutput",
+					"jsonFile" : "directory-Stack.ArrayImplementation-Debug-c441e082600b846c0b0c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Stack/ArrayImplementation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Stack/VectorImplementation/VectorImplementationOutput",
+					"jsonFile" : "directory-Stack.VectorImplementation-Debug-14862a2ca801e592be33.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Stack/VectorImplementation",
+					"targetIndexes" : 
+					[
+						49
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Stack/LLImplementation/LLImplementationOutput",
+					"jsonFile" : "directory-Stack.LLImplementation-Debug-b60cb471a03bee26ff50.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Stack/LLImplementation",
+					"targetIndexes" : 
+					[
+						28
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Stack/StackTraversal/StackTraversalOutput",
+					"jsonFile" : "directory-Stack.StackTraversal-Debug-b6de367ff04e7e0daca5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Stack/StackTraversal",
+					"targetIndexes" : 
+					[
+						43
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Stack/BalancedParantheses/BalancedParanthesesOutput",
+					"jsonFile" : "directory-Stack.BalancedParantheses-Debug-e655f26a93d5ef15bb0d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Stack/BalancedParantheses",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Stack/ImplementTwoStack/ImplementTwoStackOutput",
+					"jsonFile" : "directory-Stack.ImplementTwoStack-Debug-7459dd87e28f2cf66405.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Stack/ImplementTwoStack",
+					"targetIndexes" : 
+					[
+						15
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Queue/SimpleArrayImplementation/SimpleArrayImplementationOutput",
+					"jsonFile" : "directory-Queue.SimpleArrayImplementation-Debug-98c54e112cd486ab6e16.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Queue/SimpleArrayImplementation",
+					"targetIndexes" : 
+					[
+						41
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Queue/CircularArrayImplementation/CircularArrayImplementationOutput",
+					"jsonFile" : "directory-Queue.CircularArrayImplementation-Debug-719bcad2274453c134c9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Queue/CircularArrayImplementation",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Queue/LinkedListImplementation/LinkedListImplementationOutput",
+					"jsonFile" : "directory-Queue.LinkedListImplementation-Debug-1e384eacf200f3122f10.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Queue/LinkedListImplementation",
+					"targetIndexes" : 
+					[
+						30
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Queue/QueueTraversal/QueueTraversalOutput",
+					"jsonFile" : "directory-Queue.QueueTraversal-Debug-e2f5e22d39adb9506294.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Queue/QueueTraversal",
+					"targetIndexes" : 
+					[
+						35
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Queue/StackUsingQueue/StackUsingQueueOutput",
+					"jsonFile" : "directory-Queue.StackUsingQueue-Debug-9aebc42101f888169613.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Queue/StackUsingQueue",
+					"targetIndexes" : 
+					[
+						44
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53
+					],
+					"name" : "DSA",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 43,
+					"id" : "ArrayImplementation::@d77536118b2763e7cc63",
+					"jsonFile" : "target-ArrayImplementation-Debug-af1efe238345783500c9.json",
+					"name" : "ArrayImplementation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 47,
+					"id" : "BalancedParantheses::@60f195ab0eee3feb62df",
+					"jsonFile" : "target-BalancedParantheses-Debug-b152a8594fc12d91fb71.json",
+					"name" : "BalancedParantheses",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "CheckAnagram::@8d392590aabceeae9bcb",
+					"jsonFile" : "target-CheckAnagram-Debug-21a4ca0d6389d106d946.json",
+					"name" : "CheckAnagram",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 50,
+					"id" : "CircularArrayImplementation::@9108a9ad428795b81407",
+					"jsonFile" : "target-CircularArrayImplementation-Debug-034ecbfd884719d275a5.json",
+					"name" : "CircularArrayImplementation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 37,
+					"id" : "CircularDoubleLL::@1f8688b0e7d626e020fc",
+					"jsonFile" : "target-CircularDoubleLL-Debug-34d4ea20c94ea6c15725.json",
+					"name" : "CircularDoubleLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 32,
+					"id" : "CircularLL::@3b1d1766e8e5892d35ba",
+					"jsonFile" : "target-CircularLL-Debug-dec3a3f2e8ab150e5819.json",
+					"name" : "CircularLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "CountDistinctElements::@a7e83002024fc3ed0eb8",
+					"jsonFile" : "target-CountDistinctElements-Debug-edd1a5d11911d2bfb94d.json",
+					"name" : "CountDistinctElements",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "DeleteFirstNode::@2996f39f25096cfb3667",
+					"jsonFile" : "target-DeleteFirstNode-Debug-a73dd860792e2f6f27d6.json",
+					"name" : "DeleteFirstNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 35,
+					"id" : "DeleteHeadCLL::@d22e38479e2b992f8b8c",
+					"jsonFile" : "target-DeleteHeadCLL-Debug-6d383e55a7cb57b70550.json",
+					"name" : "DeleteHeadCLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 28,
+					"id" : "DeleteHeadDDL::@f9096b26e7140f594877",
+					"jsonFile" : "target-DeleteHeadDDL-Debug-7c9fe4ee582c3904814c.json",
+					"name" : "DeleteHeadDDL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 36,
+					"id" : "DeleteKthCLL::@f1dc61e66b92b2bb1b93",
+					"jsonFile" : "target-DeleteKthCLL-Debug-ce8c63349d1ab912d9db.json",
+					"name" : "DeleteKthCLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 29,
+					"id" : "DeleteLastDDL::@fd61ddadd076e1f7a527",
+					"jsonFile" : "target-DeleteLastDDL-Debug-17b2c6964af868bdf76d.json",
+					"name" : "DeleteLastDDL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 21,
+					"id" : "DeleteLastNode::@5201bec84c3326ae9428",
+					"jsonFile" : "target-DeleteLastNode-Debug-5a9f5977fc1a46bbc8cf.json",
+					"name" : "DeleteLastNode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 24,
+					"id" : "DoubleLL::@884ad03910a55054b7bb",
+					"jsonFile" : "target-DoubleLL-Debug-c5172851b50fe041090d.json",
+					"name" : "DoubleLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "FrequencyOfElements::@d37185dfcba18caf6c72",
+					"jsonFile" : "target-FrequencyOfElements-Debug-e5bfb8b60d515872edb0.json",
+					"name" : "FrequencyOfElements",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 48,
+					"id" : "ImplementTwoStack::@0ce14f57b74415fe0e91",
+					"jsonFile" : "target-ImplementTwoStack-Debug-c40f95c4df04aa0ee237.json",
+					"name" : "ImplementTwoStack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 22,
+					"id" : "InsertAtAnyPos::@205e4b07893ed56fc8f4",
+					"jsonFile" : "target-InsertAtAnyPos-Debug-d1f3a226455898574aa6.json",
+					"name" : "InsertAtAnyPos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 30,
+					"id" : "InsertAtAnyPosDDL::@c3ef450e1677d65b93be",
+					"jsonFile" : "target-InsertAtAnyPosDDL-Debug-ec64dc1b417a0af274df.json",
+					"name" : "InsertAtAnyPosDDL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "InsertAtBegin::@bbffc77975fff0d46fd0",
+					"jsonFile" : "target-InsertAtBegin-Debug-9a7c20726c1b20fa3fe6.json",
+					"name" : "InsertAtBegin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 33,
+					"id" : "InsertAtBeginCLL::@71f2587bc9d5261bf8be",
+					"jsonFile" : "target-InsertAtBeginCLL-Debug-d5a100a3f95ff0777c93.json",
+					"name" : "InsertAtBeginCLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 25,
+					"id" : "InsertAtBeginInDoubleLL::@7e95487859953d656640",
+					"jsonFile" : "target-InsertAtBeginInDoubleLL-Debug-6b52cae3b0fa8cca1a3e.json",
+					"name" : "InsertAtBeginInDoubleLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "InsertAtEnd::@8d08078b3271e6998cf3",
+					"jsonFile" : "target-InsertAtEnd-Debug-44782a24b878fd22f3bc.json",
+					"name" : "InsertAtEnd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 34,
+					"id" : "InsertAtEndCLL::@4bebb57d0237d8e282bb",
+					"jsonFile" : "target-InsertAtEndCLL-Debug-7e30bcbaaf06404816bc.json",
+					"name" : "InsertAtEndCLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 26,
+					"id" : "InsertAtEndInDoubleLL::@8a56032e955cf9573783",
+					"jsonFile" : "target-InsertAtEndInDoubleLL-Debug-69efbbe0e0f44bb3855f.json",
+					"name" : "InsertAtEndInDoubleLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 39,
+					"id" : "InsertMiddleLL::@53a69ff523b4e34d05f7",
+					"jsonFile" : "target-InsertMiddleLL-Debug-effe0344a3cc3b1b0047.json",
+					"name" : "InsertMiddleLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "IntersectionOf2Arrays::@a07c0b2cf5b7fbcb55c5",
+					"jsonFile" : "target-IntersectionOf2Arrays-Debug-9be109f8730f095d588b.json",
+					"name" : "IntersectionOf2Arrays",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "IntroductionToString::@fc45c2dd5e195f4bbdc5",
+					"jsonFile" : "target-IntroductionToString-Debug-d0f9edec9ac94443597e.json",
+					"name" : "IntroductionToString",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "LLImplement::@5009e1c745ca248fb69f",
+					"jsonFile" : "target-LLImplement-Debug-dd378bc3aaa401658beb.json",
+					"name" : "LLImplement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 45,
+					"id" : "LLImplementation::@784b392a02d69c8ad5da",
+					"jsonFile" : "target-LLImplementation-Debug-644ac59fcac49cfef1e1.json",
+					"name" : "LLImplementation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "LeftmostRepeatingCharacter::@b4cac2c168b0925fc981",
+					"jsonFile" : "target-LeftmostRepeatingCharacter-Debug-4c65cc82280ffd1010d9.json",
+					"name" : "LeftmostRepeatingCharacter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 51,
+					"id" : "LinkedListImplementation::@c59c49c5d8e74ef2923f",
+					"jsonFile" : "target-LinkedListImplementation-Debug-bdb9efa82312c4e44189.json",
+					"name" : "LinkedListImplementation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 42,
+					"id" : "MergeTwoSortedLL::@9335efceaab718857e6e",
+					"jsonFile" : "target-MergeTwoSortedLL-Debug-dbc188e8c01725ffa9cc.json",
+					"name" : "MergeTwoSortedLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 40,
+					"id" : "NthNodeFromEnd::@b1519f8d988c9b389d56",
+					"jsonFile" : "target-NthNodeFromEnd-Debug-b1a51a2d28e651bbc3d6.json",
+					"name" : "NthNodeFromEnd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "PairWithGivenSumInUnsortedArray::@2d8b6b1f6747fbc27ec5",
+					"jsonFile" : "target-PairWithGivenSumInUnsortedArray-Debug-6d781a95c73c0a3db511.json",
+					"name" : "PairWithGivenSumInUnsortedArray",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "PalindromeCheck::@6258287a2317963b5720",
+					"jsonFile" : "target-PalindromeCheck-Debug-9157e5a1ce131faa467e.json",
+					"name" : "PalindromeCheck",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 52,
+					"id" : "QueueTraversal::@af799aea4728ee7e298c",
+					"jsonFile" : "target-QueueTraversal-Debug-ad598e103ae4bb06b720.json",
+					"name" : "QueueTraversal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "RecursiveTraversalLL::@82a46655bcea00e7610d",
+					"jsonFile" : "target-RecursiveTraversalLL-Debug-b6c4d3c76895b810e51e.json",
+					"name" : "RecursiveTraversalLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 31,
+					"id" : "RemoveDuplicateLL::@0d02f161f69263c18634",
+					"jsonFile" : "target-RemoveDuplicateLL-Debug-acbba54469d0b0b047ec.json",
+					"name" : "RemoveDuplicateLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 27,
+					"id" : "ReverseADoubleLL::@3979006a4ac1c86c86fd",
+					"jsonFile" : "target-ReverseADoubleLL-Debug-6510f051aa2d1afc6cf1.json",
+					"name" : "ReverseADoubleLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 41,
+					"id" : "ReverseIterativeLL::@a698d69b55bc7840f59d",
+					"jsonFile" : "target-ReverseIterativeLL-Debug-82cf93858d8ee85d06d9.json",
+					"name" : "ReverseIterativeLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 23,
+					"id" : "SearchInLL::@b83f055bad6db7eea61c",
+					"jsonFile" : "target-SearchInLL-Debug-f22c65e2ccf193c3c48e.json",
+					"name" : "SearchInLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 49,
+					"id" : "SimpleArrayImplementation::@0f6637e18452458a4188",
+					"jsonFile" : "target-SimpleArrayImplementation-Debug-4e07c627fef44211f8a9.json",
+					"name" : "SimpleArrayImplementation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 38,
+					"id" : "SortedInsertLL::@752005c15f10394b9ff1",
+					"jsonFile" : "target-SortedInsertLL-Debug-56dd958cf80b0635acf0.json",
+					"name" : "SortedInsertLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 46,
+					"id" : "StackTraversal::@aac8cb387446c7971767",
+					"jsonFile" : "target-StackTraversal-Debug-5f2013666106dbb37dc6.json",
+					"name" : "StackTraversal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 53,
+					"id" : "StackUsingQueue::@a3f5d9f6ac222964e8b9",
+					"jsonFile" : "target-StackUsingQueue-Debug-93aa73c9bfa5b19920b5.json",
+					"name" : "StackUsingQueue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "StringIsSubsequenceOfOther::@bba2bb81eeb7189f5134",
+					"jsonFile" : "target-StringIsSubsequenceOfOther-Debug-d9f943a504ce9453a609.json",
+					"name" : "StringIsSubsequenceOfOther",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "SubarrayWith0Sum::@c97b58cf87405529847f",
+					"jsonFile" : "target-SubarrayWith0Sum-Debug-81344c8d9881405de464.json",
+					"name" : "SubarrayWith0Sum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "SubarrayWithGivenSum::@84649fc278c00678e5e1",
+					"jsonFile" : "target-SubarrayWithGivenSum-Debug-49142f2261a1abbe8156.json",
+					"name" : "SubarrayWithGivenSum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "TraversingLL::@8a09b595923986347340",
+					"jsonFile" : "target-TraversingLL-Debug-7b6d9e61bf26aa0b4942.json",
+					"name" : "TraversingLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 44,
+					"id" : "VectorImplementation::@d31e37aa92f6d21ba8ac",
+					"jsonFile" : "target-VectorImplementation-Debug-42c334d07ae98580d9b8.json",
+					"name" : "VectorImplementation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "unionOf2SortedArrays::@5f8756387a6dc40e0641",
+					"jsonFile" : "target-unionOf2SortedArrays-Debug-98aed01c72d15a86cf88.json",
+					"name" : "unionOf2SortedArrays",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "unordered_map::@6b7c0b43f514d189c8b0",
+					"jsonFile" : "target-unordered_map-Debug-58134ec8702592281215.json",
+					"name" : "unordered_map",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "unordered_set::@c3ad73dad779e984946f",
+					"jsonFile" : "target-unordered_set-Debug-9ef99b3398aa87c80d42.json",
+					"name" : "unordered_set",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ClionProjects/DSA/cmake-build-debug",
+		"source" : "D:/ClionProjects/DSA"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -58,4 +58,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/Stack/ImplementTwoStack" "${PROJECT_SOUR
 add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/SimpleArrayImplementation" "${PROJECT_SOURCE_DIR}/Queue/SimpleArrayImplementation/SimpleArrayImplementationOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/CircularArrayImplementation" "${PROJECT_SOURCE_DIR}/Queue/CircularArrayImplementation/CircularArrayImplementationOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/LinkedListImplementation" "${PROJECT_SOURCE_DIR}/Queue/LinkedListImplementation/LinkedListImplementationOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/QueueTraversal" "${PROJECT_SOURCE_DIR}/Queue/QueueTraversal/QueueTraversalOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/StackUsingQueue" "${PROJECT_SOURCE_DIR}/Queue/StackUsingQueue/StackUsingQueueOutput")
 

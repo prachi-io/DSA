@@ -153,3 +153,9 @@ D:/ClionProjects/DSA/Queue/CircularArrayImplementation/CircularArrayImplementati
 D:/ClionProjects/DSA/Queue/LinkedListImplementation/LinkedListImplementationOutput/CMakeFiles/LinkedListImplementation.dir
 D:/ClionProjects/DSA/Queue/LinkedListImplementation/LinkedListImplementationOutput/CMakeFiles/edit_cache.dir
 D:/ClionProjects/DSA/Queue/LinkedListImplementation/LinkedListImplementationOutput/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/DSA/Queue/QueueTraversal/QueueTraversalOutput/CMakeFiles/QueueTraversal.dir
+D:/ClionProjects/DSA/Queue/QueueTraversal/QueueTraversalOutput/CMakeFiles/edit_cache.dir
+D:/ClionProjects/DSA/Queue/QueueTraversal/QueueTraversalOutput/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/DSA/Queue/StackUsingQueue/StackUsingQueueOutput/CMakeFiles/StackUsingQueue.dir
+D:/ClionProjects/DSA/Queue/StackUsingQueue/StackUsingQueueOutput/CMakeFiles/edit_cache.dir
+D:/ClionProjects/DSA/Queue/StackUsingQueue/StackUsingQueueOutput/CMakeFiles/rebuild_cache.dir
