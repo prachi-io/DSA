@@ -61,4 +61,9 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/LinkedListImplementation" "${PROJE
 add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/QueueTraversal" "${PROJECT_SOURCE_DIR}/Queue/QueueTraversal/QueueTraversalOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/StackUsingQueue" "${PROJECT_SOURCE_DIR}/Queue/StackUsingQueue/StackUsingQueueOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/ReverseIterative" "${PROJECT_SOURCE_DIR}/Queue/ReverseIterative/ReverseIterativeOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/ReverseRecursive" "${PROJECT_SOURCE_DIR}/Queue/ReverseRecursive/ReverseRecursiveOutput")
+
+add_subdirectory("${PROJECT_SOURCE_DIR}/Deque/SimpleArrayImp" "${PROJECT_SOURCE_DIR}/Deque/SimpleArrayImp/SimpleArrayImpOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Deque/CircularArrayImp" "${PROJECT_SOURCE_DIR}/Deque/CircularArrayImp/CircularArrayImpOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Deque/DSwithMinMaxOperations" "${PROJECT_SOURCE_DIR}/Deque/DSwithMinMaxOperations/DSwithMinMaxOperationsImpOutput")
 

@@ -162,3 +162,15 @@ D:/ClionProjects/DSA/Queue/StackUsingQueue/StackUsingQueueOutput/CMakeFiles/rebu
 D:/ClionProjects/DSA/Queue/ReverseIterative/ReverseIterativeOutput/CMakeFiles/edit_cache.dir
 D:/ClionProjects/DSA/Queue/ReverseIterative/ReverseIterativeOutput/CMakeFiles/ReverseIterative.dir
 D:/ClionProjects/DSA/Queue/ReverseIterative/ReverseIterativeOutput/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/DSA/Queue/ReverseRecursive/ReverseRecursiveOutput/CMakeFiles/ReverseRecursive.dir
+D:/ClionProjects/DSA/Queue/ReverseRecursive/ReverseRecursiveOutput/CMakeFiles/edit_cache.dir
+D:/ClionProjects/DSA/Queue/ReverseRecursive/ReverseRecursiveOutput/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/DSA/Deque/SimpleArrayImp/SimpleArrayImpOutput/CMakeFiles/SimpleArrayImp.dir
+D:/ClionProjects/DSA/Deque/SimpleArrayImp/SimpleArrayImpOutput/CMakeFiles/edit_cache.dir
+D:/ClionProjects/DSA/Deque/SimpleArrayImp/SimpleArrayImpOutput/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/DSA/Deque/CircularArrayImp/CircularArrayImpOutput/CMakeFiles/CircularArrayImp.dir
+D:/ClionProjects/DSA/Deque/CircularArrayImp/CircularArrayImpOutput/CMakeFiles/edit_cache.dir
+D:/ClionProjects/DSA/Deque/CircularArrayImp/CircularArrayImpOutput/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/DSA/Deque/DSwithMinMaxOperations/DSwithMinMaxOperationsImpOutput/CMakeFiles/DSwithMinMaxOperations.dir
+D:/ClionProjects/DSA/Deque/DSwithMinMaxOperations/DSwithMinMaxOperationsImpOutput/CMakeFiles/edit_cache.dir
+D:/ClionProjects/DSA/Deque/DSwithMinMaxOperations/DSwithMinMaxOperationsImpOutput/CMakeFiles/rebuild_cache.dir

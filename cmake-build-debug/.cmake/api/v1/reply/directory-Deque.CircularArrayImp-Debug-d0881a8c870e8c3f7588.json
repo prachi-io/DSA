@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "D:/ClionProjects/DSA/Deque/CircularArrayImp/CircularArrayImpOutput",
+		"source" : "Deque/CircularArrayImp"
+	}
+}
