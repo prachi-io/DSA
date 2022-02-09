@@ -65,7 +65,8 @@
 						55,
 						56,
 						57,
-						58
+						58,
+						59
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -87,7 +88,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						57
+						58
 					]
 				},
 				{
@@ -102,7 +103,7 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
-						56
+						57
 					]
 				},
 				{
@@ -162,7 +163,7 @@
 					"source" : "Hashing/unionOf2SortedArrays",
 					"targetIndexes" : 
 					[
-						55
+						56
 					]
 				},
 				{
@@ -192,7 +193,7 @@
 					"source" : "Hashing/SubarrayWith0Sum",
 					"targetIndexes" : 
 					[
-						51
+						52
 					]
 				},
 				{
@@ -207,7 +208,7 @@
 					"source" : "Hashing/SubarrayWithGivenSum",
 					"targetIndexes" : 
 					[
-						52
+						53
 					]
 				},
 				{
@@ -312,7 +313,7 @@
 					"source" : "LinkedList/TraversingLL",
 					"targetIndexes" : 
 					[
-						53
+						54
 					]
 				},
 				{
@@ -732,7 +733,7 @@
 					"source" : "Stack/VectorImplementation",
 					"targetIndexes" : 
 					[
-						54
+						55
 					]
 				},
 				{
@@ -944,6 +945,21 @@
 					[
 						8
 					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Deque/SubarrayKMax/SubarrayKMaxImpOutput",
+					"jsonFile" : "directory-Deque.SubarrayKMax-Debug-fc728afc2341fa121154.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Deque/SubarrayKMax",
+					"targetIndexes" : 
+					[
+						51
+					]
 				}
 			],
 			"name" : "Debug",
@@ -1010,7 +1026,8 @@
 						55,
 						56,
 						57,
-						58
+						58,
+						59
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
@@ -1072,7 +1089,8 @@
 						54,
 						55,
 						56,
-						57
+						57,
+						58
 					]
 				}
 			],
@@ -1433,6 +1451,13 @@
 					"id" : "StringIsSubsequenceOfOther::@bba2bb81eeb7189f5134",
 					"jsonFile" : "target-StringIsSubsequenceOfOther-Debug-d9f943a504ce9453a609.json",
 					"name" : "StringIsSubsequenceOfOther",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 59,
+					"id" : "SubarrayKMax::@5d20bbc860465169d8bc",
+					"jsonFile" : "target-SubarrayKMax-Debug-879b556a513b83c6c6f1.json",
+					"name" : "SubarrayKMax",
 					"projectIndex" : 0
 				},
 				{

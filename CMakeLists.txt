@@ -66,4 +66,5 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/Queue/ReverseRecursive" "${PROJECT_SOURC
 add_subdirectory("${PROJECT_SOURCE_DIR}/Deque/SimpleArrayImp" "${PROJECT_SOURCE_DIR}/Deque/SimpleArrayImp/SimpleArrayImpOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Deque/CircularArrayImp" "${PROJECT_SOURCE_DIR}/Deque/CircularArrayImp/CircularArrayImpOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Deque/DSwithMinMaxOperations" "${PROJECT_SOURCE_DIR}/Deque/DSwithMinMaxOperations/DSwithMinMaxOperationsImpOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Deque/SubarrayKMax" "${PROJECT_SOURCE_DIR}/Deque/SubarrayKMax/SubarrayKMaxImpOutput")
 

@@ -771,7 +771,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "59"
+			"value" : "60"
 		},
 		{
 			"name" : "CMAKE_OBJCOPY",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/ClionProjects/DSA/Deque/DSwithMinMaxOperations/DSwithMinMaxOperationsImpOutput"
+			"value" : "D:/ClionProjects/DSA/Deque/SubarrayKMax/SubarrayKMaxImpOutput"
 		},
 		{
 			"name" : "DSA_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/ClionProjects/DSA/Deque/DSwithMinMaxOperations"
+			"value" : "D:/ClionProjects/DSA/Deque/SubarrayKMax"
 		}
 	],
 	"kind" : "cache",

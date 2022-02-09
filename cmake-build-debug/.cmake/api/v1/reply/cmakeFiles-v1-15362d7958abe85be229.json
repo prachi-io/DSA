@@ -318,6 +318,9 @@
 		},
 		{
 			"path" : "Deque/DSwithMinMaxOperations/CMakeLists.txt"
+		},
+		{
+			"path" : "Deque/SubarrayKMax/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
