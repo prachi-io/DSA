@@ -177,3 +177,6 @@ D:/ClionProjects/DSA/Deque/DSwithMinMaxOperations/DSwithMinMaxOperationsImpOutpu
 D:/ClionProjects/DSA/Deque/SubarrayKMax/SubarrayKMaxImpOutput/CMakeFiles/SubarrayKMax.dir
 D:/ClionProjects/DSA/Deque/SubarrayKMax/SubarrayKMaxImpOutput/CMakeFiles/edit_cache.dir
 D:/ClionProjects/DSA/Deque/SubarrayKMax/SubarrayKMaxImpOutput/CMakeFiles/rebuild_cache.dir
+D:/ClionProjects/DSA/Deque/FirstCircularTour/FirstCircularTourImpOutput/CMakeFiles/FirstCircularTour.dir
+D:/ClionProjects/DSA/Deque/FirstCircularTour/FirstCircularTourImpOutput/CMakeFiles/edit_cache.dir
+D:/ClionProjects/DSA/Deque/FirstCircularTour/FirstCircularTourImpOutput/CMakeFiles/rebuild_cache.dir

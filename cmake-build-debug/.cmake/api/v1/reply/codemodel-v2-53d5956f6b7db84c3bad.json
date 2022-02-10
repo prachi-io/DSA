@@ -66,7 +66,8 @@
 						56,
 						57,
 						58,
-						59
+						59,
+						60
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -88,7 +89,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						58
+						59
 					]
 				},
 				{
@@ -103,7 +104,7 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
-						57
+						58
 					]
 				},
 				{
@@ -133,7 +134,7 @@
 					"source" : "Hashing/FrequencyOfElements",
 					"targetIndexes" : 
 					[
-						16
+						17
 					]
 				},
 				{
@@ -148,7 +149,7 @@
 					"source" : "Hashing/IntersectionOf2Arrays",
 					"targetIndexes" : 
 					[
-						27
+						28
 					]
 				},
 				{
@@ -163,7 +164,7 @@
 					"source" : "Hashing/unionOf2SortedArrays",
 					"targetIndexes" : 
 					[
-						56
+						57
 					]
 				},
 				{
@@ -178,7 +179,7 @@
 					"source" : "Hashing/PairWithGivenSumInUnsortedArray",
 					"targetIndexes" : 
 					[
-						35
+						36
 					]
 				},
 				{
@@ -193,7 +194,7 @@
 					"source" : "Hashing/SubarrayWith0Sum",
 					"targetIndexes" : 
 					[
-						52
+						53
 					]
 				},
 				{
@@ -208,7 +209,7 @@
 					"source" : "Hashing/SubarrayWithGivenSum",
 					"targetIndexes" : 
 					[
-						53
+						54
 					]
 				},
 				{
@@ -223,7 +224,7 @@
 					"source" : "String/IntroductionToString",
 					"targetIndexes" : 
 					[
-						28
+						29
 					]
 				},
 				{
@@ -238,7 +239,7 @@
 					"source" : "String/PalindromeCheck",
 					"targetIndexes" : 
 					[
-						36
+						37
 					]
 				},
 				{
@@ -253,7 +254,7 @@
 					"source" : "String/StringIsSubsequenceOfOther",
 					"targetIndexes" : 
 					[
-						50
+						51
 					]
 				},
 				{
@@ -283,7 +284,7 @@
 					"source" : "String/LeftmostRepeatingCharacter",
 					"targetIndexes" : 
 					[
-						31
+						32
 					]
 				},
 				{
@@ -298,7 +299,7 @@
 					"source" : "LinkedList/LLImplement",
 					"targetIndexes" : 
 					[
-						29
+						30
 					]
 				},
 				{
@@ -313,7 +314,7 @@
 					"source" : "LinkedList/TraversingLL",
 					"targetIndexes" : 
 					[
-						54
+						55
 					]
 				},
 				{
@@ -328,7 +329,7 @@
 					"source" : "LinkedList/RecursiveTraversalLL",
 					"targetIndexes" : 
 					[
-						38
+						39
 					]
 				},
 				{
@@ -343,7 +344,7 @@
 					"source" : "LinkedList/InsertAtBegin",
 					"targetIndexes" : 
 					[
-						20
+						21
 					]
 				},
 				{
@@ -358,7 +359,7 @@
 					"source" : "LinkedList/InsertAtEnd",
 					"targetIndexes" : 
 					[
-						23
+						24
 					]
 				},
 				{
@@ -403,7 +404,7 @@
 					"source" : "LinkedList/InsertAtAnyPos",
 					"targetIndexes" : 
 					[
-						18
+						19
 					]
 				},
 				{
@@ -418,7 +419,7 @@
 					"source" : "LinkedList/SearchInLL",
 					"targetIndexes" : 
 					[
-						44
+						45
 					]
 				},
 				{
@@ -448,7 +449,7 @@
 					"source" : "LinkedList/InsertAtBeginInDoubleLL",
 					"targetIndexes" : 
 					[
-						22
+						23
 					]
 				},
 				{
@@ -463,7 +464,7 @@
 					"source" : "LinkedList/InsertAtEndInDoubleLL",
 					"targetIndexes" : 
 					[
-						25
+						26
 					]
 				},
 				{
@@ -478,7 +479,7 @@
 					"source" : "LinkedList/ReverseADoubleLL",
 					"targetIndexes" : 
 					[
-						40
+						41
 					]
 				},
 				{
@@ -523,7 +524,7 @@
 					"source" : "LinkedList/InsertAtAnyPosDDL",
 					"targetIndexes" : 
 					[
-						19
+						20
 					]
 				},
 				{
@@ -538,7 +539,7 @@
 					"source" : "LinkedList/RemoveDuplicateLL",
 					"targetIndexes" : 
 					[
-						39
+						40
 					]
 				},
 				{
@@ -568,7 +569,7 @@
 					"source" : "LinkedList/InsertAtBeginCLL",
 					"targetIndexes" : 
 					[
-						21
+						22
 					]
 				},
 				{
@@ -583,7 +584,7 @@
 					"source" : "LinkedList/InsertAtEndCLL",
 					"targetIndexes" : 
 					[
-						24
+						25
 					]
 				},
 				{
@@ -643,7 +644,7 @@
 					"source" : "LinkedList/SortedInsertLL",
 					"targetIndexes" : 
 					[
-						47
+						48
 					]
 				},
 				{
@@ -658,7 +659,7 @@
 					"source" : "LinkedList/InsertMiddleLL",
 					"targetIndexes" : 
 					[
-						26
+						27
 					]
 				},
 				{
@@ -673,7 +674,7 @@
 					"source" : "LinkedList/NthNodeFromEnd",
 					"targetIndexes" : 
 					[
-						34
+						35
 					]
 				},
 				{
@@ -688,7 +689,7 @@
 					"source" : "LinkedList/ReverseIterativeLL",
 					"targetIndexes" : 
 					[
-						42
+						43
 					]
 				},
 				{
@@ -703,7 +704,7 @@
 					"source" : "LinkedList/MergeTwoSortedLL",
 					"targetIndexes" : 
 					[
-						33
+						34
 					]
 				},
 				{
@@ -733,7 +734,7 @@
 					"source" : "Stack/VectorImplementation",
 					"targetIndexes" : 
 					[
-						55
+						56
 					]
 				},
 				{
@@ -748,7 +749,7 @@
 					"source" : "Stack/LLImplementation",
 					"targetIndexes" : 
 					[
-						30
+						31
 					]
 				},
 				{
@@ -763,7 +764,7 @@
 					"source" : "Stack/StackTraversal",
 					"targetIndexes" : 
 					[
-						48
+						49
 					]
 				},
 				{
@@ -793,7 +794,7 @@
 					"source" : "Stack/ImplementTwoStack",
 					"targetIndexes" : 
 					[
-						17
+						18
 					]
 				},
 				{
@@ -808,7 +809,7 @@
 					"source" : "Queue/SimpleArrayImplementation",
 					"targetIndexes" : 
 					[
-						46
+						47
 					]
 				},
 				{
@@ -838,7 +839,7 @@
 					"source" : "Queue/LinkedListImplementation",
 					"targetIndexes" : 
 					[
-						32
+						33
 					]
 				},
 				{
@@ -853,7 +854,7 @@
 					"source" : "Queue/QueueTraversal",
 					"targetIndexes" : 
 					[
-						37
+						38
 					]
 				},
 				{
@@ -868,7 +869,7 @@
 					"source" : "Queue/StackUsingQueue",
 					"targetIndexes" : 
 					[
-						49
+						50
 					]
 				},
 				{
@@ -883,7 +884,7 @@
 					"source" : "Queue/ReverseIterative",
 					"targetIndexes" : 
 					[
-						41
+						42
 					]
 				},
 				{
@@ -898,7 +899,7 @@
 					"source" : "Queue/ReverseRecursive",
 					"targetIndexes" : 
 					[
-						43
+						44
 					]
 				},
 				{
@@ -913,7 +914,7 @@
 					"source" : "Deque/SimpleArrayImp",
 					"targetIndexes" : 
 					[
-						45
+						46
 					]
 				},
 				{
@@ -958,7 +959,22 @@
 					"source" : "Deque/SubarrayKMax",
 					"targetIndexes" : 
 					[
-						51
+						52
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Deque/FirstCircularTour/FirstCircularTourImpOutput",
+					"jsonFile" : "directory-Deque.FirstCircularTour-Debug-d6f6819300a92322478a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Deque/FirstCircularTour",
+					"targetIndexes" : 
+					[
+						16
 					]
 				}
 			],
@@ -1027,7 +1043,8 @@
 						56,
 						57,
 						58,
-						59
+						59,
+						60
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
@@ -1090,7 +1107,8 @@
 						55,
 						56,
 						57,
-						58
+						58,
+						59
 					]
 				}
 			],
@@ -1206,6 +1224,13 @@
 					"id" : "DoubleLL::@884ad03910a55054b7bb",
 					"jsonFile" : "target-DoubleLL-Debug-c5172851b50fe041090d.json",
 					"name" : "DoubleLL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 60,
+					"id" : "FirstCircularTour::@8e555bbc16ffa5c5aa62",
+					"jsonFile" : "target-FirstCircularTour-Debug-1c9f93ca9acfd839d9e6.json",
+					"name" : "FirstCircularTour",
 					"projectIndex" : 0
 				},
 				{

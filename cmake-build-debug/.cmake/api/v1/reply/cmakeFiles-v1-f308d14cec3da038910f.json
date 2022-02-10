@@ -321,6 +321,9 @@
 		},
 		{
 			"path" : "Deque/SubarrayKMax/CMakeLists.txt"
+		},
+		{
+			"path" : "Deque/FirstCircularTour/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",
