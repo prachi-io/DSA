@@ -47,6 +47,9 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/InsertMiddleLL" "${PROJECT_SO
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/NthNodeFromEnd" "${PROJECT_SOURCE_DIR}/LinkedList/NthNodeFromEnd/NthNodeFromEndOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/ReverseIterativeLL" "${PROJECT_SOURCE_DIR}/LinkedList/ReverseIterativeLL/ReverseIterativeLLOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/MergeTwoSortedLL" "${PROJECT_SOURCE_DIR}/LinkedList/MergeTwoSortedLL/MergeTwoSortedLLOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/ReverseRecursive1LL" "${PROJECT_SOURCE_DIR}/LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/ReverseRecursive2LL" "${PROJECT_SOURCE_DIR}/LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/LinkedList/ReverseLLinGroup" "${PROJECT_SOURCE_DIR}/LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput")
 
 add_subdirectory("${PROJECT_SOURCE_DIR}/Stack/ArrayImplementation" "${PROJECT_SOURCE_DIR}/Stack/ArrayImplementation/ArrayImplementationOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Stack/VectorImplementation" "${PROJECT_SOURCE_DIR}/Stack/VectorImplementation/VectorImplementationOutput")

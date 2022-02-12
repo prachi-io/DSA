@@ -249,6 +249,21 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
   include("D:/ClionProjects/DSA/Stack/ArrayImplementation/ArrayImplementationOutput/cmake_install.cmake")
 endif()
 

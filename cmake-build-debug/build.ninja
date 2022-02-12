@@ -2631,6 +2631,189 @@ build ../LinkedList/MergeTwoSortedLL/MergeTwoSortedLLOutput/rebuild_cache: phony
 # =============================================================================
 
 # =============================================================================
+# Object build statements for EXECUTABLE target ReverseRecursive1LL
+
+
+#############################################
+# Order-only phony target for ReverseRecursive1LL
+
+build cmake_object_order_depends_target_ReverseRecursive1LL: phony || ../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/CMakeFiles/ReverseRecursive1LL.dir
+
+build ../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/CMakeFiles/ReverseRecursive1LL.dir/ReverseRecursive1LL.cpp.obj: CXX_COMPILER__ReverseRecursive1LL_Debug D$:/ClionProjects/DSA/LinkedList/ReverseRecursive1LL/ReverseRecursive1LL.cpp || cmake_object_order_depends_target_ReverseRecursive1LL
+  DEP_FILE = ..\LinkedList\ReverseRecursive1LL\ReverseRecursive1LLOutput\CMakeFiles\ReverseRecursive1LL.dir\ReverseRecursive1LL.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = ..\LinkedList\ReverseRecursive1LL\ReverseRecursive1LLOutput\CMakeFiles\ReverseRecursive1LL.dir
+  OBJECT_FILE_DIR = ..\LinkedList\ReverseRecursive1LL\ReverseRecursive1LLOutput\CMakeFiles\ReverseRecursive1LL.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ReverseRecursive1LL
+
+
+#############################################
+# Link the executable ..\LinkedList\ReverseRecursive1LL\ReverseRecursive1LLOutput\ReverseRecursive1LL.exe
+
+build ../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/ReverseRecursive1LL.exe: CXX_EXECUTABLE_LINKER__ReverseRecursive1LL_Debug ../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/CMakeFiles/ReverseRecursive1LL.dir/ReverseRecursive1LL.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = ..\LinkedList\ReverseRecursive1LL\ReverseRecursive1LLOutput\CMakeFiles\ReverseRecursive1LL.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ..\LinkedList\ReverseRecursive1LL\ReverseRecursive1LLOutput\ReverseRecursive1LL.exe
+  TARGET_IMPLIB = ..\LinkedList\ReverseRecursive1LL\ReverseRecursive1LLOutput\libReverseRecursive1LL.dll.a
+  TARGET_PDB = ReverseRecursive1LL.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build ../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\ReverseRecursive1LL\ReverseRecursive1LLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build ../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/edit_cache: phony ../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build ../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\ReverseRecursive1LL\ReverseRecursive1LLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SD:\ClionProjects\DSA -BD:\ClionProjects\DSA\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build ../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/rebuild_cache: phony ../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/ClionProjects/DSA/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ReverseRecursive2LL
+
+
+#############################################
+# Order-only phony target for ReverseRecursive2LL
+
+build cmake_object_order_depends_target_ReverseRecursive2LL: phony || ../LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput/CMakeFiles/ReverseRecursive2LL.dir
+
+build ../LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput/CMakeFiles/ReverseRecursive2LL.dir/ReverseRecursive2LL.cpp.obj: CXX_COMPILER__ReverseRecursive2LL_Debug D$:/ClionProjects/DSA/LinkedList/ReverseRecursive2LL/ReverseRecursive2LL.cpp || cmake_object_order_depends_target_ReverseRecursive2LL
+  DEP_FILE = ..\LinkedList\ReverseRecursive2LL\ReverseRecursive2LLOutput\CMakeFiles\ReverseRecursive2LL.dir\ReverseRecursive2LL.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = ..\LinkedList\ReverseRecursive2LL\ReverseRecursive2LLOutput\CMakeFiles\ReverseRecursive2LL.dir
+  OBJECT_FILE_DIR = ..\LinkedList\ReverseRecursive2LL\ReverseRecursive2LLOutput\CMakeFiles\ReverseRecursive2LL.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ReverseRecursive2LL
+
+
+#############################################
+# Link the executable ..\LinkedList\ReverseRecursive2LL\ReverseRecursive2LLOutput\ReverseRecursive2LL.exe
+
+build ../LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput/ReverseRecursive2LL.exe: CXX_EXECUTABLE_LINKER__ReverseRecursive2LL_Debug ../LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput/CMakeFiles/ReverseRecursive2LL.dir/ReverseRecursive2LL.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = ..\LinkedList\ReverseRecursive2LL\ReverseRecursive2LLOutput\CMakeFiles\ReverseRecursive2LL.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ..\LinkedList\ReverseRecursive2LL\ReverseRecursive2LLOutput\ReverseRecursive2LL.exe
+  TARGET_IMPLIB = ..\LinkedList\ReverseRecursive2LL\ReverseRecursive2LLOutput\libReverseRecursive2LL.dll.a
+  TARGET_PDB = ReverseRecursive2LL.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build ../LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\ReverseRecursive2LL\ReverseRecursive2LLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build ../LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput/edit_cache: phony ../LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build ../LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\ReverseRecursive2LL\ReverseRecursive2LLOutput && D:\CLion\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SD:\ClionProjects\DSA -BD:\ClionProjects\DSA\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build ../LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput/rebuild_cache: phony ../LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/ClionProjects/DSA/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ReverseLLinGroup
+
+
+#############################################
+# Order-only phony target for ReverseLLinGroup
+
+build cmake_object_order_depends_target_ReverseLLinGroup: phony || ../LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput/CMakeFiles/ReverseLLinGroup.dir
+
+build ../LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput/CMakeFiles/ReverseLLinGroup.dir/ReverseLLinGroup.cpp.obj: CXX_COMPILER__ReverseLLinGroup_Debug D$:/ClionProjects/DSA/LinkedList/ReverseLLinGroup/ReverseLLinGroup.cpp || cmake_object_order_depends_target_ReverseLLinGroup
+  DEP_FILE = ..\LinkedList\ReverseLLinGroup\ReverseLLinGroupOutput\CMakeFiles\ReverseLLinGroup.dir\ReverseLLinGroup.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = ..\LinkedList\ReverseLLinGroup\ReverseLLinGroupOutput\CMakeFiles\ReverseLLinGroup.dir
+  OBJECT_FILE_DIR = ..\LinkedList\ReverseLLinGroup\ReverseLLinGroupOutput\CMakeFiles\ReverseLLinGroup.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ReverseLLinGroup
+
+
+#############################################
+# Link the executable ..\LinkedList\ReverseLLinGroup\ReverseLLinGroupOutput\ReverseLLinGroup.exe
+
+build ../LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput/ReverseLLinGroup.exe: CXX_EXECUTABLE_LINKER__ReverseLLinGroup_Debug ../LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput/CMakeFiles/ReverseLLinGroup.dir/ReverseLLinGroup.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = ..\LinkedList\ReverseLLinGroup\ReverseLLinGroupOutput\CMakeFiles\ReverseLLinGroup.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ..\LinkedList\ReverseLLinGroup\ReverseLLinGroupOutput\ReverseLLinGroup.exe
+  TARGET_IMPLIB = ..\LinkedList\ReverseLLinGroup\ReverseLLinGroupOutput\libReverseLLinGroup.dll.a
+  TARGET_PDB = ReverseLLinGroup.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build ../LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\ReverseLLinGroup\ReverseLLinGroupOutput && D:\CLion\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build ../LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput/edit_cache: phony ../LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build ../LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D D:\ClionProjects\DSA\LinkedList\ReverseLLinGroup\ReverseLLinGroupOutput && D:\CLion\bin\cmake\win\bin\cmake.exe --regenerate-during-build -SD:\ClionProjects\DSA -BD:\ClionProjects\DSA\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build ../LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput/rebuild_cache: phony ../LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput/CMakeFiles/rebuild_cache.util
+
+# =============================================================================
+# Write statements declared in CMakeLists.txt:
+# D:/ClionProjects/DSA/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
 # Object build statements for EXECUTABLE target ArrayImplementation
 
 
@@ -3902,9 +4085,21 @@ build ReverseIterativeLL: phony ../LinkedList/ReverseIterativeLL/ReverseIterativ
 
 build ReverseIterativeLL.exe: phony ../LinkedList/ReverseIterativeLL/ReverseIterativeLLOutput/ReverseIterativeLL.exe
 
+build ReverseLLinGroup: phony ../LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput/ReverseLLinGroup.exe
+
+build ReverseLLinGroup.exe: phony ../LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput/ReverseLLinGroup.exe
+
 build ReverseRecursive: phony ../Queue/ReverseRecursive/ReverseRecursiveOutput/ReverseRecursive.exe
 
 build ReverseRecursive.exe: phony ../Queue/ReverseRecursive/ReverseRecursiveOutput/ReverseRecursive.exe
+
+build ReverseRecursive1LL: phony ../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/ReverseRecursive1LL.exe
+
+build ReverseRecursive1LL.exe: phony ../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/ReverseRecursive1LL.exe
+
+build ReverseRecursive2LL: phony ../LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput/ReverseRecursive2LL.exe
+
+build ReverseRecursive2LL.exe: phony ../LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput/ReverseRecursive2LL.exe
 
 build SearchInLL: phony ../LinkedList/SearchInLL/SearchInLLOutput/SearchInLL.exe
 
@@ -4245,6 +4440,27 @@ build ../LinkedList/ReverseIterativeLL/ReverseIterativeLLOutput/all: phony ../Li
 # =============================================================================
 
 #############################################
+# Folder: D:/ClionProjects/DSA/LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput
+
+build ../LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput/all: phony ../LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput/ReverseLLinGroup.exe
+
+# =============================================================================
+
+#############################################
+# Folder: D:/ClionProjects/DSA/LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput
+
+build ../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/all: phony ../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/ReverseRecursive1LL.exe
+
+# =============================================================================
+
+#############################################
+# Folder: D:/ClionProjects/DSA/LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput
+
+build ../LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput/all: phony ../LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput/ReverseRecursive2LL.exe
+
+# =============================================================================
+
+#############################################
 # Folder: D:/ClionProjects/DSA/LinkedList/SearchInLL/SearchInLLOutput
 
 build ../LinkedList/SearchInLL/SearchInLLOutput/all: phony ../LinkedList/SearchInLL/SearchInLLOutput/SearchInLL.exe
@@ -4394,7 +4610,7 @@ build ../String/StringIsSubsequenceOfOther/StringIsSubsequenceOfOtherOutput/all:
 #############################################
 # Folder: D:/ClionProjects/DSA/cmake-build-debug
 
-build all: phony ../Hashing/unordered_set/unordered_setOutput/all ../Hashing/unordered_map/unordered_mapOutput/all ../Hashing/CountDistinctElements/CountDistinctElementsOutput/all ../Hashing/FrequencyOfElements/FrequencyOfElementsOutput/all ../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/all ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/all ../Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput/all ../Hashing/SubarrayWith0Sum/SubarrayWith0SumOutput/all ../Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput/all ../String/IntroductionToString/IntroductionToStringOutput/all ../String/PalindromeCheck/PalindromeCheckOutput/all ../String/StringIsSubsequenceOfOther/StringIsSubsequenceOfOtherOutput/all ../String/CheckAnagram/CheckAnagramOutput/all ../String/LeftmostRepeatingCharacter/LeftmostRepeatingCharacterOutput/all ../LinkedList/LLImplement/LLImplementatOutput/all ../LinkedList/TraversingLL/TraversingLLOutput/all ../LinkedList/RecursiveTraversalLL/RecursiveTraversalLLOutput/all ../LinkedList/InsertAtBegin/InsertAtBeginOutput/all ../LinkedList/InsertAtEnd/InsertAtEndOutput/all ../LinkedList/DeleteFirstNode/DeleteFirstNodeOutput/all ../LinkedList/DeleteLastNode/DeleteLastNodeOutput/all ../LinkedList/InsertAtAnyPos/InsertAtAnyPosOutput/all ../LinkedList/SearchInLL/SearchInLLOutput/all ../LinkedList/DoubleLL/DoubleLLOutput/all ../LinkedList/InsertAtBeginInDoubleLL/InsertAtBeginInDoubleLLOutput/all ../LinkedList/InsertAtEndInDoubleLL/InsertAtEndInDoubleLLOutput/all ../LinkedList/ReverseADoubleLL/ReverseADoubleLLOutput/all ../LinkedList/DeleteHeadDDL/DeleteHeadDDLOutput/all ../LinkedList/DeleteLastDDL/DeleteLastDDLOutput/all ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/all ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/all ../LinkedList/CircularLL/CircularLLOutput/all ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/all ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/all ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/all ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/all ../LinkedList/CircularDoubleLL/CircularDoubleLLOutput/all ../LinkedList/SortedInsertLL/SortedInsertLLOutput/all ../LinkedList/InsertMiddleLL/InsertMiddleLLOutput/all ../LinkedList/NthNodeFromEnd/NthNodeFromEndOutput/all ../LinkedList/ReverseIterativeLL/ReverseIterativeLLOutput/all ../LinkedList/MergeTwoSortedLL/MergeTwoSortedLLOutput/all ../Stack/ArrayImplementation/ArrayImplementationOutput/all ../Stack/VectorImplementation/VectorImplementationOutput/all ../Stack/LLImplementation/LLImplementationOutput/all ../Stack/StackTraversal/StackTraversalOutput/all ../Stack/BalancedParantheses/BalancedParanthesesOutput/all ../Stack/ImplementTwoStack/ImplementTwoStackOutput/all ../Queue/SimpleArrayImplementation/SimpleArrayImplementationOutput/all ../Queue/CircularArrayImplementation/CircularArrayImplementationOutput/all ../Queue/LinkedListImplementation/LinkedListImplementationOutput/all ../Queue/QueueTraversal/QueueTraversalOutput/all ../Queue/StackUsingQueue/StackUsingQueueOutput/all ../Queue/ReverseIterative/ReverseIterativeOutput/all ../Queue/ReverseRecursive/ReverseRecursiveOutput/all ../Deque/SimpleArrayImp/SimpleArrayImpOutput/all ../Deque/CircularArrayImp/CircularArrayImpOutput/all ../Deque/DSwithMinMaxOperations/DSwithMinMaxOperationsImpOutput/all ../Deque/SubarrayKMax/SubarrayKMaxImpOutput/all ../Deque/FirstCircularTour/FirstCircularTourImpOutput/all
+build all: phony ../Hashing/unordered_set/unordered_setOutput/all ../Hashing/unordered_map/unordered_mapOutput/all ../Hashing/CountDistinctElements/CountDistinctElementsOutput/all ../Hashing/FrequencyOfElements/FrequencyOfElementsOutput/all ../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/all ../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/all ../Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput/all ../Hashing/SubarrayWith0Sum/SubarrayWith0SumOutput/all ../Hashing/SubarrayWithGivenSum/SubarrayWithGivenSumOutput/all ../String/IntroductionToString/IntroductionToStringOutput/all ../String/PalindromeCheck/PalindromeCheckOutput/all ../String/StringIsSubsequenceOfOther/StringIsSubsequenceOfOtherOutput/all ../String/CheckAnagram/CheckAnagramOutput/all ../String/LeftmostRepeatingCharacter/LeftmostRepeatingCharacterOutput/all ../LinkedList/LLImplement/LLImplementatOutput/all ../LinkedList/TraversingLL/TraversingLLOutput/all ../LinkedList/RecursiveTraversalLL/RecursiveTraversalLLOutput/all ../LinkedList/InsertAtBegin/InsertAtBeginOutput/all ../LinkedList/InsertAtEnd/InsertAtEndOutput/all ../LinkedList/DeleteFirstNode/DeleteFirstNodeOutput/all ../LinkedList/DeleteLastNode/DeleteLastNodeOutput/all ../LinkedList/InsertAtAnyPos/InsertAtAnyPosOutput/all ../LinkedList/SearchInLL/SearchInLLOutput/all ../LinkedList/DoubleLL/DoubleLLOutput/all ../LinkedList/InsertAtBeginInDoubleLL/InsertAtBeginInDoubleLLOutput/all ../LinkedList/InsertAtEndInDoubleLL/InsertAtEndInDoubleLLOutput/all ../LinkedList/ReverseADoubleLL/ReverseADoubleLLOutput/all ../LinkedList/DeleteHeadDDL/DeleteHeadDDLOutput/all ../LinkedList/DeleteLastDDL/DeleteLastDDLOutput/all ../LinkedList/InsertAtAnyPosDDL/InsertAtAnyPosDDLOutput/all ../LinkedList/RemoveDuplicateLL/RemoveDuplicateLLOutput/all ../LinkedList/CircularLL/CircularLLOutput/all ../LinkedList/InsertAtBeginCLL/InsertAtBeginCLLOutput/all ../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/all ../LinkedList/DeleteHeadCLL/DeleteHeadCLLOutput/all ../LinkedList/DeleteKthCLL/DeleteKthCLLOutput/all ../LinkedList/CircularDoubleLL/CircularDoubleLLOutput/all ../LinkedList/SortedInsertLL/SortedInsertLLOutput/all ../LinkedList/InsertMiddleLL/InsertMiddleLLOutput/all ../LinkedList/NthNodeFromEnd/NthNodeFromEndOutput/all ../LinkedList/ReverseIterativeLL/ReverseIterativeLLOutput/all ../LinkedList/MergeTwoSortedLL/MergeTwoSortedLLOutput/all ../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/all ../LinkedList/ReverseRecursive2LL/ReverseRecursive2LLOutput/all ../LinkedList/ReverseLLinGroup/ReverseLLinGroupOutput/all ../Stack/ArrayImplementation/ArrayImplementationOutput/all ../Stack/VectorImplementation/VectorImplementationOutput/all ../Stack/LLImplementation/LLImplementationOutput/all ../Stack/StackTraversal/StackTraversalOutput/all ../Stack/BalancedParantheses/BalancedParanthesesOutput/all ../Stack/ImplementTwoStack/ImplementTwoStackOutput/all ../Queue/SimpleArrayImplementation/SimpleArrayImplementationOutput/all ../Queue/CircularArrayImplementation/CircularArrayImplementationOutput/all ../Queue/LinkedListImplementation/LinkedListImplementationOutput/all ../Queue/QueueTraversal/QueueTraversalOutput/all ../Queue/StackUsingQueue/StackUsingQueueOutput/all ../Queue/ReverseIterative/ReverseIterativeOutput/all ../Queue/ReverseRecursive/ReverseRecursiveOutput/all ../Deque/SimpleArrayImp/SimpleArrayImpOutput/all ../Deque/CircularArrayImp/CircularArrayImpOutput/all ../Deque/DSwithMinMaxOperations/DSwithMinMaxOperationsImpOutput/all ../Deque/SubarrayKMax/SubarrayKMaxImpOutput/all ../Deque/FirstCircularTour/FirstCircularTourImpOutput/all
 
 # =============================================================================
 # Built-in targets
@@ -4403,14 +4619,14 @@ build all: phony ../Hashing/unordered_set/unordered_setOutput/all ../Hashing/uno
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt ../Deque/CircularArrayImp/CMakeLists.txt ../Deque/DSwithMinMaxOperations/CMakeLists.txt ../Deque/FirstCircularTour/CMakeLists.txt ../Deque/SimpleArrayImp/CMakeLists.txt ../Deque/SubarrayKMax/CMakeLists.txt ../Hashing/CountDistinctElements/CMakeLists.txt ../Hashing/FrequencyOfElements/CMakeLists.txt ../Hashing/IntersectionOf2Arrays/CMakeLists.txt ../Hashing/PairWithGivenSumInUnsortedArray/CMakeLists.txt ../Hashing/SubarrayWith0Sum/CMakeLists.txt ../Hashing/SubarrayWithGivenSum/CMakeLists.txt ../Hashing/unionOf2SortedArrays/CMakeLists.txt ../Hashing/unordered_map/CMakeLists.txt ../Hashing/unordered_set/CMakeLists.txt ../LinkedList/CircularDoubleLL/CMakeLists.txt ../LinkedList/CircularLL/CMakeLists.txt ../LinkedList/DeleteFirstNode/CMakeLists.txt ../LinkedList/DeleteHeadCLL/CMakeLists.txt ../LinkedList/DeleteHeadDDL/CMakeLists.txt ../LinkedList/DeleteKthCLL/CMakeLists.txt ../LinkedList/DeleteLastDDL/CMakeLists.txt ../LinkedList/DeleteLastNode/CMakeLists.txt ../LinkedList/DoubleLL/CMakeLists.txt ../LinkedList/InsertAtAnyPosDDL/CMakeLists.txt ../LinkedList/InsertAtAnyPos/CMakeLists.txt ../LinkedList/InsertAtBeginCLL/CMakeLists.txt ../LinkedList/InsertAtBeginInDoubleLL/CMakeLists.txt ../LinkedList/InsertAtBegin/CMakeLists.txt ../LinkedList/InsertAtEndCLL/CMakeLists.txt ../LinkedList/InsertAtEndInDoubleLL/CMakeLists.txt ../LinkedList/InsertAtEnd/CMakeLists.txt ../LinkedList/InsertMiddleLL/CMakeLists.txt ../LinkedList/LLImplement/CMakeLists.txt ../LinkedList/MergeTwoSortedLL/CMakeLists.txt ../LinkedList/NthNodeFromEnd/CMakeLists.txt ../LinkedList/RecursiveTraversalLL/CMakeLists.txt ../LinkedList/RemoveDuplicateLL/CMakeLists.txt ../LinkedList/ReverseADoubleLL/CMakeLists.txt ../LinkedList/ReverseIterativeLL/CMakeLists.txt ../LinkedList/SearchInLL/CMakeLists.txt ../LinkedList/SortedInsertLL/CMakeLists.txt ../LinkedList/TraversingLL/CMakeLists.txt ../Queue/CircularArrayImplementation/CMakeLists.txt ../Queue/LinkedListImplementation/CMakeLists.txt ../Queue/QueueTraversal/CMakeLists.txt ../Queue/ReverseIterative/CMakeLists.txt ../Queue/ReverseRecursive/CMakeLists.txt ../Queue/SimpleArrayImplementation/CMakeLists.txt ../Queue/StackUsingQueue/CMakeLists.txt ../Stack/ArrayImplementation/CMakeLists.txt ../Stack/BalancedParantheses/CMakeLists.txt ../Stack/ImplementTwoStack/CMakeLists.txt ../Stack/LLImplementation/CMakeLists.txt ../Stack/StackTraversal/CMakeLists.txt ../Stack/VectorImplementation/CMakeLists.txt ../String/CheckAnagram/CMakeLists.txt ../String/IntroductionToString/CMakeLists.txt ../String/LeftmostRepeatingCharacter/CMakeLists.txt ../String/PalindromeCheck/CMakeLists.txt ../String/StringIsSubsequenceOfOther/CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt ../Deque/CircularArrayImp/CMakeLists.txt ../Deque/DSwithMinMaxOperations/CMakeLists.txt ../Deque/FirstCircularTour/CMakeLists.txt ../Deque/SimpleArrayImp/CMakeLists.txt ../Deque/SubarrayKMax/CMakeLists.txt ../Hashing/CountDistinctElements/CMakeLists.txt ../Hashing/FrequencyOfElements/CMakeLists.txt ../Hashing/IntersectionOf2Arrays/CMakeLists.txt ../Hashing/PairWithGivenSumInUnsortedArray/CMakeLists.txt ../Hashing/SubarrayWith0Sum/CMakeLists.txt ../Hashing/SubarrayWithGivenSum/CMakeLists.txt ../Hashing/unionOf2SortedArrays/CMakeLists.txt ../Hashing/unordered_map/CMakeLists.txt ../Hashing/unordered_set/CMakeLists.txt ../LinkedList/CircularDoubleLL/CMakeLists.txt ../LinkedList/CircularLL/CMakeLists.txt ../LinkedList/DeleteFirstNode/CMakeLists.txt ../LinkedList/DeleteHeadCLL/CMakeLists.txt ../LinkedList/DeleteHeadDDL/CMakeLists.txt ../LinkedList/DeleteKthCLL/CMakeLists.txt ../LinkedList/DeleteLastDDL/CMakeLists.txt ../LinkedList/DeleteLastNode/CMakeLists.txt ../LinkedList/DoubleLL/CMakeLists.txt ../LinkedList/InsertAtAnyPosDDL/CMakeLists.txt ../LinkedList/InsertAtAnyPos/CMakeLists.txt ../LinkedList/InsertAtBeginCLL/CMakeLists.txt ../LinkedList/InsertAtBeginInDoubleLL/CMakeLists.txt ../LinkedList/InsertAtBegin/CMakeLists.txt ../LinkedList/InsertAtEndCLL/CMakeLists.txt ../LinkedList/InsertAtEndInDoubleLL/CMakeLists.txt ../LinkedList/InsertAtEnd/CMakeLists.txt ../LinkedList/InsertMiddleLL/CMakeLists.txt ../LinkedList/LLImplement/CMakeLists.txt ../LinkedList/MergeTwoSortedLL/CMakeLists.txt ../LinkedList/NthNodeFromEnd/CMakeLists.txt ../LinkedList/RecursiveTraversalLL/CMakeLists.txt ../LinkedList/RemoveDuplicateLL/CMakeLists.txt ../LinkedList/ReverseADoubleLL/CMakeLists.txt ../LinkedList/ReverseIterativeLL/CMakeLists.txt ../LinkedList/ReverseLLinGroup/CMakeLists.txt ../LinkedList/ReverseRecursive1LL/CMakeLists.txt ../LinkedList/ReverseRecursive2LL/CMakeLists.txt ../LinkedList/SearchInLL/CMakeLists.txt ../LinkedList/SortedInsertLL/CMakeLists.txt ../LinkedList/TraversingLL/CMakeLists.txt ../Queue/CircularArrayImplementation/CMakeLists.txt ../Queue/LinkedListImplementation/CMakeLists.txt ../Queue/QueueTraversal/CMakeLists.txt ../Queue/ReverseIterative/CMakeLists.txt ../Queue/ReverseRecursive/CMakeLists.txt ../Queue/SimpleArrayImplementation/CMakeLists.txt ../Queue/StackUsingQueue/CMakeLists.txt ../Stack/ArrayImplementation/CMakeLists.txt ../Stack/BalancedParantheses/CMakeLists.txt ../Stack/ImplementTwoStack/CMakeLists.txt ../Stack/LLImplementation/CMakeLists.txt ../Stack/StackTraversal/CMakeLists.txt ../Stack/VectorImplementation/CMakeLists.txt ../String/CheckAnagram/CMakeLists.txt ../String/IntroductionToString/CMakeLists.txt ../String/LeftmostRepeatingCharacter/CMakeLists.txt ../String/PalindromeCheck/CMakeLists.txt ../String/StringIsSubsequenceOfOther/CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt ../Deque/CircularArrayImp/CMakeLists.txt ../Deque/DSwithMinMaxOperations/CMakeLists.txt ../Deque/FirstCircularTour/CMakeLists.txt ../Deque/SimpleArrayImp/CMakeLists.txt ../Deque/SubarrayKMax/CMakeLists.txt ../Hashing/CountDistinctElements/CMakeLists.txt ../Hashing/FrequencyOfElements/CMakeLists.txt ../Hashing/IntersectionOf2Arrays/CMakeLists.txt ../Hashing/PairWithGivenSumInUnsortedArray/CMakeLists.txt ../Hashing/SubarrayWith0Sum/CMakeLists.txt ../Hashing/SubarrayWithGivenSum/CMakeLists.txt ../Hashing/unionOf2SortedArrays/CMakeLists.txt ../Hashing/unordered_map/CMakeLists.txt ../Hashing/unordered_set/CMakeLists.txt ../LinkedList/CircularDoubleLL/CMakeLists.txt ../LinkedList/CircularLL/CMakeLists.txt ../LinkedList/DeleteFirstNode/CMakeLists.txt ../LinkedList/DeleteHeadCLL/CMakeLists.txt ../LinkedList/DeleteHeadDDL/CMakeLists.txt ../LinkedList/DeleteKthCLL/CMakeLists.txt ../LinkedList/DeleteLastDDL/CMakeLists.txt ../LinkedList/DeleteLastNode/CMakeLists.txt ../LinkedList/DoubleLL/CMakeLists.txt ../LinkedList/InsertAtAnyPosDDL/CMakeLists.txt ../LinkedList/InsertAtAnyPos/CMakeLists.txt ../LinkedList/InsertAtBeginCLL/CMakeLists.txt ../LinkedList/InsertAtBeginInDoubleLL/CMakeLists.txt ../LinkedList/InsertAtBegin/CMakeLists.txt ../LinkedList/InsertAtEndCLL/CMakeLists.txt ../LinkedList/InsertAtEndInDoubleLL/CMakeLists.txt ../LinkedList/InsertAtEnd/CMakeLists.txt ../LinkedList/InsertMiddleLL/CMakeLists.txt ../LinkedList/LLImplement/CMakeLists.txt ../LinkedList/MergeTwoSortedLL/CMakeLists.txt ../LinkedList/NthNodeFromEnd/CMakeLists.txt ../LinkedList/RecursiveTraversalLL/CMakeLists.txt ../LinkedList/RemoveDuplicateLL/CMakeLists.txt ../LinkedList/ReverseADoubleLL/CMakeLists.txt ../LinkedList/ReverseIterativeLL/CMakeLists.txt ../LinkedList/SearchInLL/CMakeLists.txt ../LinkedList/SortedInsertLL/CMakeLists.txt ../LinkedList/TraversingLL/CMakeLists.txt ../Queue/CircularArrayImplementation/CMakeLists.txt ../Queue/LinkedListImplementation/CMakeLists.txt ../Queue/QueueTraversal/CMakeLists.txt ../Queue/ReverseIterative/CMakeLists.txt ../Queue/ReverseRecursive/CMakeLists.txt ../Queue/SimpleArrayImplementation/CMakeLists.txt ../Queue/StackUsingQueue/CMakeLists.txt ../Stack/ArrayImplementation/CMakeLists.txt ../Stack/BalancedParantheses/CMakeLists.txt ../Stack/ImplementTwoStack/CMakeLists.txt ../Stack/LLImplementation/CMakeLists.txt ../Stack/StackTraversal/CMakeLists.txt ../Stack/VectorImplementation/CMakeLists.txt ../String/CheckAnagram/CMakeLists.txt ../String/IntroductionToString/CMakeLists.txt ../String/LeftmostRepeatingCharacter/CMakeLists.txt ../String/PalindromeCheck/CMakeLists.txt ../String/StringIsSubsequenceOfOther/CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake: phony
+build ../CMakeLists.txt ../Deque/CircularArrayImp/CMakeLists.txt ../Deque/DSwithMinMaxOperations/CMakeLists.txt ../Deque/FirstCircularTour/CMakeLists.txt ../Deque/SimpleArrayImp/CMakeLists.txt ../Deque/SubarrayKMax/CMakeLists.txt ../Hashing/CountDistinctElements/CMakeLists.txt ../Hashing/FrequencyOfElements/CMakeLists.txt ../Hashing/IntersectionOf2Arrays/CMakeLists.txt ../Hashing/PairWithGivenSumInUnsortedArray/CMakeLists.txt ../Hashing/SubarrayWith0Sum/CMakeLists.txt ../Hashing/SubarrayWithGivenSum/CMakeLists.txt ../Hashing/unionOf2SortedArrays/CMakeLists.txt ../Hashing/unordered_map/CMakeLists.txt ../Hashing/unordered_set/CMakeLists.txt ../LinkedList/CircularDoubleLL/CMakeLists.txt ../LinkedList/CircularLL/CMakeLists.txt ../LinkedList/DeleteFirstNode/CMakeLists.txt ../LinkedList/DeleteHeadCLL/CMakeLists.txt ../LinkedList/DeleteHeadDDL/CMakeLists.txt ../LinkedList/DeleteKthCLL/CMakeLists.txt ../LinkedList/DeleteLastDDL/CMakeLists.txt ../LinkedList/DeleteLastNode/CMakeLists.txt ../LinkedList/DoubleLL/CMakeLists.txt ../LinkedList/InsertAtAnyPosDDL/CMakeLists.txt ../LinkedList/InsertAtAnyPos/CMakeLists.txt ../LinkedList/InsertAtBeginCLL/CMakeLists.txt ../LinkedList/InsertAtBeginInDoubleLL/CMakeLists.txt ../LinkedList/InsertAtBegin/CMakeLists.txt ../LinkedList/InsertAtEndCLL/CMakeLists.txt ../LinkedList/InsertAtEndInDoubleLL/CMakeLists.txt ../LinkedList/InsertAtEnd/CMakeLists.txt ../LinkedList/InsertMiddleLL/CMakeLists.txt ../LinkedList/LLImplement/CMakeLists.txt ../LinkedList/MergeTwoSortedLL/CMakeLists.txt ../LinkedList/NthNodeFromEnd/CMakeLists.txt ../LinkedList/RecursiveTraversalLL/CMakeLists.txt ../LinkedList/RemoveDuplicateLL/CMakeLists.txt ../LinkedList/ReverseADoubleLL/CMakeLists.txt ../LinkedList/ReverseIterativeLL/CMakeLists.txt ../LinkedList/ReverseLLinGroup/CMakeLists.txt ../LinkedList/ReverseRecursive1LL/CMakeLists.txt ../LinkedList/ReverseRecursive2LL/CMakeLists.txt ../LinkedList/SearchInLL/CMakeLists.txt ../LinkedList/SortedInsertLL/CMakeLists.txt ../LinkedList/TraversingLL/CMakeLists.txt ../Queue/CircularArrayImplementation/CMakeLists.txt ../Queue/LinkedListImplementation/CMakeLists.txt ../Queue/QueueTraversal/CMakeLists.txt ../Queue/ReverseIterative/CMakeLists.txt ../Queue/ReverseRecursive/CMakeLists.txt ../Queue/SimpleArrayImplementation/CMakeLists.txt ../Queue/StackUsingQueue/CMakeLists.txt ../Stack/ArrayImplementation/CMakeLists.txt ../Stack/BalancedParantheses/CMakeLists.txt ../Stack/ImplementTwoStack/CMakeLists.txt ../Stack/LLImplementation/CMakeLists.txt ../Stack/StackTraversal/CMakeLists.txt ../Stack/VectorImplementation/CMakeLists.txt ../String/CheckAnagram/CMakeLists.txt ../String/IntroductionToString/CMakeLists.txt ../String/LeftmostRepeatingCharacter/CMakeLists.txt ../String/PalindromeCheck/CMakeLists.txt ../String/StringIsSubsequenceOfOther/CMakeLists.txt CMakeCache.txt CMakeFiles/3.21.1/CMakeCCompiler.cmake CMakeFiles/3.21.1/CMakeCXXCompiler.cmake CMakeFiles/3.21.1/CMakeRCCompiler.cmake CMakeFiles/3.21.1/CMakeSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCXXInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeGenericSystem.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeRCInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Compiler/GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-C.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX-ABI.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU-CXX.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-GNU.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows-windres.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/Windows.cmake D$:/CLion/bin/cmake/win/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake: phony
 
 
 #############################################
