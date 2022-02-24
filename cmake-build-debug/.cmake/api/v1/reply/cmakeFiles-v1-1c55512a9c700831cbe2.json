@@ -333,6 +333,15 @@
 		},
 		{
 			"path" : "Deque/FirstCircularTour/CMakeLists.txt"
+		},
+		{
+			"path" : "Tree/TreeMakingIntro/CMakeLists.txt"
+		},
+		{
+			"path" : "Tree/InorderTraversal/CMakeLists.txt"
+		},
+		{
+			"path" : "Tree/PreorderTraversal/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

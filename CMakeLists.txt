@@ -72,3 +72,7 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/Deque/DSwithMinMaxOperations" "${PROJECT
 add_subdirectory("${PROJECT_SOURCE_DIR}/Deque/SubarrayKMax" "${PROJECT_SOURCE_DIR}/Deque/SubarrayKMax/SubarrayKMaxImpOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Deque/FirstCircularTour" "${PROJECT_SOURCE_DIR}/Deque/FirstCircularTour/FirstCircularTourImpOutput")
 
+add_subdirectory("${PROJECT_SOURCE_DIR}/Tree/TreeMakingIntro" "${PROJECT_SOURCE_DIR}/Tree/TreeMakingIntro/TreeMakingIntroImpOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Tree/InorderTraversal" "${PROJECT_SOURCE_DIR}/Tree/InorderTraversal/InorderTraversalImpOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Tree/PreorderTraversal" "${PROJECT_SOURCE_DIR}/Tree/PreorderTraversal/PreorderTraversalImpOutput")
+

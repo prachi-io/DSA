@@ -771,7 +771,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "64"
+			"value" : "67"
 		},
 		{
 			"name" : "CMAKE_OBJCOPY",
@@ -1239,7 +1239,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/ClionProjects/DSA/Deque/FirstCircularTour/FirstCircularTourImpOutput"
+			"value" : "D:/ClionProjects/DSA/Tree/PreorderTraversal/PreorderTraversalImpOutput"
 		},
 		{
 			"name" : "DSA_IS_TOP_LEVEL",
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/ClionProjects/DSA/Deque/FirstCircularTour"
+			"value" : "D:/ClionProjects/DSA/Tree/PreorderTraversal"
 		}
 	],
 	"kind" : "cache",

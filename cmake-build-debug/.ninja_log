@@ -18,7 +18,7 @@
 2	343	6654217728881460	../LinkedList/DoubleLL/DoubleLLOutput/CMakeFiles/DoubleLL.dir/DoubleLL.cpp.obj	65ef641ffb2a213d
 369	607	6655417821469293	../LinkedList/InsertAtEndCLL/InsertAtEndCLLOutput/InsertAtEndCLL.exe	c993c39853184ef8
 328	432	6651009388564395	../Hashing/IntersectionOf2Arrays/IntersectionOf2ArraysOutput/IntersectionOf2Arrays.exe	3af98c0dd4c2e340
-1	494	6662593739285811	build.ninja	2d60f68ecbaa95e0
+1	494	6674225394603881	build.ninja	2d60f68ecbaa95e0
 31	1041	6660370755413039	../Hashing/unionOf2SortedArrays/unionOf2SortedArraysOutput/CMakeFiles/unionOf2SortedArrays.dir/unionOf2SortedArrays.cpp.obj	dbcda303adde0a5f
 42	954	6660370754578582	../Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput/CMakeFiles/PairWithGivenSumInUnsortedArray.dir/PairWithGivenSumInUnsortedArray.cpp.obj	50edeeffd6440e4e
 456	563	6651451296480925	../Hashing/PairWithGivenSumInUnsortedArray/PairWithGivenSumInUnsortedArrayOutput/PairWithGivenSumInUnsortedArray.exe	99aa5fcc207f0630
@@ -88,3 +88,13 @@
 2	445	6662178255654233	../Queue/ReverseRecursive/ReverseRecursiveOutput/CMakeFiles/ReverseRecursive.dir/ReverseRecursive.cpp.obj	b4d5d4c9a01d744d
 1	212	6662254214834140	../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/CMakeFiles/ReverseRecursive1LL.dir/ReverseRecursive1LL.cpp.obj	43bc6ba2d94ad368
 212	291	6662254215601135	../LinkedList/ReverseRecursive1LL/ReverseRecursive1LLOutput/ReverseRecursive1LL.exe	33ba7363ce8c8324
+0	341	6674217749867252	../Tree/TreeMakingIntro/TreeMakingIntroImpOutput/CMakeFiles/TreeMakingIntro.dir/TreeMakingIntro.cpp.obj	fecd54fd2a5140d4
+342	529	6674217751723716	../Tree/TreeMakingIntro/TreeMakingIntroImpOutput/TreeMakingIntro.exe	a02ca21f0bbe3b08
+0	224	6674222817041718	../Tree/InorderTraversal/InorderTraversalImpOutput/CMakeFiles/InorderTraversal.dir/InorderTraversal.cpp.obj	4ee1201c9e62d9bc
+224	304	6674222817812024	../Tree/InorderTraversal/InorderTraversalImpOutput/InorderTraversal.exe	c85fc95d03fe224c
+0	217	6674226251728635	../Tree/PreorderTraversal/PreorderTraversalImpOutput/CMakeFiles/PreorderTraversal.dir/PreorderTraversal.cpp.obj	b078fe3543017c2a
+218	296	6674226252485671	../Tree/PreorderTraversal/PreorderTraversalImpOutput/PreorderTraversal.exe	89d5d15937f7cb8a
+2	219	6674226378046480	../Tree/PreorderTraversal/PreorderTraversalImpOutput/CMakeFiles/PreorderTraversal.dir/PreorderTraversal.cpp.obj	b078fe3543017c2a
+220	299	6674226378826243	../Tree/PreorderTraversal/PreorderTraversalImpOutput/PreorderTraversal.exe	89d5d15937f7cb8a
+2	234	6674226583186895	../Tree/PreorderTraversal/PreorderTraversalImpOutput/CMakeFiles/PreorderTraversal.dir/PreorderTraversal.cpp.obj	b078fe3543017c2a
+234	310	6674226583915697	../Tree/PreorderTraversal/PreorderTraversalImpOutput/PreorderTraversal.exe	89d5d15937f7cb8a
