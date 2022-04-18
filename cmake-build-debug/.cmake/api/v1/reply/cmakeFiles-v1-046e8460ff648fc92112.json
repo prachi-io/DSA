@@ -342,6 +342,27 @@
 		},
 		{
 			"path" : "Tree/PreorderTraversal/CMakeLists.txt"
+		},
+		{
+			"path" : "Tree/HeightOfTree/CMakeLists.txt"
+		},
+		{
+			"path" : "Tree/LeftView/CMakeLists.txt"
+		},
+		{
+			"path" : "Tree/RightView/CMakeLists.txt"
+		},
+		{
+			"path" : "Tree/CheckBalanced/CMakeLists.txt"
+		},
+		{
+			"path" : "Graph/AdjacencyList/CMakeLists.txt"
+		},
+		{
+			"path" : "Graph/BFS1/CMakeLists.txt"
+		},
+		{
+			"path" : "Graph/BFS2/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

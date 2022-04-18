@@ -367,6 +367,41 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("D:/ClionProjects/DSA/Tree/PreorderTraversal/PreorderTraversalImpOutput/cmake_install.cmake")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/Tree/HeightOfTree/HeightOfTreeImpOutput/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/Tree/LeftView/LeftViewOutput/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/Tree/RightView/RightViewOutput/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/Tree/CheckBalanced/CheckBalancedOutput/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/Graph/AdjacencyList/AdjacencyListOutput/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/Graph/BFS1/BFS1Output/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/ClionProjects/DSA/Graph/BFS2/BFS2Output/cmake_install.cmake")
+endif()
+
 if(CMAKE_INSTALL_COMPONENT)
   set(CMAKE_INSTALL_MANIFEST "install_manifest_${CMAKE_INSTALL_COMPONENT}.txt")
 else()

@@ -75,4 +75,11 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/Deque/FirstCircularTour" "${PROJECT_SOUR
 add_subdirectory("${PROJECT_SOURCE_DIR}/Tree/TreeMakingIntro" "${PROJECT_SOURCE_DIR}/Tree/TreeMakingIntro/TreeMakingIntroImpOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Tree/InorderTraversal" "${PROJECT_SOURCE_DIR}/Tree/InorderTraversal/InorderTraversalImpOutput")
 add_subdirectory("${PROJECT_SOURCE_DIR}/Tree/PreorderTraversal" "${PROJECT_SOURCE_DIR}/Tree/PreorderTraversal/PreorderTraversalImpOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Tree/HeightOfTree" "${PROJECT_SOURCE_DIR}/Tree/HeightOfTree/HeightOfTreeImpOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Tree/LeftView" "${PROJECT_SOURCE_DIR}/Tree/LeftView/LeftViewOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Tree/RightView" "${PROJECT_SOURCE_DIR}/Tree/RightView/RightViewOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Tree/CheckBalanced" "${PROJECT_SOURCE_DIR}/Tree/CheckBalanced/CheckBalancedOutput")
 
+add_subdirectory("${PROJECT_SOURCE_DIR}/Graph/AdjacencyList" "${PROJECT_SOURCE_DIR}/Graph/AdjacencyList/AdjacencyListOutput")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Graph/BFS1" "${PROJECT_SOURCE_DIR}/Graph/BFS1/BFS1Output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/Graph/BFS2" "${PROJECT_SOURCE_DIR}/Graph/BFS2/BFS2Output")

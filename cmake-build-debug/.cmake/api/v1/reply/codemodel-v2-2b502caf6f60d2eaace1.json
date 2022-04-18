@@ -73,7 +73,14 @@
 						63,
 						64,
 						65,
-						66
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -95,7 +102,7 @@
 					"source" : "Hashing/unordered_set",
 					"targetIndexes" : 
 					[
-						65
+						72
 					]
 				},
 				{
@@ -110,7 +117,7 @@
 					"source" : "Hashing/unordered_map",
 					"targetIndexes" : 
 					[
-						64
+						71
 					]
 				},
 				{
@@ -125,7 +132,7 @@
 					"source" : "Hashing/CountDistinctElements",
 					"targetIndexes" : 
 					[
-						7
+						11
 					]
 				},
 				{
@@ -140,7 +147,7 @@
 					"source" : "Hashing/FrequencyOfElements",
 					"targetIndexes" : 
 					[
-						17
+						21
 					]
 				},
 				{
@@ -155,7 +162,7 @@
 					"source" : "Hashing/IntersectionOf2Arrays",
 					"targetIndexes" : 
 					[
-						29
+						34
 					]
 				},
 				{
@@ -170,7 +177,7 @@
 					"source" : "Hashing/unionOf2SortedArrays",
 					"targetIndexes" : 
 					[
-						63
+						70
 					]
 				},
 				{
@@ -185,7 +192,7 @@
 					"source" : "Hashing/PairWithGivenSumInUnsortedArray",
 					"targetIndexes" : 
 					[
-						37
+						43
 					]
 				},
 				{
@@ -200,7 +207,7 @@
 					"source" : "Hashing/SubarrayWith0Sum",
 					"targetIndexes" : 
 					[
-						58
+						65
 					]
 				},
 				{
@@ -215,7 +222,7 @@
 					"source" : "Hashing/SubarrayWithGivenSum",
 					"targetIndexes" : 
 					[
-						59
+						66
 					]
 				},
 				{
@@ -230,7 +237,7 @@
 					"source" : "String/IntroductionToString",
 					"targetIndexes" : 
 					[
-						30
+						35
 					]
 				},
 				{
@@ -245,7 +252,7 @@
 					"source" : "String/PalindromeCheck",
 					"targetIndexes" : 
 					[
-						38
+						44
 					]
 				},
 				{
@@ -260,7 +267,7 @@
 					"source" : "String/StringIsSubsequenceOfOther",
 					"targetIndexes" : 
 					[
-						56
+						63
 					]
 				},
 				{
@@ -275,7 +282,7 @@
 					"source" : "String/CheckAnagram",
 					"targetIndexes" : 
 					[
-						2
+						5
 					]
 				},
 				{
@@ -290,7 +297,7 @@
 					"source" : "String/LeftmostRepeatingCharacter",
 					"targetIndexes" : 
 					[
-						33
+						39
 					]
 				},
 				{
@@ -305,7 +312,7 @@
 					"source" : "LinkedList/LLImplement",
 					"targetIndexes" : 
 					[
-						31
+						36
 					]
 				},
 				{
@@ -320,7 +327,7 @@
 					"source" : "LinkedList/TraversingLL",
 					"targetIndexes" : 
 					[
-						60
+						67
 					]
 				},
 				{
@@ -335,7 +342,7 @@
 					"source" : "LinkedList/RecursiveTraversalLL",
 					"targetIndexes" : 
 					[
-						41
+						47
 					]
 				},
 				{
@@ -350,7 +357,7 @@
 					"source" : "LinkedList/InsertAtBegin",
 					"targetIndexes" : 
 					[
-						22
+						27
 					]
 				},
 				{
@@ -365,7 +372,7 @@
 					"source" : "LinkedList/InsertAtEnd",
 					"targetIndexes" : 
 					[
-						25
+						30
 					]
 				},
 				{
@@ -380,7 +387,7 @@
 					"source" : "LinkedList/DeleteFirstNode",
 					"targetIndexes" : 
 					[
-						9
+						13
 					]
 				},
 				{
@@ -395,7 +402,7 @@
 					"source" : "LinkedList/DeleteLastNode",
 					"targetIndexes" : 
 					[
-						14
+						18
 					]
 				},
 				{
@@ -410,7 +417,7 @@
 					"source" : "LinkedList/InsertAtAnyPos",
 					"targetIndexes" : 
 					[
-						20
+						25
 					]
 				},
 				{
@@ -425,7 +432,7 @@
 					"source" : "LinkedList/SearchInLL",
 					"targetIndexes" : 
 					[
-						50
+						57
 					]
 				},
 				{
@@ -440,7 +447,7 @@
 					"source" : "LinkedList/DoubleLL",
 					"targetIndexes" : 
 					[
-						15
+						19
 					]
 				},
 				{
@@ -455,7 +462,7 @@
 					"source" : "LinkedList/InsertAtBeginInDoubleLL",
 					"targetIndexes" : 
 					[
-						24
+						29
 					]
 				},
 				{
@@ -470,7 +477,7 @@
 					"source" : "LinkedList/InsertAtEndInDoubleLL",
 					"targetIndexes" : 
 					[
-						27
+						32
 					]
 				},
 				{
@@ -485,7 +492,7 @@
 					"source" : "LinkedList/ReverseADoubleLL",
 					"targetIndexes" : 
 					[
-						43
+						49
 					]
 				},
 				{
@@ -500,7 +507,7 @@
 					"source" : "LinkedList/DeleteHeadDDL",
 					"targetIndexes" : 
 					[
-						11
+						15
 					]
 				},
 				{
@@ -515,7 +522,7 @@
 					"source" : "LinkedList/DeleteLastDDL",
 					"targetIndexes" : 
 					[
-						13
+						17
 					]
 				},
 				{
@@ -530,7 +537,7 @@
 					"source" : "LinkedList/InsertAtAnyPosDDL",
 					"targetIndexes" : 
 					[
-						21
+						26
 					]
 				},
 				{
@@ -545,7 +552,7 @@
 					"source" : "LinkedList/RemoveDuplicateLL",
 					"targetIndexes" : 
 					[
-						42
+						48
 					]
 				},
 				{
@@ -560,7 +567,7 @@
 					"source" : "LinkedList/CircularLL",
 					"targetIndexes" : 
 					[
-						6
+						10
 					]
 				},
 				{
@@ -575,7 +582,7 @@
 					"source" : "LinkedList/InsertAtBeginCLL",
 					"targetIndexes" : 
 					[
-						23
+						28
 					]
 				},
 				{
@@ -590,7 +597,7 @@
 					"source" : "LinkedList/InsertAtEndCLL",
 					"targetIndexes" : 
 					[
-						26
+						31
 					]
 				},
 				{
@@ -605,7 +612,7 @@
 					"source" : "LinkedList/DeleteHeadCLL",
 					"targetIndexes" : 
 					[
-						10
+						14
 					]
 				},
 				{
@@ -620,7 +627,7 @@
 					"source" : "LinkedList/DeleteKthCLL",
 					"targetIndexes" : 
 					[
-						12
+						16
 					]
 				},
 				{
@@ -635,7 +642,7 @@
 					"source" : "LinkedList/CircularDoubleLL",
 					"targetIndexes" : 
 					[
-						5
+						9
 					]
 				},
 				{
@@ -650,7 +657,7 @@
 					"source" : "LinkedList/SortedInsertLL",
 					"targetIndexes" : 
 					[
-						53
+						60
 					]
 				},
 				{
@@ -665,7 +672,7 @@
 					"source" : "LinkedList/InsertMiddleLL",
 					"targetIndexes" : 
 					[
-						28
+						33
 					]
 				},
 				{
@@ -680,7 +687,7 @@
 					"source" : "LinkedList/NthNodeFromEnd",
 					"targetIndexes" : 
 					[
-						36
+						42
 					]
 				},
 				{
@@ -695,7 +702,7 @@
 					"source" : "LinkedList/ReverseIterativeLL",
 					"targetIndexes" : 
 					[
-						45
+						51
 					]
 				},
 				{
@@ -710,7 +717,7 @@
 					"source" : "LinkedList/MergeTwoSortedLL",
 					"targetIndexes" : 
 					[
-						35
+						41
 					]
 				},
 				{
@@ -725,7 +732,7 @@
 					"source" : "LinkedList/ReverseRecursive1LL",
 					"targetIndexes" : 
 					[
-						48
+						54
 					]
 				},
 				{
@@ -740,7 +747,7 @@
 					"source" : "LinkedList/ReverseRecursive2LL",
 					"targetIndexes" : 
 					[
-						49
+						55
 					]
 				},
 				{
@@ -755,7 +762,7 @@
 					"source" : "LinkedList/ReverseLLinGroup",
 					"targetIndexes" : 
 					[
-						46
+						52
 					]
 				},
 				{
@@ -770,7 +777,7 @@
 					"source" : "Stack/ArrayImplementation",
 					"targetIndexes" : 
 					[
-						0
+						1
 					]
 				},
 				{
@@ -785,7 +792,7 @@
 					"source" : "Stack/VectorImplementation",
 					"targetIndexes" : 
 					[
-						62
+						69
 					]
 				},
 				{
@@ -800,7 +807,7 @@
 					"source" : "Stack/LLImplementation",
 					"targetIndexes" : 
 					[
-						32
+						37
 					]
 				},
 				{
@@ -815,7 +822,7 @@
 					"source" : "Stack/StackTraversal",
 					"targetIndexes" : 
 					[
-						54
+						61
 					]
 				},
 				{
@@ -830,7 +837,7 @@
 					"source" : "Stack/BalancedParantheses",
 					"targetIndexes" : 
 					[
-						1
+						4
 					]
 				},
 				{
@@ -845,7 +852,7 @@
 					"source" : "Stack/ImplementTwoStack",
 					"targetIndexes" : 
 					[
-						18
+						23
 					]
 				},
 				{
@@ -860,7 +867,7 @@
 					"source" : "Queue/SimpleArrayImplementation",
 					"targetIndexes" : 
 					[
-						52
+						59
 					]
 				},
 				{
@@ -875,7 +882,7 @@
 					"source" : "Queue/CircularArrayImplementation",
 					"targetIndexes" : 
 					[
-						4
+						8
 					]
 				},
 				{
@@ -890,7 +897,7 @@
 					"source" : "Queue/LinkedListImplementation",
 					"targetIndexes" : 
 					[
-						34
+						40
 					]
 				},
 				{
@@ -905,7 +912,7 @@
 					"source" : "Queue/QueueTraversal",
 					"targetIndexes" : 
 					[
-						40
+						46
 					]
 				},
 				{
@@ -920,7 +927,7 @@
 					"source" : "Queue/StackUsingQueue",
 					"targetIndexes" : 
 					[
-						55
+						62
 					]
 				},
 				{
@@ -935,7 +942,7 @@
 					"source" : "Queue/ReverseIterative",
 					"targetIndexes" : 
 					[
-						44
+						50
 					]
 				},
 				{
@@ -950,7 +957,7 @@
 					"source" : "Queue/ReverseRecursive",
 					"targetIndexes" : 
 					[
-						47
+						53
 					]
 				},
 				{
@@ -965,7 +972,7 @@
 					"source" : "Deque/SimpleArrayImp",
 					"targetIndexes" : 
 					[
-						51
+						58
 					]
 				},
 				{
@@ -980,7 +987,7 @@
 					"source" : "Deque/CircularArrayImp",
 					"targetIndexes" : 
 					[
-						3
+						7
 					]
 				},
 				{
@@ -995,7 +1002,7 @@
 					"source" : "Deque/DSwithMinMaxOperations",
 					"targetIndexes" : 
 					[
-						8
+						12
 					]
 				},
 				{
@@ -1010,7 +1017,7 @@
 					"source" : "Deque/SubarrayKMax",
 					"targetIndexes" : 
 					[
-						57
+						64
 					]
 				},
 				{
@@ -1025,7 +1032,7 @@
 					"source" : "Deque/FirstCircularTour",
 					"targetIndexes" : 
 					[
-						16
+						20
 					]
 				},
 				{
@@ -1040,7 +1047,7 @@
 					"source" : "Tree/TreeMakingIntro",
 					"targetIndexes" : 
 					[
-						61
+						68
 					]
 				},
 				{
@@ -1055,7 +1062,7 @@
 					"source" : "Tree/InorderTraversal",
 					"targetIndexes" : 
 					[
-						19
+						24
 					]
 				},
 				{
@@ -1070,7 +1077,112 @@
 					"source" : "Tree/PreorderTraversal",
 					"targetIndexes" : 
 					[
-						39
+						45
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Tree/HeightOfTree/HeightOfTreeImpOutput",
+					"jsonFile" : "directory-Tree.HeightOfTree-Debug-a67201ec9e524a01758f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Tree/HeightOfTree",
+					"targetIndexes" : 
+					[
+						22
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Tree/LeftView/LeftViewOutput",
+					"jsonFile" : "directory-Tree.LeftView-Debug-3134d624188deaed4fe3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Tree/LeftView",
+					"targetIndexes" : 
+					[
+						38
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Tree/RightView/RightViewOutput",
+					"jsonFile" : "directory-Tree.RightView-Debug-1c032445650b6cb32fc8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Tree/RightView",
+					"targetIndexes" : 
+					[
+						56
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Tree/CheckBalanced/CheckBalancedOutput",
+					"jsonFile" : "directory-Tree.CheckBalanced-Debug-072aac19500b56b57dd4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Tree/CheckBalanced",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Graph/AdjacencyList/AdjacencyListOutput",
+					"jsonFile" : "directory-Graph.AdjacencyList-Debug-0cd5efb0241bf1db0ce1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Graph/AdjacencyList",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Graph/BFS1/BFS1Output",
+					"jsonFile" : "directory-Graph.BFS1-Debug-3c7e6946651f6d39a0b1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Graph/BFS1",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "D:/ClionProjects/DSA/Graph/BFS2/BFS2Output",
+					"jsonFile" : "directory-Graph.BFS2-Debug-b390aab35b75b82a28c5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Graph/BFS2",
+					"targetIndexes" : 
+					[
+						3
 					]
 				}
 			],
@@ -1146,7 +1258,14 @@
 						63,
 						64,
 						65,
-						66
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73
 					],
 					"name" : "DSA",
 					"targetIndexes" : 
@@ -1216,17 +1335,45 @@
 						62,
 						63,
 						64,
-						65
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72
 					]
 				}
 			],
 			"targets" : 
 			[
 				{
+					"directoryIndex" : 71,
+					"id" : "AdjacencyList::@683a8336c7465a760e76",
+					"jsonFile" : "target-AdjacencyList-Debug-478ba7f4dca19eee17ba.json",
+					"name" : "AdjacencyList",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 46,
 					"id" : "ArrayImplementation::@d77536118b2763e7cc63",
 					"jsonFile" : "target-ArrayImplementation-Debug-af1efe238345783500c9.json",
 					"name" : "ArrayImplementation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 72,
+					"id" : "BFS1::@5477c44f5b1ca9a476eb",
+					"jsonFile" : "target-BFS1-Debug-bb313b57e0fa5bdd84d5.json",
+					"name" : "BFS1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 73,
+					"id" : "BFS2::@236eaf4ac42231d7918d",
+					"jsonFile" : "target-BFS2-Debug-ca54b321b362a4af5e6c.json",
+					"name" : "BFS2",
 					"projectIndex" : 0
 				},
 				{
@@ -1241,6 +1388,13 @@
 					"id" : "CheckAnagram::@8d392590aabceeae9bcb",
 					"jsonFile" : "target-CheckAnagram-Debug-21a4ca0d6389d106d946.json",
 					"name" : "CheckAnagram",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 70,
+					"id" : "CheckBalanced::@5dd95d802b01e88de977",
+					"jsonFile" : "target-CheckBalanced-Debug-63967488b8e3e4407927.json",
+					"name" : "CheckBalanced",
 					"projectIndex" : 0
 				},
 				{
@@ -1349,6 +1503,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 67,
+					"id" : "HeightOfTree::@257bd62a12ecf1148e0e",
+					"jsonFile" : "target-HeightOfTree-Debug-2dfee4f1bcd7fcb83e4c.json",
+					"name" : "HeightOfTree",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 51,
 					"id" : "ImplementTwoStack::@0ce14f57b74415fe0e91",
 					"jsonFile" : "target-ImplementTwoStack-Debug-c40f95c4df04aa0ee237.json",
@@ -1451,6 +1612,13 @@
 					"id" : "LLImplementation::@784b392a02d69c8ad5da",
 					"jsonFile" : "target-LLImplementation-Debug-644ac59fcac49cfef1e1.json",
 					"name" : "LLImplementation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 68,
+					"id" : "LeftView::@e484baa61b1b74661a15",
+					"jsonFile" : "target-LeftView-Debug-e2712f1e8ee4aef86f23.json",
+					"name" : "LeftView",
 					"projectIndex" : 0
 				},
 				{
@@ -1570,6 +1738,13 @@
 					"id" : "ReverseRecursive2LL::@2cd890f58af71f4bd404",
 					"jsonFile" : "target-ReverseRecursive2LL-Debug-4a596b746c347488350c.json",
 					"name" : "ReverseRecursive2LL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 69,
+					"id" : "RightView::@db08ca29cc66ddcec094",
+					"jsonFile" : "target-RightView-Debug-90447c211d2eda452467.json",
+					"name" : "RightView",
 					"projectIndex" : 0
 				},
 				{
